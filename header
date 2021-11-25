@@ -1,0 +1,8 @@
+---
+header-includes:
+  - |
+    ````{=latex}
+    \usepackage{microtype}
+    ````
+  - '`\usepackage{libertine}`{=latex}'
+---
