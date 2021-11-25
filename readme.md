@@ -1,9 +1,9 @@
 # Mañjuśrīnāmasaṅgīti
 
 ## Introduction 
-This repository contains a translation of the *Nāmasaṅgīti* by Ryan Conlon and Stefan Mang and other related materials.
+This repository contains a translation of the *Nāmasaṅgīti* by Ryan Conlon and Stefan Mang, accompanied by some other related materials.
 We have been preparing this translation in the hope of making it available on the [Lotsawa House](https://www.lotsawahouse.org/) website.
-Our work is still very much in draft form; however, even after its completion/publication, we intend maintain this repository (1) for the sake of version control (i.e., tracking changes); (2) to store collations, transcriptions, and analysis of relevant textual materials; and (3) to have a stable and publicly accessible location to share information and receive feedback. 
+Our work is still very much in draft form; but even after its completion/publication, we intend maintain this repository (1) for the sake of version control (i.e., tracking changes); (2) to store collations, transcriptions, and analysis of relevant textual materials; and (3) to have a stable and publicly accessible location to share information and receive feedback. 
 
 We are aware of at least six previously published English translation of the complete *Nāmasaṅgīti*, as well as one partial translation. 
 These translations are already fine achievements in their own right; nevertheless, we hope our present effort can be seen as offering two modest but unique features: 
@@ -48,10 +48,12 @@ Thus, in the files 'multi_lingual', you will find the following:
 * The English translation and notes that will appear in the published translation.
 * Various notes about textual witnesses, interpretations, and translation choices. 
 
+Note that view the '.md' files will probably be the easiest way to access the material, as the PDF version still have various formatting issues.
+
 ## Vilāśavajra's commentary
-The transcription of Vilāsavajra's commentary is based on Tribe 2016 as well as a manuscript now located in the Cambridge University Library.
+The transcription of Vilāsavajra's commentary is based on Tribe 2016 and a manuscript now located in the Cambridge University Library.
 The transcription is not complete.
-Some parts are completely unchecked and entered extremely hastily.
+Some parts are completely unchecked and entered extremely hastily, so use at your own risk!
 We will try to improve it eventually.
 
 
@@ -63,7 +65,7 @@ We will try to improve it eventually.
 * Copy edit/improve verses with rough metre
 
 ## Acknowledgements
-We are grateful to Prof. Harunaga Isaacson, Dr. Anthony Tribe, and Nicola Bajetta for assisting us by sharing materials and/or addressing our doubts. 
+We are very grateful to Prof. Harunaga Isaacson, Dr. Anthony Tribe, and Nicola Bajetta for kindly sharing materials and/or helping with out points of doubt. 
 
 ## Suggestions
 We welcome suggestions!
