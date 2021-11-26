@@ -5,7 +5,7 @@ This repository contains a translation of the *Nāmasaṅgīti* by Ryan Conlon a
 We have been preparing this translation in the hope of making it available on the [Lotsawa House](https://www.lotsawahouse.org/) website.
 Our work is still very much in draft form; but even after its completion/publication, we intend maintain this repository (1) for the sake of version control (i.e., tracking changes); (2) to store collations, transcriptions, and analysis of relevant textual materials; and (3) to have a stable and publicly accessible location to share information and receive feedback. 
 
-We are aware of at least six previously published English translation of the complete *Nāmasaṅgīti*, as well as one partial translation. 
+We are aware of at least six previously published complete translation of the *Nāmasaṅgīti* into English, as well as one partial translation. 
 These translations are already fine achievements in their own right; nevertheless, we hope our present effort can be seen as offering two modest but unique features: 
 
 * Our translation has been composed in blank verse. This, we hope, should facilitate its recitation aloud, and provide some pleasure to those who enjoy metrical English verse.
@@ -17,12 +17,12 @@ Our primary aim here is offer a translation of the *Nāmasaṅgīti* to the Engl
 There are multiple Tibetan translations of the Nāmasaṅgīti, the two most widely available of which being one produced by bLo gros brtan pa (1276–1342) that is included in recensions of the Kangyur; and another, sometimes ascribed to Rin chen bzang po (958–1055), that is found embedded within commentaries in the bsTan 'gyur, in the rNying ma rgyud 'bum, in indigenous Tibetan commentaries, and in the majority of Tibetan prayer collections.
 Since the latter translation is most commonly used in prayer by contemporary practitioners of Tibetan Buddhism, we use it as the basis for the present translation.
 However, we have not made this translation *from Tibetan*; it is, instead, a translation from Sanskrit.
-We have simply used the ancient translation as the primary means for ascertaining readings and interpretation of the Sanskrit text.
+We have simply used the ancient translation as the primary means for interpreting and ascertaining readings of the Sanskrit text.
 
 To this we must make a few further qualifications:
-The ancient translation—having many available witnesses but, to our knowledge, no single exemplary witness or edition—itself has a significant number of variants that should be take into consideration.
+The ancient translation—having many available witnesses but, to our knowledge, no single exemplary witness or edition—itself has a significant number of variants that should be taken into consideration.
 We have not been able to critically establish the text of the ancient translation, which would be extremely difficult; instead, we have mostly relied on one witness embedded in Vimalamitra's commentary on the *Nāmasaṅgīti*, a witness in a printing of the rNying ma rgyud 'bum, and a witness found in a modern prayer book.
-On occasion, we have emended of proposed conjectures to the ancient translation based on other factors, such as the Sanskrit text or the Kangyur translation.
+On occasion, we have emended or proposed conjectures to the ancient translation based on other factors, such as the Sanskrit text or the Kangyur translation.
 
 Second, while the ancient translation does provide some help in unpacking the many compound words found throughout the *Nāmasaṅgīti*, more often than not it gives no explicit guidance.
 Thus, as a secondary authority, we have thoroughly consulted the commentary of Vilāsavajra.
@@ -38,8 +38,8 @@ Vilāsavajra provides a precise enumeration of how many names are in each chapte
 
 ## Presentation
 Most of the textual considerations behind our translation are probably of little interest to its readers. 
-Therefore, the files marked 'english_only' contain only the translation with a minimal amount of annotations.
-But we also aspire to make our work as transparent as possible, and we also suspect that there may be at least a few people who are indeed interested in the details.
+Therefore, the files marked 'english_only' contain the translation with only a minimal amount of annotation.
+But we also aspire to make our work as transparent as possible, and we suspect that there may be at least a few people who are indeed interested in the details.
 Thus, in the files 'multi_lingual', you will find the following:
 
 * The Sanskrit text based on a collation of Davidson's edition and our reading of Vilāsavajra's commentary.
@@ -48,7 +48,7 @@ Thus, in the files 'multi_lingual', you will find the following:
 * The English translation and notes that will appear in the published translation.
 * Various notes about textual witnesses, interpretations, and translation choices. 
 
-Note that view the '.md' files will probably be the easiest way to access the material, as the PDF version still have various formatting issues.
+Note that viewing the '.md' files will probably be the easiest way to access the material, as the PDF version still have various formatting issues.
 
 ## Vilāsavajra's commentary
 The transcription of Vilāsavajra's commentary is based on Tribe 2016 and a manuscript now located in the Cambridge University Library.
@@ -65,7 +65,7 @@ We will try to improve it eventually.
 * Copy edit/improve verses with rough metre
 
 ## Acknowledgements
-We are very grateful to Prof. Harunaga Isaacson, Dr. Anthony Tribe, and Nicola Bajetta for kindly sharing materials and/or helping with out points of doubt. 
+We are very grateful to Prof. Harunaga Isaacson, Dr. Anthony Tribe, and Nicola Bajetta for kindly sharing materials and/or helping with our points of doubt. 
 
 ## Suggestions
 We welcome suggestions!
