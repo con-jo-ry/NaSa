@@ -9,7 +9,7 @@ We are aware of at least six previously published English translation of the com
 These translations are already fine achievements in their own right; nevertheless, we hope our present effort can be seen as offering two modest but unique features: 
 
 * Our translation has been composed in blank verse. This, we hope, should facilitate its recitation aloud, and provide some pleasure to those who enjoy metrical English verse.
-* We have managed to carry out a certain amount of textual research in producing the present translation. Specifically, we have systematically compared two Tibetan translations of the text, and we have read the Sanskrit text along with the entirety of Vilāśavajra's commentary in Sanskrit (both the published and unpublished portions). 
+* We have managed to carry out a certain amount of textual research in producing the present translation. Specifically, we have systematically compared two Tibetan translations of the text, and we have read the Sanskrit text along with the entirety of Vilāsavajra's commentary in Sanskrit (both the published and unpublished portions). 
 
 
 ## Methodology
@@ -25,7 +25,7 @@ We have not been able to critically establish the text of the ancient translatio
 On occasion, we have emended of proposed conjectures to the ancient translation based on other factors, such as the Sanskrit text or the Kangyur translation.
 
 Second, while the ancient translation does provide some help in unpacking the many compound words found throughout the *Nāmasaṅgīti*, more often than not it gives no explicit guidance.
-Thus, as a secondary authority, we have thoroughly consulted the commentary of Vilāśavajra.
+Thus, as a secondary authority, we have thoroughly consulted the commentary of Vilāsavajra.
 We generally follow Vilāsavajra's lead in analysing compounds, except when his interpretation feels strained or excessively creative, or when the ancient translation offers a clear and viable alternative.
 
 Third, there are at least a few occasions where we have simply overruled the text of the ancient translation.
@@ -42,7 +42,7 @@ Therefore, the files marked 'english_only' contain only the translation with a m
 But we also aspire to make our work as transparent as possible, and we also suspect that there may be at least a few people who are indeed interested in the details.
 Thus, in the files 'multi_lingual', you will find the following:
 
-* The Sanskrit text based on a collation of Davidson's edition and our reading of Vilāśavajra's commentary.
+* The Sanskrit text based on a collation of Davidson's edition and our reading of Vilāsavajra's commentary.
 * The Tibetan translation of bLo gros brtan pa, which we call the 'Kangyur translation'.
 * The Tibetan translation extracted from Vimalamitra's commentary, which we call the 'ancient translation'.
 * The English translation and notes that will appear in the published translation.
@@ -50,7 +50,7 @@ Thus, in the files 'multi_lingual', you will find the following:
 
 Note that view the '.md' files will probably be the easiest way to access the material, as the PDF version still have various formatting issues.
 
-## Vilāśavajra's commentary
+## Vilāsavajra's commentary
 The transcription of Vilāsavajra's commentary is based on Tribe 2016 and a manuscript now located in the Cambridge University Library.
 The transcription is not complete.
 Some parts are completely unchecked and entered extremely hastily, so use at your own risk!
