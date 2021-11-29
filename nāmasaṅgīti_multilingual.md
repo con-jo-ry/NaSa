@@ -84,7 +84,7 @@ Over and over again with his two hands— (2)
 > khro gnyer ldan pa'i rlabs la sogs/ /  
 > lag na rdo rje mtha' yas pa/ /  
 > dpa' bo gdul dka' 'dul ba po/ /  
-> dpa' bo 'jigs rung gzugs can dang/ / (3)  
+> dpa' bo 'jigs rung gzugs can dang/ /  
   
 > khro gnyer rim par ldan la sogs/ /  
 > lag na rdo rje mtha' yas pa/ /  
@@ -106,12 +106,12 @@ Appearing with heroic, hideous forms, (3)
 > rdo rje rtse mo rab 'phro ba/ /  
 > rang gi lag gis gsor byed pa/ /  
 > shes rab thabs dang snying rje che/ /  
-> 'gro don byed pa rnams kyi mchog / (4)  
+> 'gro don byed pa rnams kyi mchog /  
   
 > rdo rje rtse mo rab 'phro ba/ /  
 > rang gi lag gis gsor byed pa/ /  
 > snying rje che dang shes rab dang/ /  
-> thabs kyis 'gro don byed pa'i mchog / (4)  
+> thabs kyis 'gro don byed pa'i mchog /  
 >> 	thabs kyis] VM; thabs kyi NG  
   
 And shaking in their hands their great vajras,  
@@ -137,7 +137,7 @@ Through skill, through insight, and through great compassion, (4)
 With pleased and happy attitudes, joyful,  
 Their bodies those of wrathful deities,  
 Protectors who assist the buddhas' deeds,  
-Bowing their bodies reverentially— (5)  
+Bowing their bodies reverentially—(5)  
   
   
 > [ed-d p. 50] praṇamya nāthaṃ saṃbuddhaṃ bhagavantaṃ tathāgatam |  
@@ -155,9 +155,9 @@ Bowing their bodies reverentially— (5)
 > spyan sngar 'dug ste 'di skad gsol/ /   
 >> 	'dug ste] VM; 'dug te NG  
   
-Paid homage to the fully awakened one,   
+Paid homage to the fully awakened one,  
 The blessed one, protector, *tathāgata*.  
-And pressing together the palms of his hands,  
+And joining his two palms respectfully,   
 He said before the Lord the following: (6)  
   
 * 6b, *nātha*: This word (*nātha*/ *mgon po*) is missing from the ancient Tibetan translation. One reason for this may be that the translators could not smoothly fit the word into the verse while preserving the metre. It is extremely unlikely that this represents a viable variant reading of the Sanskrit text.  
@@ -181,11 +181,11 @@ He said before the Lord the following: (6)
   
 'O omnipresent lord, for my benefit,  
 Out of concern for me and for my sake,  
-That I may reach perfect awakening   
+That I may reach complete awakening  
 According to the Net of Illusion;[^7-1] (7)  
   
-[^7-1]: The Net of Illusion can be understood as a proper name refering to the *Māyājālatantra* and the tantric system presented therein. Various esoteric and non-esoteric glosses of this name are possible: here, Vimalamitra states that the word hints at the unity of a special form of insight and means.  
- 
+[^7-1]: The Net of Illusion can be understood as a proper name referring to the *Māyājālatantra* and the tantric system presented therein. Various esoteric and non-esoteric glosses of this name are possible: for example, Vimalamitra states that the word hints at the unity of a special form of insight and means.  
+  
 * 7: Tib. perhaps gives the sense of 'O omnipresent lord, allow me to attain'. Sanskrit, more literally, reads, '[teach me] how to become one attains the awakening'.  
   
   
@@ -196,7 +196,7 @@ According to the Net of Illusion;[^7-1] (7)
 > nyon mongs pas ni sems dkrugs shing/ /  
 > mi shes 'dam du bying ba yi/ /  
 > sems can kun la sman pa dang/ /  
-> bla med 'bras bu thob bya'i phyir/ / (8)  
+> bla med 'bras bu thob bya'i phyir/ /  
   
 > nyon mongs pas ni sems dkrugs shing/ /  
 > mi shes 'dam du bying ba yi/ /  
@@ -206,15 +206,15 @@ According to the Net of Illusion;[^7-1] (7)
 >> 	8b] after this quarter NG inserts: bcom ldan 'das kyi ye shes sku/ /  
    
 And for the sake of every living being—  
-Their ignorance sinking them in the mud,  
+Their ignorance submerging them in the mud,  
 Their thoughts disturbed by various afflictions—  
 So that they may obtain the highest fruit, (8) 
   
-* 8a, *ajñānapaṅkamagna*: Vilāsavajra analyses this compound as meaning 'sunk into mud-like ignorance'. Both Tibetan translations indicate that ignorance is the agent the causes sinking into the mud.   
+* 8a, *ajñānapaṅkamagna*: Vilāsavajra analyses this compound as meaning 'sunk into mud-like ignorance'. Both Tibetan translations indicate that ignorance is the agent that causes sinking into the mud.   
   
   
 > prakāśayatu saṃbuddho bhagavāṃ śāstā jagadguruḥ |  
-> mahāsamayatattvajña indriyāśayavit paraḥ || 9 ||	  
+> mahāsamayatattvajña indriyāśayavit paraḥ || 9 ||	 
   
 > bcom ldan ston pa rdzogs sangs rgyas/ /  
 > 'gro ba'i bla mas bshad du gsol/ /  
@@ -227,9 +227,9 @@ So that they may obtain the highest fruit, (8)
 > dbang po bsam pa mkhyen mchog gis/ /  
   
 May you—the most supreme awakened one,  
-The blessed one, the world's guru, teacher,   
+The blessed one, the world's guru, teacher,  
 Who knows the great *samaya*'s reality,  
-Aware of wishes and abilities— (9)  
+Aware of wishes and abilities—(9)  
   
 * 9d, paraḥ/mchog: We have moved this to the first line in our translation because it didn't fit anywhere else.    
  
@@ -265,7 +265,7 @@ The wisdom deity called Mañjuśrī; (10)
 > don zab don ni rgya che zhing/ /  
 > don chen mtshungs med rab zhi ba/ /  
 > thog ma bar dang mthar dge ba/ /  
-> mtshan yang dag par brjod pa mchog /   
+> mtshan yang dag par brjod pa mchog /  
   
 > ming ni yang dag brjod pa'i mchog /  
 > don zab don ni rgya che zhing / /  
@@ -285,7 +285,7 @@ With goodness at their start, middle, and end; (11)
 > 'das pa'i sangs rgyas rnams kyis gsungs/ /  
 > ma 'ongs rnams kyang gsung 'gyur la/ /  
 > da ltar byung ba'i rdzogs sangs rgyas/ /  
-> gang yang yang yang gsungs pa gang/ /   
+> gang yang yang yang gsungs pa gang/ /  
   
 > 'das pa'i sangs rgyas rnams kyis gsungs/ /  
 > ma 'ongs rnams kyang gsung 'gyur la/ /  
@@ -295,14 +295,14 @@ With goodness at their start, middle, and end; (11)
   
 Which by the buddhas of the past were taught,  
 And will be taught again by those to come;  
-And which today's fully awakened ones   
+And which today's fully awakened ones  
 Proclaim not once but many times over; (12)  
   
   
 > māyājālamahātantre yā cāsmin saṃpragīyate |  
 > mahāvajradharair hṛṣṭair ameyair mantradhāribhiḥ || 13 ||  
 >> 	% cāsmiṃ ed-d  
-   
+  
 > rgyud chen rgyu 'phrul dra ba 'dir/ /  
 > rdo rje 'chang chen gsang sngags 'chang/ /  
 > dpag med rnams kyis dgyes pa yis/ /  
@@ -343,10 +343,10 @@ Joyous upholders of the secret mantra. (!3)
 >> 	14c bar du di] VM; bad du ni NG  
 >> 	14d bstan pos] VM; brtan pa'i NG  
   
-And this I will uphold with firm resolve,  
+And this I shall uphold with firm resolve,  
 Until I reach my final liberation,  
-So that I may become, O protector,  
-Upholder of all secrets of the buddhas; (14)  
+So that I may become, O great protector,  
+Upholder of the buddhas' every secret; (14)  
   
   
 > prakāśayiṣye sattvānāṃ yathāśayaviśeṣataḥ |  
@@ -355,7 +355,7 @@ Upholder of all secrets of the buddhas; (14)
 > nyon mongs ma lus bsal ba dang/ /  
 > mi shes ma lus spang ba'i phyir/ /  
 > sems can rnams kyi bsam pa yi/ /  
-> khyad par ji bzhin rab bshad 'tshal/ / (15)  
+> khyad par ji bzhin rab bshad 'tshal/ /  
   
 > nyon mongs ma lus bsal ba dang / /  
 > mi shes ma lus spangs pa'i phyir/ /  
@@ -381,7 +381,7 @@ According to their unique dispositions.' (15)
 > gsang dbang lag na rdo rje yis/ /  
 > de bzhin gshegs la de skad du/ /  
 > gsol nas thal mo sbyar byas te/ /  
-> lus btud nas ni spyan sngar 'dug  /  
+> lus btud nas ni spyan sngar 'dug /  
   
 Thus supplicating the *tathāgata*,  
 Vajrapāṇi, the master of secrets,  
@@ -390,9 +390,9 @@ Stood with his body bowed before the lord. (16)
   
   
 > adhyeṣaṇāgāthāḥ ṣoḍaśa  
-
+  
 > gsol ba 'debs pa'i tshigs su bcad pa bcu drug go// //  
-
+  
 > zhus pa'i le'u ste dang po'o// //  
 >>		% Following this, only VM is collated for some verses  
   
@@ -408,17 +408,17 @@ This concludes the sixteen verses showing the request.
 > de nas bcom ldan shAkya thub/ /  
 > rdzogs pa'i sangs rgyas rkang gnyis mchog /  
 > nyid kyi zhal nas ljags bzang dge/ /  
-> ring zhing yangs pa brkyang mdzad de/ / (17)  
+> ring zhing yangs pa brkyang mdzad de/ /  
   
 > de nas bcom ldan shAkya thub/ /  
 > rdzogs pa'i sangs rgyas rkang gnyis mchog /  
 > nyid kyi zhal nas ljags bzang ba/ /  
-> ring zhing yangs pa brkyang mdzad de/ / (17)  
+> ring zhing yangs pa brkyang mdzad de/ /  
   
 And then Śākyamuni, the Blessed One,  
-Fully awakened one, the best of men,  
-Extending from his mouth his handsome tongue,   
-A tongue that is so great in breadth and length, (17)  
+The fully awakened one, the best of men,  
+Extending from his mouth his handsome tongue,  
+A tongue that is unmatched in breadth and length, (17)  
   
   
 > smitaṃ saṃdarśya lokānām apāyatrayaśodhanam |  
@@ -428,20 +428,20 @@ A tongue that is so great in breadth and length, (17)
 > 'jig rten gsum po snang byed cing/ /  
 > bdud bzhi'i dgra rnams 'dul byed pa/ /  
 > 'jig rten rnams kyi ngan song gsum/ /  
-> sbyong bar byed pa'i 'dzum bstan nas/ / (18)  
+> sbyong bar byed pa'i 'dzum bstan nas/ /  
   
 > 'jig rten gsum po snang mdzad cing/ /  
 > bdud bzhi'i dgra rnams 'dul mdzad pa/ /  
 > sems can rnams kyi ngan song gsum/ /  
-> sbyong bar byed pa'i 'dzum bstan nas/ / (18)  
+> sbyong bar byed pa'i 'dzum bstan nas/ /  
   
 And gracing living beings by showing his smile—  
 A smile that fills the threefold world with light;  
-Subduing enemies, the four Māras;   
-Dispelling all three types of bad rebirth— (18)  
+Subduing enemies, the four Māras;  
+Dispelling all three types of bad rebirth—(18)  
   
 * The Tibetan translation here illustrates well its tendency to invert syntactic structures needlessly (or so it would appear). It also appears that the Tibetan translators connect *lokānām* with the compounded *apāya*, whereas a more natural reading of the Sanskrit is probably to take *lokānāṃ* as the object (in the sense of the recipient) of *saṃ-√dṛś*. Either way, logically both are the case: it is to sentient beings that the Buddha shows his smile, and it is their bad rebirths that he purifies; so no matter how one translates, the difference is not substantial.  
-   
+  
   
 > [ed-d 51] trilokam āpūrayantyā brāhmyā madhurayā girā |  
 > pratyabhāṣata guhyendraṃ vajrapāṇiṃ mahābalam || 19 ||  
@@ -460,7 +460,7 @@ Dispelling all three types of bad rebirth— (18)
 With his mellifluous, Brahmā-like voice,  
 Resounding to the ends of all three worlds,  
 Replied as follows to Vajrapāṇi,  
-The ever powerful master of secrets: (19)  
+The master of secrets, most powerful: (19)  
   
   
 > sādhu vajradhara śrīmān sādhu te vajrapāṇaye |  
@@ -481,7 +481,7 @@ The ever powerful master of secrets: (19)
 "That you, in being suffused with great compassion  
 And aiming to assist all living beings,  
 Are willing and prepare to hear from me  
-The chanting of the names, so filled with meaning, (20) 
+The chanting of the names, so filled with meaning, (20)  
   
 * mahākaruṇayānvitaḥ is interpreted in the ancient translation as hetugarbha and we also attempt to reflect this is English. Tribe 2016: 317 interprets 'gyur pas' as possible evidence of the reading 'yas' instead of 'yat' in an alternate Sanskrit recension, but this does not seem like a very natural way to explain the structure of the ancient translation or such an alternate Sanskrit reading.  
   
@@ -504,7 +504,7 @@ The chanting of the names, so filled with meaning, (20)
 Of Mañjuśrī's wisdom embodiment—  
 Chanting which purifies and quells evil—  
 That is most excellent, Vajradhara;  
-Most excellent of you, Vajrapāṇi! (21)   
+Most excellent of you, Vajrapāṇi! (21)  
   
   
 > tat sādhu deśayāmy eṣa ahaṃ te guhyakādhipa |  
@@ -515,7 +515,7 @@ Most excellent of you, Vajrapāṇi! (21)
 > gsang ba'i bdag po khyod legs so/ /  
 > de phyir 'di ni ngas bshad bya/ /  
 > khyod ni rtse gcig yid kyis nyon/ /  
-> bcom ldan de ni legs zhes gsol/ / (22)  
+> bcom ldan de ni legs zhes gsol/ /  
 > lan gyi gsung tshigs su bcad pa drug go// //  
   
 > gsang ba'i bdag po de phyir nges/ /  
@@ -523,11 +523,11 @@ Most excellent of you, Vajrapāṇi! (21)
 > khyod ni rtse gcig yid kyis nyon/ /  
 > bcom ldan de ni legs zhes gsol/ /  
   
-And so I shall, O master of secrets,   
+And so I shall, O master of secrets,  
 Teach this to you in a way most excellent.  
 Listen to it with single-minded focus.'  
 Then Vajrapāṇi replied, 'How excellent!  
-That is most excellent, O blessed one.' (23)   
+That is most excellent, O blessed one.' (23)  
   
 This concludes the six verses showing the reply.  
   
@@ -548,12 +548,12 @@ This concludes the six verses showing the reply.
 > de nas bcom ldan shAkya thub/ /  
 > gsang sngags mtha' dag rigs chen po/ /  
 > gsang sngags rig pa 'chang ba'i rigs/ /  
-> rigs gsum la ni rnam par gzigs/ / (23)  
+> rigs gsum la ni rnam par gzigs/ /  
   
 > de nas bcom ldan shAkya thub/ /  
 > gsang sngags rigs chen thams cad dang/ /  
 > gsang sngags rig sngags 'chang ba'i rigs/ /  
-> rigs gsum la ni rnam par gzigs/ / (23)  
+> rigs gsum la ni rnam par gzigs/ /  
   
 And then Śākyamuni, the Blessed One—  
 Surveyed the whole great family of mantras,   
@@ -568,7 +568,7 @@ The family that by nature is threefold, (23)
 > 'jig rten 'jig rten 'das pa'i rigs/ /  
 > 'jig rten snang byed rigs chen dang/ /  
 > phyag rgya chen po'i rigs mchog dang/ /  
-> gtsug tor chen po'i rigs chen no/ / (24)  
+> gtsug tor chen po'i rigs chen no/ /  
 > rigs drug la gzigs pa'i tshigs su bcad pa gnyis so// //  
   
 > 'jig rten 'jig rten 'das pa'i rigs/ /  
@@ -580,47 +580,48 @@ The family that's mundane and supramundane,
 The great family of brightening the world,   
 The excellent *mahāmudrā* family,   
 And the great family of the great uṣṇīṣa. (24)  
+! 24d could be improved  
   
 This concludes the two verses showing the survey of the six families.  
-
-
-## 4. The stage of awakening according to the Net of Illusion  
+  
+  
+## 4. The stages of awakening according to the Net of Illusion  
 > imāṃ ṣaḍmantrarājānasaṃyuktāṃ advayodayām |  
 > anutpādadharmiṇīṃ gāthāṃ bhāṣate sma girāṃ pateḥ || 25 ||  
->> 	ṣaṇmantrarājānasaṃyuktāṃ] ed-t; ṣaḍmantrarājānaṃ saṃyuktāṃ ed-d   
+>> 	ṣaṇmantrarājānasaṃyuktāṃ] ed-t; ṣaḍmantrarājānaṃ saṃyuktāṃ ed-d  
 >> 	% advayodayāṃ ed-d  
   
 > gsang sngags rgyal [3r] po drug ldan zhing/ /  
 > gnyis su med par 'byung ba dang/ /  
 > skye ba med pa'i chos can 'di/ /  
-> tshig gi bdag pos tshigs bcad gsungs/ / (25)  
+> tshig gi bdag pos tshigs bcad gsungs/ /  
   
 > tshig gi bdag pos tshigs su bcad/ /  
 > gsang sngags rgyal po drug ldan zhing/ /  
 > gnyis su med par 'byung ba dang/ /  
 > mi skye chos can 'di gsungs pa/ /  
-
+  
 And then, about the lord of speech,[^25-1] he spoke  
 These verses, which include six kingly mantras,[^25-2]  
 Which manifest from non-duality,  
 Which bear the qualities of non-arising: (25)  
   
-[^25-1]: Vimalamitra, as well as the witnesses we have consulted of the Nāmasaṅgīti's Tibetan translations, indicates that 'the lord of speech' is the Buddha: i.e., 'the Buddha, the lord of speech, spoke these verses'. Vilāsavajra and the Sanskrit witnesses of the Nāmasaṅgīti, however, indicate that 'the lord of speech' refers to Mañjuśrī. The latter reading and interpretation are, in our opinion, preferrable on the grounds of grammar and sense, and we therefore reflect it in our English translation.   
+[^25-1]: Vimalamitra, as well as the witnesses we have consulted of the *Nāmasaṅgīti*'s Tibetan translations, indicates that 'the lord of speech' is the Buddha: i.e., 'the Buddha, the lord of speech, spoke these verses'. Vilāsavajra and the Sanskrit witnesses of the Nāmasaṅgīti, however, indicate that 'the lord of speech' refers to Mañjuśrī. The latter reading and interpretation are, in our opinion, preferable on the grounds of grammar and sense, and we therefore reflect it in our English translation.   
 [^25-2]: The six mantra are expressed in verse 27.  
   
-* There is a slight possibility a Sanskrit witness reads *girāṃ patiḥ*, but Vilāśavajra's clearly reads *pateḥ*. It seems more likely that the Tibetan translation was corrupted from *tshig gi bdag po'i* to *tshig gi bdag pos*. The latter, in any case, is unnatural Tibetan: if this were intended as a qualification of the Buddha, it should, based on the norms of Tibetan syntax, occur alongside *bcom 'dan shAkya thub* in the earlier verse. VM interpretation is further evidence that he almost certainly did not refer to a Sanskrit text in composing his commentary.   
+* There is a slight possibility a Sanskrit witness reads *girāṃ patiḥ*, but Vilāśavajra's clearly reads *pateḥ*. It seems more likely that the Tibetan translation was corrupted from *tshig gi bdag po'i* to *tshig gi bdag pos*. The latter, in any case, is unnatural Tibetan: if this were intended as a qualification of the Buddha, it should, based on the norms of Tibetan syntax, occur alongside *bcom 'dan shAkya thub* in the earlier verse. VM interpretation is further evidence that he almost certainly did not refer to a Sanskrit text in composing his commentary.  
   
   
 > a ā i ī u ū e ai o au aṃ aḥ sthito hṛdi |  
 > jñānamūrtir ahaṃ buddho buddhānāṃ tryadhvavartinām || 26 ||  
-   
-> a A/ i I/ u U/ e ai/ o au/ aM aH/ s+thi to hr-i di/ dz+nyAnamU rtir ha~M bud+d+ho bud+d+hA nA~M/ t+r+yad+h+wabrtI nAM/   
+  
+> a A/ i I/ u U/ e ai/ o au/ aM aH/ s+thi to hr-i di/ dz+nyAnamU rtir ha~M bud+d+ho bud+d+hA nA~M/ t+r+yad+h+wabrtI nAM/  
   
 > n/a  
   
-*a ā i ī u ū e ai* 
-*o au aṃ aḥ sthito hṛdi*| 
-*jñāna-mūrtir ahaṃ buddho* 
+*a ā i ī u ū e ai*   
+*o au aṃ aḥ sthito hṛdi*|  
+*jñāna-mūrtir ahaṃ buddho*   
 *buddhānāṃ trya-dhva-vartinām* ||[^26-1] (26)  
   
 [^26-1]: This mantra can be translated as follows: *a ā i ī u ū e ai o au aṃ aḥ*—I, the Buddha, located in the heart, am the wisdom body of all buddhas of the past, present, and future.  
@@ -633,16 +634,14 @@ Which bear the qualities of non-arising: (25)
 >> māyājālābhisaṃbodhikramagāthās tisraḥ ||  
 >> 	ed-d does not print spaces between the names in this verse.  
   
-> oM badz+ra tIk+Sh+Na duHkha ts+tshe da/ pradz+nyA dz+nyA na mUr+t+ta ye/ dz+nyA na kA ya/ wA gI shwa ra/ a ra pa tsa nA ya te na maH/ (27)  
+> oM badz+ra tIk+Sh+Na duHkha ts+tshe da/ pradz+nyA dz+nyA na mUr+t+ta ye/ dz+nyA na kA ya/ wA gI shwa ra/ a ra pa tsa nA ya te na maH/  
 > sgyu 'phrul dra bas mngon par rdzogs par byang chub ba'i rim pa tshigs su bcad pa gsum mo// //  
   
 > n/a  
   
-*oṁ vajra-tīkṣṇa*  
-*duḥkha-ccheda*  
+*oṁ vajra-tīkṣṇa duḥkha-ccheda*  
 *prajñā-jñāna-mūrtaye*  
-*jñāna-kāya*  
-*vāgī-śvara*  
+*jñāna-kāya* *vāgī-śvara*  
 *arapacanāye te namaḥ* |[^27-1]  
   
 This concludes the three verses showing the stages of awakening according to the Net of Illusion.  
@@ -652,7 +651,7 @@ This concludes the three verses showing the stages of awakening according to the
   
 ## 5. The great Vajradhātu *maṇḍala* 
 > tadyathā bhagavān buddhaḥ saṃbuddho 'kārasambhavaḥ |  
-> akāraḥ sarvavarṇāgryo mahārthaḥ paramākṣaraḥ || 28 ||	  
+> akāraḥ sarvavarṇāgryo mahārthaḥ paramākṣaraḥ || 28 ||	
 >> 	bhagavān] em.; bhagavāṃ ed-d  
 >> 	% tad yathā ed-t  
 >> 	% *sambhavaḥ ed-t ed-d  
@@ -693,7 +692,7 @@ Supreme-most syllable of great meaning, (28)
 Without arising, from great vital force,[^29-1]  
 Beyond any expression using words,  
 The foremost cause of every form of speech,  
-The shining forth of languages of all types, (29)  
+The shining forth of language of all types, (29)  
   
 [^29-1]: When used in reference to letters, the word *mahāprāṇa* means 'aspiration', which would normally not apply to a vowel such as *a*. Vimalamitra explains that the vowel *a* is unique in not depending on the teeth, nose, tongue, and so on for its articulation; rather, it arises simply from *prāṇa*, a person's vital force. Thus the word *mahāprāṇa* connotes something that is naturally arisen from the vital force alone.  
   
@@ -706,21 +705,21 @@ The shining forth of languages of all types, (29)
 > mchod pa chen po 'dod chags che/ /  
 > sems can thams cad dga' bar byed/ /  
 > mchod pa chen po zhe sdang che/ /  
-> nyon mongs kun gyi dgra che ba/ / (30)  
+> nyon mongs kun gyi dgra che ba/ /  
   
 > mchod pa chen po 'dod chags che/ /  
 > sems can thams cad dga' bar byed/ /  
 > mchod pa chen po zhe sdang che/ /  
-> nyon mongs kun gyi dgra che ba/ / (30)  
+> nyon mongs kun gyi dgra che ba/ /  
   
 Great feast[^30-1] who takes the form of great passion,  
 Producing bliss in every sentient being,  
 Great feast who takes the form of great anger,  
 Great enemy of every mental affliction, (30)  
   
-[^30-1]: We use the word 'feast' in the sense of a festival, particularly one that involves religious worship.   
+[^30-1]: We use the word 'feast' in the sense of a festival, particularly one that involves religious worship.  
   
-* The Sanskrit *maha* generally means 'festival' (*utsava*), while the verbal root √*maha* has the sense of 'to worship'. The Tibetan translation seem to reflect *maha* in the sense of worship (as does VV: mahaśabdena pūjābhidhīyate), but the meaning of 'festival' should also not be excluded. 'Feast' seems like an appropriate comprise for an English translation.   
+* The Sanskrit *maha* generally means 'festival' (*utsava*), while the verbal root √*maha* has the sense of 'to worship'. The Tibetan translation seem to reflect *maha* in the sense of worship (as does VV: *mahaśabdena pūjābhidhīyate*), but the meaning of 'festival' should also not be excluded. 'Feast' seems like an appropriate comprise for an English translation.  
   
   
 > mahāmahamahāmoho mūḍhadhīmohasūdanaḥ |  
@@ -729,17 +728,17 @@ Great enemy of every mental affliction, (30)
 > mchod pa chen po gti mug che/ /  
 > gti mug blo ste gti mug sel/ /  
 > mchod pa chen po khro ba che/ /  
-> khro ba chen po dgra che ba/ / (31)  
+> khro ba chen po dgra che ba/ /  
   
 > mchod pa chen po gti mug che/ /  
 > gti mug blo ste gti mug sel/ /  
 > mchod pa chen po khro ba che/ /  
-> khro ba chen po dgra che ba/ / (31)  
+> khro ba chen po dgra che ba/ /  
 >> 	31a] che] em.; cha VM  
   
-Great feast who is by nature great delusion,   
+Great feast who is by nature great delusion,  
 Delusion's vanquisher for deluded minds,  
-Great feast who is in essence great fury,   
+Great feast who is in essence great fury,  
 Great adversary to all furiousness, (31)  
   
   
@@ -749,14 +748,14 @@ Great adversary to all furiousness, (31)
 > mchod pa chen po chags pa che/ /  
 > chags pa thams cad sel bar byed/ /  
 > 'dod pa chen po bde ba che/ /  
-> dga' ba chen po mgu ba che/ / (32)  
+> dga' ba chen po mgu ba che/ /  
   
 > mchod pa chen po chags pa che/ /  
 > chags pa thams cad sel bar byed/ /  
 > 'dod pa chen po bde ba che/ /  
-> dga' ba chen po mgu ba che/ / (32)  
+> dga' ba chen po mgu ba che/ /  
   
-Great feast who takes the form of great desire,   
+Great feast who takes the form of great desire,  
 Destroyer of desire in all its forms;  
 He is great carnal lust; he is great bliss;  
 He is great happiness; he is great joy; (32)  
@@ -770,36 +769,36 @@ He is great happiness; he is great joy; (32)
 > gzugs che lus kyang che ba ste/ /  
 > kha dog che zhing lus bong che/ /  
 > ming yang che zhing rgya che ba/ /  
-> dkyil 'khor chen po yangs pa yin/ / (33)  
-   
+> dkyil 'khor chen po yangs pa yin/ /  
+  
 > gzugs che lus kyang che ba ste/ /  
 > kha dog che zhing lus bong che/ /  
 > ming yang che zhing rgya che ba/ /  
-> dkyil 'khor chen po yangs pa yin/ / (33)  
+> dkyil 'khor chen po yangs pa yin/ /  
   
 With great appearance, with a great body,  
 With great complexion, with a great physique,  
 With great renown, the great munificent one,  
-Ruling a great and spacious *maṇḍala*, (33)  
+Who rules a great and spacious *maṇḍala*, (33)  
   
   
 > mahāprajñāyudhadharo mahākleśāṅkuśo 'graṇīḥ |  
 > mahāyaśā mahākīrtir mahājyotir mahādyutiḥ || 34 ||  
-
+  
 > shes rab chen po'i mtshon 'chang ba/ /  
 > nyon mongs lcags kyu che ba'i mchog /  
 > grags chen snyan grags chen po ste/ /  
-> snang ba chen po gsal ba che/ / (34)  
+> snang ba chen po gsal ba che/ /  
   
 > shes rab mtshon chen 'chang ba ste/ /  
 > nyon mongs lcags kyu che ba'i mchog /  
 > grags chen snyan grags chen po ste/ /  
-> snang ba chen po gsal ba che/ / (34)  
+> snang ba chen po gsal ba che/ /  
   
-The holder of the great weapon of wisdom,   
-The foremost goad for great mental afflictions,   
+The holder of the great weapon of wisdom,  
+The foremost goad for great mental afflictions,  
 Of great glory, possessing great renown,  
-With great light, endowed with great brightness, (34)  
+Endowed with great brightness, bearing great light, (34)  
   
 * For *mahāprajñāyudhadharaḥ*, we follow the ancient translation in taking *mahā\** with *yudha*. The Kangyur translation connects it with *prajñā*, whereas VV connects it with *dhara*.    
   
@@ -810,12 +809,12 @@ With great light, endowed with great brightness, (34)
 > mkhas pa sgyu 'phrul chen po 'chang/ /  
 > sgyu 'phrul chen po don grub pa/ /  
 > sgyu 'phrul chen po dga' bas dga'/ /  
-> sgyu 'phrul chen po mig 'phrul can/ / (35)  
+> sgyu 'phrul chen po mig 'phrul can/ /  
   
 > mkhas pa sgyu 'phrul chen po 'chang/ /  
 > sgyu 'phrul chen po don grub pa/ /  
 > sgyu 'phrul chen po dga' bas dga'/ /  
-> sgyu 'phrul chen po mig 'phrul can/ / (35)  
+> sgyu 'phrul chen po mig 'phrul can/ /  
   
 Most wise upholder of the great illusion,  
 The great illusion's fulfiller of aims,  
@@ -829,16 +828,16 @@ The great illusion's great illusionist, (35)
 > sbyin bdag chen po gtso bo ste/ /  
 > tshul khrims chen po 'chang ba'i mchog /  
 > bzod chen 'chang ba brtan pa ste/ /  
-> brtson 'grus chen po pha rol gnon/ / (36)  
+> brtson 'grus chen po pha rol gnon/ /  
   
 > sbyin bdag chen po gtso bo ste/ /  
 > tshul khrims chen po 'chang ba'i mchog /  
 > bzod chen 'chang ba brtan pa po/ /  
-> brtson 'grus chen po brtul ba yin/ / (36)  
+> brtson 'grus chen po brtul ba yin/ /  
   
-Foremost lord of great generosity,[^36-1]  
+The foremost lord of great munificence,[^36-1]  
 Supreme upholder of great discipline,  
-Steady maintainer of great forbearance,   
+Steady maintainer of great tolerance,  
 With valour rooted in great diligence, (36)  
   
 [^36-1]: Beginning in this verse the tantra lists the ten pāramitās: 1. generosity; 2. discipline; 3. patience (forbearance); 4. diligence; 5. meditative concentration; 6. wisdom; 7. skilful means; 8. strength; 9. aspiration; and 10. knowledge.  
@@ -849,17 +848,18 @@ With valour rooted in great diligence, (36)
 > mahādhyānasamādhistho mahāprajñāśarīradhṛk |  
 > mahābalo mahopāyaḥ praṇidhijñānasāgaraḥ || 37 ||  
 >> 	37d] praṇidhijñānasāgaraḥ] ed-d; praṇidhir jñānasāgaraḥ ed-t  
-   
+  
 > bsam gtan chen po ting 'dzin gnas/ /  
 > shes rab chen po lus 'chang ba/ /  
 > stobs [3v] po che la thabs che ba/ /  
-> smon lam ye shes rgya mtsho ste/ / (37)  
+> smon lam ye shes rgya mtsho ste/ /  
   
 > bsam gtan chen po'i ting 'dzin gnas/ /  
 > shes rab chen po lus 'chang ba/ /  
 > stobs [3v] po che la thabs che ba/ /  
-> smon lam ye shes rgya mtsho ste/ / (37)  
-  
+> smon lam ye shes rgya mtsho ste/ /  
+
+% resume
 Fixed in *samādhi* with great concentration,  
 Maintaining bodies rich in great wisdom,  
 Bearing great strength, with skilfully great methods,  
@@ -877,12 +877,12 @@ With aspirations and knowledge like oceans, (37)
 > byams chen rang bzhin dpag tu med/ /  
 > snying rje chen po blo yi mchog /  
 > shes rab chen po blo chen ldan/ /  
-> thabs chen byed pa chen po ste/ / (38)  
+> thabs chen byed pa chen po ste/ /  
   
 > [VM f. 12r] byams chen rang bzhin dpag tu med/ /  
 > snying rje chen po blo yi mchog /  
 > shes rab chen po blo chen ldan/ /  
-> mkhas pa chen po thabs che ba/ / (38)  
+> mkhas pa chen po thabs che ba/ /  
   
 Boundless in being suffused with great friendliness,  
 Enriched with great compassion, the foremost mind,  
@@ -926,12 +926,12 @@ Most valorous owing to his great strength, (39)
 > srid pa'i ri bo chen po 'joms/ /  
 > mkhregs shing rdo rje chen po 'chang/ /  
 > drag po chen po drag shul che/ /  
-> 'jigs chen 'jigs par byed pa po/ / (40)  
+> 'jigs chen 'jigs par byed pa po/ /  
   
 > srid pa'i ri bo chen po 'joms/ /  
 > mkhregs shing rdo rje chen po 'chang/ /  
 > drag po chen po drag shul che/ /  
-> 'jigs chen 'jigs par byed pa po/ / (40)  
+> 'jigs chen 'jigs par byed pa po/ /  
   
 Smashing the massive mountain of becoming,  
 Most firm from holding his supreme vajra,  
@@ -951,13 +951,13 @@ Provoking fear in great fearsome creatures,[^40-1] (40)
 > mgon po rigs mchog chen po ste//  
 > bla ma gsang sngags che ba mchog /  
 > theg pa chen po'i tshul gnas pa/ /  
-> theg pa chen po'i tshul gyi mchog / (41)  
+> theg pa chen po'i tshul gyi mchog /  
 > rdo rje dbyings kyi dkyil 'khor chen po'i tshigs su bcad pa bcu bzhi'o// //  
   
 > [VM f. 12v] mgon po rig mchog chen po ste/ /  
 > bla ma gsang sngags che ba'i mchog /  
 > theg pa chen po'i tshul la gnas/ /  
-> theg pa chen po'i tshul gyi mchog / (41)  
+> theg pa chen po'i tshul gyi mchog /  
   
 Protector as the best of great *vidyā*s,[^41-1]  
 Guru in being the best of great *mantra*s,  
