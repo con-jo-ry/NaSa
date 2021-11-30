@@ -858,11 +858,10 @@ With valour rooted in great diligence, (36)
 > shes rab chen po lus 'chang ba/ /  
 > stobs [3v] po che la thabs che ba/ /  
 > smon lam ye shes rgya mtsho ste/ /  
-
-% resume
+  
 Fixed in *samādhi* with great concentration,  
 Maintaining bodies rich in great wisdom,  
-Bearing great strength, with skilfully great methods,  
+Most great in strength, with skilful great methods,  
 With aspirations and knowledge like oceans, (37)  
   
 * For the final to quarters of 37, we again interpret the text slightly differently from VV. Given the start of the passage, it seems more consistent to say that Mañjuśrī *has* great strength etc. rather than that he *is* great strength etc..   
@@ -871,8 +870,8 @@ With aspirations and knowledge like oceans, (37)
   
 > mahāmaitrīmayo 'meyo mahākāruṇiko 'gradhīḥ |  
 > mahāprājño mahādhīmān mahopāyo mahākṛtiḥ || 38 ||  
-> 	mahādhīmān] ed-t; mahādhīmāṃ ed-d  
-> 	mahākṛtih] ed-d; mahākṛtī ed-t  
+>>   mahādhīmān] ed-t; mahādhīmāṃ ed-d  
+>>   mahākṛtih] ed-d; mahākṛtī ed-t  
   
 > byams chen rang bzhin dpag tu med/ /  
 > snying rje chen po blo yi mchog /  
@@ -884,15 +883,15 @@ With aspirations and knowledge like oceans, (37)
 > shes rab chen po blo chen ldan/ /  
 > mkhas pa chen po thabs che ba/ /  
   
-Boundless in being suffused with great friendliness,  
-Enriched with great compassion, the foremost mind,  
+Boundless in being suffused with great kindness,  
+Enriched with great compassion, foremost mind,  
 The great wise one, the great intelligent one,  
 Great dexterous one, with great skilful methods, (38)  
   
 * For *mahāmaitrīmaya*, VV reads *mahat* with *maitrīmayo*.  
-* We interpret *aghradhī* as a *bahuvrīh*: the translation 'the foremost mind' is intended to mean 'he has the foremost mind'.    
-* For *pāda* c, Tibetan translations may imply: 'Of great wisdom, of great intelligence.'  
-* The ancient translation reflects the reading *mahākṛtī* (i.e. *mahat* + *kṛtin*) in the Sanskrit text, which we have translated as "with great dexterity". This reading is also found in VV. The Kangyur translation reflects the reading *mahākṛti* (*mahat* + *kṛti*), which it renders as *byed pa chen po* ('one whose deeds are great') (Davidson's translation following this interpretation).   
+* We interpret *aghradhī* as a *bahuvrīh*: the translation 'foremost mind' is intended to mean 'he has the foremost mind'.  
+* For *pāda* c, Tib. may imply: 'Of great wisdom, of great intelligence.'  
+* The ancient translation reflects the reading *mahākṛtī* (i.e. *mahat* + *kṛtin*) in the Sanskrit text, which we have translated as "with great dexterity". This reading is also found in VV. The Kangyur translation reflects the reading *mahākṛti* (*mahat* + *kṛti*), which it renders as *byed pa chen po* ('one whose deeds are great') (Davidson's translation following this interpretation).  
   
   
 > mahāṛddhibalopeto mahāvego mahājavaḥ |  
@@ -935,20 +934,20 @@ Most valorous owing to his great strength, (39)
   
 Smashing the massive mountain of becoming,  
 Most firm from holding his supreme vajra,  
-The great cruel one, great terrifying lord,  
+Great terrifying lord, the great cruel one,  
 Provoking fear in great fearsome creatures,[^40-1] (40)  
   
 [^40-1]: Vimalamitra understands what we translate as "fearsome beings" (Skt. mahābhaya; Tib. 'jigs chen) to refer to non-Buddhist gods such as Viṣṇu and Śiva. Vilāsavajra, similarly, understands the word to refer to Śiva in his Mahābhairava form.  
   
-* For *mahābhavādrisambhettā*, VV connects *mahat* with *sambhettṛ*.   
-* The repetition of the monosyllabic 'great' is in the translation is difficult to maintain. 
+* For *mahābhavādrisambhettā*, VV connects *mahat* with *sambhettṛ*.  
+* The repetition of the monosyllabic 'great' is in the translation is difficult to maintain.  
   
 > mahāvidyottamo nātho mahāmantrottamo guruḥ |  
 > mahāyānanayārūḍho mahāyānanayottamaḥ || 41 ||  
-> vajradhātumahāmaṇḍalagāthāś caturdaśa || 
+> vajradhātumahāmaṇḍalagāthāś caturdaśa ||  
 >> % ed-t ends  
-   
-> mgon po rigs mchog chen po ste//  
+  
+> mgon po rigs mchog chen po ste/ /  
 > bla ma gsang sngags che ba mchog /  
 > theg pa chen po'i tshul gnas pa/ /  
 > theg pa chen po'i tshul gyi mchog /  
@@ -961,10 +960,9 @@ Provoking fear in great fearsome creatures,[^40-1] (40)
   
 Protector as the best of great *vidyā*s,[^41-1]  
 Guru in being the best of great *mantra*s,  
-Riding the way of the Great Vehicle,  
-He is the best of the Great Vehicle's way; (41)  
-This concluded the fourteen verses showing the great *maṇḍala* of the Vajradhātu.  
-! cd not smooth  
+Riding along the Great Vehicle's path,  
+Himself the Great Vehicle's foremost way; (41)  
+This concluded the fourteen verses showing the great Vajradhātu *maṇḍala*.  
   
 [^41-1]: Here we believe that a majority of witnesses of Tibetan translations have suffered from corruption, with the word '*rig*' becoming '*rigs*'. Following the corrupted text, we may translate the name, 'the best of the great families'. This reading, along with its interpretations, appears to be common in Tibetan commentaries, including that of Vimalamitra. Witnesses of the text reading '*rig*' (*vidyā*) can also be found, and these are almost certainly to be regarded as correct.  
   
@@ -986,11 +984,10 @@ This concluded the fourteen verses showing the great *maṇḍala* of the Vajrad
 > gsang sngags tshul chen las byung ba/ /  
 > gsang sngags tshul chen bdag nyid can/ /  
   
-He is the great Buddha Vairocana,   
-The great sage who observes profound silence,[^42-1]  
-Arising from the Way of Great Mantra,  
-The Way of Great Mantra in terms of essence, (42)  
-! d not smooth  
+He is the great Buddha Vairocana;  
+Great sage; observing great, intensive silence;[^42-1]  
+Arising from the Way of Great Mantra;  
+In essence being the Way of Great Mantra; (42)  
   
 [^42-1]: At face value the Tietan could be taken to mean 'endowed with great sageness'.  
   
@@ -1011,13 +1008,13 @@ The Way of Great Mantra in terms of essence, (42)
 > pha rol phyin pa bcu yi tshul/ /  
   
 Accomplished in the ten pāramitās,  
-Having the ten pāramitās as abode,  
+Having the ten pāramitās as home,  
 In whom the ten pāramitās are pure,  
 For whom the ten pāramitās are means, (43)  
   
 * VV does not state whether or not *daśapāramitāśuddhi* is a *bahuvrīhi*. Here we take it as a *vyadhikaraṇa ṣaṣṭhī bahuvrīhi* - he who has the purity of the ten pāramitā - i.e. for whom the ten pāramitā are pure.  
   
-  
+% resume
 > [ed-d p. 53] daśabhūmīśvaro nātho daśabhūmipratiṣṭhitaḥ |  
 > daśajñānaviśuddhātmā daśajñānaviśuddhadhṛk || 44 ||  
   
@@ -1032,7 +1029,7 @@ For whom the ten pāramitās are means, (43)
 > shes bcu rnam dag 'chang ba po/ /  
   
 Protector, reigning over all ten grounds,[^44-1]  
-Upon the ten grounds most firmly established,   
+Upon the ten grounds most firmly established,  
 In nature made pure by the ten knowledges,[^44-2]  
 Bearing the purity of those ten knowledges, (44)  
 ! 44d not smooth  
