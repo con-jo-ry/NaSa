@@ -79,7 +79,7 @@ Over and over again with his two hands— (2)
   
 > bhṛkuṭītaraṅgapramukhair anantair vajrapāṇibhiḥ |  
 > durdāntadamakair vīrair vīrabībhatsarūpibhiḥ || 3 ||  
->>	% pramu = 1 guru syllable  
+>>	% 3a: bhṛku = 1 syllable; bha vupulā 
   
 > khro gnyer ldan pa'i rlabs la sogs/ /  
 > lag na rdo rje mtha' yas pa/ /  
@@ -156,7 +156,7 @@ Bowing their bodies reverentially—(5)
 >> 	'dug ste] VM; 'dug te NG  
   
 Paid homage to the fully awakened one,  
-The blessed one, protector, *tathāgata*.  
+Protector, blessed one, *tathāgata*.  
 And joining his two palms respectfully,   
 He said before the Lord the following: (6)  
   
@@ -184,9 +184,9 @@ Out of concern for me and for my sake,
 That I may reach complete awakening  
 According to the Net of Illusion;[^7-1] (7)  
   
-[^7-1]: The Net of Illusion can be understood as a proper name referring to the *Māyājālatantra* and the tantric system presented therein. Various esoteric and non-esoteric glosses of this name are possible: for example, Vimalamitra states that the word hints at the unity of a special form of insight and means.  
+[^7-1]: "The Net of Illusion" can be understood as a proper name referring to the *Māyājālatantra* and the tantric system presented therein. Various esoteric and non-esoteric glosses of this name are possible: for example, Vimalamitra states that the word hints at the unity of a special form of insight and means.  
   
-* 7: Tib. perhaps gives the sense of 'O omnipresent lord, allow me to attain'. Sanskrit, more literally, reads, '[teach me] how to become one attains the awakening'.  
+* 7d: Tib. perhaps gives the sense of 'O omnipresent lord, allow me to attain'. Sanskrit, more literally, reads, '[teach me] how I become one who attains the awakening...'.  
   
   
 > ajñānapaṅkamagnānāṃ kleśavyākulacetasām |  
@@ -206,11 +206,9 @@ According to the Net of Illusion;[^7-1] (7)
 >> 	8b] after this quarter NG inserts: bcom ldan 'das kyi ye shes sku/ /  
    
 And for the sake of every living being—  
-Their ignorance submerging them in the mud,  
+Sunk deep into the mud of ignorance,  
 Their thoughts disturbed by various afflictions—  
-So that they may obtain the highest fruit, (8) 
-  
-* 8a, *ajñānapaṅkamagna*: Vilāsavajra analyses this compound as meaning 'sunk into mud-like ignorance'. Both Tibetan translations indicate that ignorance is the agent that causes sinking into the mud.   
+So that they may obtain the highest fruit, (8)  
   
   
 > prakāśayatu saṃbuddho bhagavāṃ śāstā jagadguruḥ |  
@@ -293,10 +291,10 @@ With goodness at their start, middle, and end; (11)
 > yang dang yang du gsungs pa gang / /  
 >> 	12c byung ba] VM; 'byung ba NG  
   
-Which by the buddhas of the past were taught,  
-And will be taught again by those to come;  
-And which today's fully awakened ones  
-Proclaim not once but many times over; (12)  
+Taught by the buddhas of the aeons past,  
+And to be taught by buddhas yet to come;  
+And taught not once but time and time again  
+By all the buddhas of the present time; (12)  
   
   
 > māyājālamahātantre yā cāsmin saṃpragīyate |  
@@ -319,8 +317,8 @@ Proclaim not once but many times over; (12)
   
 Which were respectfully recited in  
 This great tantra, the Net of Illusion,  
-By great Vajrapaṇis, innumerable,  
-Joyous upholders of the secret mantra. (!3)  
+By great Vajrapaṇis, beyond number,  
+Joyous upholders of the secret mantra. (13)  
   
 * 13a, *saṃpragīyate*: 'Respectfully recited' translates *saṃ-√gai*, which does not necessarily imply singing (both Tibetan translations are accurate here).  
 * 13: The reading '*bka' bzhin du*' in both translations is almost certainly a scribal error, since even Tibetan commentaries comment as if the text read '*dga' bzhin du*'. VM definitely reads '*dpag med rnams kyi*' with a genitive particle instead of an instrumental. Translating according to his commentary, the sentence would run: 'Which was joyously recited as a song of innumerable [meanings] by great Vajrapāṇi(s), upholders of mantra.' This is a fairly strong indication that the author of VM was only reading from Tibetan; a reading of the Sanskrit text that would prompt such an interpretation is very hard to imagine. The ancient translation probably treated *hṛṣṭaiḥ* almost as an adverb connected to *saṃ-√gai*, but we have not managed to clearly bring that out in the English translation.  
@@ -366,7 +364,7 @@ Upholder of the buddhas' every secret; (14)
 In order to relieve every affliction,  
 So that all ignorance may be dispelled,  
 I shall reveal this to all sentient beings  
-According to their unique dispositions.' (15)  
+According to each one's capacity.' (15)  
   
   
 > evam adhyeṣya guhyendro vajrapāṇis tathāgatam |  
@@ -382,10 +380,10 @@ According to their unique dispositions.' (15)
 > de bzhin gshegs la de skad du/ /  
 > gsol nas thal mo sbyar byas te/ /  
 > lus btud nas ni spyan sngar 'dug /  
-  
-Thus supplicating the *tathāgata*,  
-Vajrapāṇi, the master of secrets,  
-Pressing his palms together in reverence,  
+
+The master of secrets, Vajrapāṇi,  
+Having so spoken to the *tathāgata*,  
+Palms pressed together in due reverence,  
 Stood with his body bowed before the lord. (16)  
   
   
@@ -416,7 +414,7 @@ This concludes the sixteen verses showing the request.
 > ring zhing yangs pa brkyang mdzad de/ /  
   
 And then Śākyamuni, the Blessed One,  
-The fully awakened one, the best of men,  
+Fully awakened one, the best of men,  
 Extending from his mouth his handsome tongue,  
 A tongue that is unmatched in breadth and length, (17)  
   
@@ -457,10 +455,10 @@ Dispelling all three types of bad rebirth—(18)
 > lag na rdo rje stobs po che/ /  
 > gsang dbang la ni slar gsungs pa/ /  
   
-With his mellifluous, Brahmā-like voice,  
-Resounding to the ends of all three worlds,  
-Replied as follows to Vajrapāṇi,  
-The master of secrets, most powerful: (19)  
+With his sweet-sounding voice, like that of Brahmā,  
+Filling all reaches of the triple world,  
+Replied as follows to the lord of secrets,  
+To Vajrapāṇia, strongest of the strong: (19)  
   
   
 > sādhu vajradhara śrīmān sādhu te vajrapāṇaye |  
@@ -478,12 +476,12 @@ The master of secrets, most powerful: (19)
 > ye shes lus can 'jam dpal gyi/ /  
 > ming brjod pas ni don che ba/ /  
   
-"That you, in being suffused with great compassion  
+"That you, being suffused with great compassion  
 And aiming to assist all living beings,  
-Are willing and prepare to hear from me  
+Are willing and prepared to hear from me  
 The chanting of the names, so filled with meaning, (20)  
   
-* mahākaruṇayānvitaḥ is interpreted in the ancient translation as hetugarbha and we also attempt to reflect this is English. Tribe 2016: 317 interprets 'gyur pas' as possible evidence of the reading 'yas' instead of 'yat' in an alternate Sanskrit recension, but this does not seem like a very natural way to explain the structure of the ancient translation or such an alternate Sanskrit reading.  
+* *mahākaruṇayānvitaḥ* is interpreted in the ancient translation as *hetugarbha* and we also attempt to reflect this in English. Tribe 2016: 317 interprets 'gyur pas' as possible evidence of the reading 'yas' instead of 'yat' in an alternate Sanskrit recension, but this does not seem like a very natural way to explain the structure of the ancient translation or such an alternate Sanskrit reading.  
   
   
 > mahārthāṃ nāmasaṃgītiṃ pavitrām aghanāśanīm |  
@@ -502,7 +500,7 @@ The chanting of the names, so filled with meaning, (20)
 > lag na rdo rje khyod legs so/ /  
   
 Of Mañjuśrī's wisdom embodiment—  
-Chanting which purifies and quells evil—  
+Chanting which purifies and quells all evil—  
 That is most excellent, Vajradhara;  
 Most excellent of you, Vajrapāṇi! (21)  
   
@@ -557,7 +555,7 @@ This concludes the six verses showing the reply.
   
 And then Śākyamuni, the Blessed One—  
 Surveyed the whole great family of mantras,   
-The family bearing *vidyā*s and *mantra*s,   
+The family that bears *mantra*s and *vidyā*s,   
 The family that by nature is threefold, (23)  
   
   
@@ -576,11 +574,11 @@ The family that by nature is threefold, (23)
 > phyag rgya chen po'i rigs mchog dang/ /  
 > rigs chen gtsug tor cher gzigs nas/ /  
   
-The family that's mundane and supramundane,   
-The great family of brightening the world,   
-The excellent *mahāmudrā* family,   
-And the great family of the great uṣṇīṣa. (24)  
-! 24d could be improved  
+The family of and yet beyond the world,  
+Great family that brings light unto world,  
+The excellent *mahāmudrā* family,  
+And the great family of the great *uṣṇīṣa*. (24)  
+! still needs work  
   
 This concludes the two verses showing the survey of the six families.  
   
@@ -604,7 +602,7 @@ This concludes the two verses showing the survey of the six families.
 And then, about the lord of speech,[^25-1] he spoke  
 These verses, which include six kingly mantras,[^25-2]  
 Which manifest from non-duality,  
-Which bear the qualities of non-arising: (25)  
+Which bear the quality of non-arising: (25)  
   
 [^25-1]: Vimalamitra, as well as the witnesses we have consulted of the *Nāmasaṅgīti*'s Tibetan translations, indicates that 'the lord of speech' is the Buddha: i.e., 'the Buddha, the lord of speech, spoke these verses'. Vilāsavajra and the Sanskrit witnesses of the Nāmasaṅgīti, however, indicate that 'the lord of speech' refers to Mañjuśrī. The latter reading and interpretation are, in our opinion, preferable on the grounds of grammar and sense, and we therefore reflect it in our English translation.   
 [^25-2]: The six mantra are expressed in verse 27.  
@@ -668,7 +666,7 @@ This concludes the three verses showing the stages of awakening according to the
   
 And so, he is the Blessed One, the Buddha,  
 Fully awakened, born of the letter *a*;   
-He is the letter *a*, foremost phoneme,[^28-1]  
+He is the letter *a*, the foremost phoneme,[^28-1]  
 Supreme-most syllable of great meaning, (28)  
   
 [^28-1]: The Sanskrit word *akṣara* (letter/phoneme/syllable) can also be understood to refer to an imperishable thing. This understanding is reflected in the Kangyur's Tibetan translation of the *Nāmasaṅgīti*: i.e., 'he is the ultimate, imperishable thing'.  
@@ -715,7 +713,7 @@ The shining forth of language of all types, (29)
 Great feast[^30-1] who takes the form of great passion,  
 Producing bliss in every sentient being,  
 Great feast who takes the form of great anger,  
-Great enemy of every mental affliction, (30)  
+Great enemy of all mental affliction, (30)  
   
 [^30-1]: We use the word 'feast' in the sense of a festival, particularly one that involves religious worship.  
   
@@ -798,7 +796,7 @@ Who rules a great and spacious *maṇḍala*, (33)
 The holder of the great weapon of wisdom,  
 The foremost goad for great mental afflictions,  
 Of great glory, possessing great renown,  
-Endowed with great brightness, bearing great light, (34)  
+Having great brightness, and with lustre great, (34)  
   
 * For *mahāprajñāyudhadharaḥ*, we follow the ancient translation in taking *mahā\** with *yudha*. The Kangyur translation connects it with *prajñā*, whereas VV connects it with *dhara*.    
   
@@ -817,7 +815,7 @@ Endowed with great brightness, bearing great light, (34)
 > sgyu 'phrul chen po mig 'phrul can/ /  
   
 Most wise upholder of the great illusion,  
-The great illusion's fulfiller of aims,  
+Fulfiller of the great illusion's aims,  
 Raptured by rapture from the great illusion,  
 The great illusion's great illusionist, (35)  
   
@@ -862,7 +860,7 @@ With valour rooted in great diligence, (36)
 Fixed in *samādhi* with great concentration,  
 Maintaining bodies rich in great wisdom,  
 Most great in strength, with skilful great methods,  
-With aspirations and knowledge like oceans, (37)  
+Ocean of aspiration and of knowledge, (37)  
   
 * For the final to quarters of 37, we again interpret the text slightly differently from VV. Given the start of the passage, it seems more consistent to say that Mañjuśrī *has* great strength etc. rather than that he *is* great strength etc..   
 * Tribe does not appear to make a note regarding this, but there doesn't appear to be any overwhelmingly clear evidence that VV reads *praṇidhi* outside of a compound. As variants, Tribe reports the compounded reading and Davidson reports the uncompounded reading. The Tibetan translations are ambiguous, but VM (probably interpreting only the translation) connects *smon lam* with *rgya mtsho*. This is indeed natural; otherwise, *praṇidhi* is the only *pāramitā* not to be qualified as great (or ocean-like).   
@@ -1370,7 +1368,7 @@ Meditation, meditation's focus,
 The master of intelligent thinking—   
 For only by one self is he experienced—   
 The unmoving and ultimate beginning,  
-Who bears awakening's threefold body. (59)  
+Who bears awakening's threefold body. (58)  
   
 * Note that VM comments on *mi g.yo ba*; *spyod yul ba* is evidently a scirbal error in the pratīka.  
   
@@ -1767,7 +1765,7 @@ Whose skin is compact like a vajra’s core. (74)
   
   
 > vajramālādharaḥ śrīmān vajrābharaṇabhūṣitaḥ |  
-> hāhāṭṭahāsa nirghoṣo vajraghoṣaḥ ṣaḍakṣaraḥ || 75 ||  
+> hāhāṭṭahāsanirghoṣo vajraghoṣaḥ ṣaḍakṣaraḥ || 75 ||  
 > 	śrīmān] em.; śrīmaṃ ed-d  
    
 > rdo rje phreng thogs dpal dang ldan/ /  
@@ -1793,10 +1791,9 @@ Six syllabled, sounding a vajra's rumble, (75)
   
   
 > mañjughoṣo mahānādas trailokyaikaravo mahān |  
-> ākāśadhātuparyanto ghoṣo ghoṣavatān varaḥ || 76 ||  
+> ākāśadhātuparyanto ghoṣo ghoṣavatāṃ varaḥ || 76 ||  
 > ādarśajñānagāthāḥ pādonasārdhadaśa ||  
-> 	mañjughoṣo] em.; 7añjughoṣo ed-d  
-> 	ghoṣavatān] em.; ghoṣavatāṃ ed-d  
+> 	mañjughoṣo] em.; 7añjughoṣo ed-d (the printed text indeed has a 7 in place of m, which must be some kind of typographical glitch) 
   
 > 'jam pa'i dbyangs ni sgra che ba/ /  
 > 'jig rten gsum gcig sgra chen po/ /  
@@ -1814,7 +1811,7 @@ The great Mañjughoṣa and the great sound,
 Whose roar is unique in the threefold world,  
 He is the voice that reaches the ends of space,  
 The greatest of all those endowed with voices. (76)  
-	  
+  
   
 * It seems likely that the ancient translation placed *mahān* in the first *pāda*, qualifying Mañjughoṣa. The translators of VV, however, did not take it that way; they treat 'jam dbyangs chen po as if translating mañjughoṣa, and omit entirely VV's gloss of mahān.  
   
@@ -1866,7 +1863,7 @@ Whose voice intones profound and vast teachings; (77)
 The conch of Dharma, he whose sound is great,   
 The gong of Dharma, with great resonance,   
 Having entered unbounded nirvāṇa,[^78-1]  
-He is the Dharma drum of all ten quarters;   
+He is the Dharma drum of all ten quarters; (78)  
   
 [^78-1]: Unbounded nirvāṇa (apratiṣṭhitanirvāṇa; Tib. mi gnas pa'i mya ngan las 'das pa) refers to the state of liberation that is bound to neither saṃsāra nor utter quiescence. 	  
   
@@ -2099,7 +2096,7 @@ Omnipresent, best of all precious gems, (87)
    
 Great wish-fulfilling tree, most plentiful,  
 Supreme amongst the great vases of fortune,  
-A doer, fulfilling the aims of beings,  
+A doer, who fulfills the aims of beings,  
 An ally, most beloved to all creatures, (88)  
   
   
@@ -2191,8 +2188,8 @@ Great joy, a glorious master of splendour, (91)
 > 'jigs pa ma lus sel ba po/ /	  
 >> 	'jigs chen dgrs] em.; 'jig rten dgra VM  
   
-Wished for, the greatest granter of what's wished,   
-Yielding refuge, the greatest source of refuge,  
+Wished for, the greatest granter of what's wished,  
+Refuge bestowing, the greatest source of refuge,  
 The greatest enemy of great dangers,  
 Dispeller of all danger in all forms, (92)  
   
@@ -2824,7 +2821,7 @@ This concludes the forty two verses showing the wisdom of discernment.
 The great fulfiller of desired aims,  
 The purifier of all evil states,  
 Protector, greatest of all living beings,   
-Who liberates all beings with great vigour,    
+Who liberates all beings with great vigour, (119)  
   
   
 > kleśasaṃgrāmaśūraikaḥ ajñānaripudarpahā |  
@@ -2931,7 +2928,7 @@ And holding it just with his big toenail, (122)
 Whose aim is one; whose aim is non-dual Dharma;  
 Eternal one; whose aim is ultimate;   
 Whose mind consists in groups of consciousness  
-With varied cognisance, objects, and forms;  
+With varied cognisance, objects, and forms; (123)  
   
 * Following VV, we take the latter half of this verse to be a single name. VV's interpretation, although not entirely transparent, probably amounts to saying: 'He is the mind stream (*jñānasantati*) consisting in (1) varied representations, forms, and objects (*nānāvijñaptirūpārtha*) [i.e., the six gross forms of consciousness]; mind (*citta*) [i.e., *alayavijñāna*]; and consciousness (*vijñāna*) [i.e., *kliṣṭamanas*]. Here we've attempted to follow the ancient translation. To explain: he is one 'whose mind (*jñānasantati* as a *bahuvrīhi*) consists in groups of consciousness (vijñāna; rnam shes tshogs - *tshogs* being a plural marker) with varied cognisance, objects, and forms (*nānāvijñaptirūpārtha*, *rnam rig sna tshogs gzugs don can* - a *bahuvrīhi* qualifying *vijñāna*).   
    
@@ -3397,7 +3394,7 @@ This concludes the fourteen verses showing the wisdom of equality.
 To be realised by all of the buddha,  
 The buddhas' unsurpassed awakening,  
 Devoid of syllables, yet born of mantra,  
-Bred of Great Mantra's threefold lineage,[^143-1] (142)  
+Bred of Great Mantra's threefold lineage,[^143-1] (143)  
   
 [^143-1]: According to Vilāsavajra, the three lineages (i.e. families) are those of Vairocana, Akṣobhya, and Amitābha.  
   
@@ -3516,7 +3513,7 @@ While benefiting all, however needed, (147)
 The sovereign of the gods, the god of gods,  
 The lord of *asura*s, a deity ruler,  
 The sovereign of immortals, guru of gods,  
-The highest lord of *pramatha*s [^148-1], Pramatha, (148)  
+The highest lord of *pramatha*s,[^148-1] Pramatha, (148)  
   
 [^148-1]: Pramathas are a class of being otherwise known as *gaṇa*s. They are known as serving as attendants to Śiva.   
   
@@ -3748,7 +3745,7 @@ This concludes the fifteen verses on the wisdom of performing actions.
 Homage to you, boon granter, best of vajras;  
 The summit of existence, homage to you;  
 Homage to you, whose source is emptiness;  
-O Buddha's awakening, homage to you; (156) 
+O Buddha's awakening, homage to you; (158) 
   
   
 > buddharāga namas te 'stu buddhakāma namo namaḥ |  
@@ -3767,7 +3764,7 @@ O Buddha's awakening, homage to you; (156)
 O passion of the buddhas, homage to you;  
 Desire of the buddhas, I pay you homage;  
 O love of ever buddha, homage to you;  
-The joy of all the buddhas, I pay you homage; (158) 
+The joy of all the buddhas, I pay you homage; (159) 
   
 * 'every' and 'all' added for metrical reasons  
   
@@ -3883,7 +3880,7 @@ This concludes the five verses of praise for the wisdom of the five *tathāgata*
 > sngags dgod pa'o// //  
   
 *Oṁ*! O you whose nature is the absence of all phenomena, whose vajra-essence is completely pure—*a ā aṃ aḥ*!
-All phenomena are by nature fully pure—to explain, they are fully pure based on state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*!  
+All phenomena are by nature fully pure—to explain, they are fully pure based on state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*! 
 Seize, seize the heart of all tathāgatas.
 *Oṁ hūṃ hrīḥ*! O Blessed One, wisdom body, lord of speech whose speech is great, he who is all Dharma, whose essence is the wisdom of the Dharma realm that's completely pure like stainless space—*āḥ*!
   
