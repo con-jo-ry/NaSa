@@ -156,9 +156,9 @@ Bowing their bodies reverentially—(5)
 >> 	'dug ste] VM; 'dug te NG  
 
 Paid homage to the fully awakened one,  
-Protector, blessed one, *tathāgata*.  
+Protector, Blessed One, *tathāgata*.  
 And joining his two palms respectfully,  
-He said before the Lord the following: (6)  
+He said before the lord the following: (6)  
 
 * 6b, *nātha*: This word (*nātha*/ *mgon po*) is missing from the ancient Tibetan translation. One reason for this may be that the translators could not smoothly fit the word into the verse while preserving the metre. It is extremely unlikely that this represents a viable variant reading of the Sanskrit text.  
 
@@ -225,7 +225,7 @@ So that they may obtain the highest fruit, (8)
 > dbang po bsam pa mkhyen mchog gis/ /  
 
 May you—the most supreme awakened one,  
-The blessed one, the world's guru, teacher,  
+The Blessed One, the world's guru, teacher,  
 Who knows the great *samaya*'s reality,  
 Aware of wishes and abilities—(9)  
 
@@ -317,7 +317,7 @@ By all the buddhas of the present age; (12)
 
 Which were respectfully recited in  
 This great tantra, the *Net of Illusion*,  
-By great Vajrapaṇis, beyond number,  
+By great Vajrapāṇis, beyond number,  
 Joyous upholders of the secret mantras. (13)  
 
 * 13a, *saṃpragīyate*: 'Respectfully recited' translates *saṃ-√gai*, which does not necessarily imply singing (both Tibetan translations are accurate here).  
@@ -458,7 +458,7 @@ Dispelling all three types of bad rebirth—(18)
 With his sweet-sounding voice, like that of Brahmā,  
 Filling all reaches of the triple world,  
 Replied as follows to the lord of secrets,  
-To Vajrapāṇia, strongest of the strong: (19)  
+To Vajrapāṇi, strongest of the strong: (19)  
 
 
 > sādhu vajradhara śrīmān sādhu te vajrapāṇaye |  
@@ -525,7 +525,7 @@ And so, O master of secrets, I shall
 Teach this to you in a way most excellent.  
 Listen to it with single-minded focus.'  
 'How excellent!' replied Vajrapāṇi,  
-That is most excellent, O blessed one.' (22)  
+That is most excellent, O Blessed One.' (22)  
 
 This concludes the six verses showing the reply.  
 
@@ -3388,7 +3388,7 @@ This concludes the fourteen verses showing the wisdom of equality.
 > gsang sngags chen po rigs gsum pa/ /  
 > 	chen po rigs] VM; chen pos rigs NyiGyu  
 
-To be realised by all of the buddha,  
+To be realised by all of the buddhas,  
 The buddhas' unsurpassed awakening,  
 Devoid of syllables, yet born of mantra,  
 Bred of Great Mantra's threefold lineage,[^143-1] (143)  
@@ -3760,7 +3760,7 @@ O Buddha's awakening, homage to you; (158)
 
 O passion of the buddhas, homage to you;  
 Desire of the buddhas, I pay you homage;  
-O love of ever buddha, homage to you;  
+O love of every buddha, homage to you;  
 The joy of all the buddhas, I pay you homage; (159)
 
 * 'every' and 'all' added for metrical reasons  
@@ -3876,10 +3876,9 @@ This concludes the five verses of praise for the wisdom of the five *tathāgata*
 > oM sar+b+ba d+har+m+mA b+hA ba swa b+hA wa bi shud+d+ha badz+ra tsak+ShuHa AHaM aHpra krI ti/ pa ri shud+d+haHsar+b+ba d+har+m+mA ya du ta sar+b+ba ta thA ga ta dz+nyA na kA ya/ many+dzu shrI pa ri shud+d+hi tA/ mu pA dA ye ti/ a AH/ sar+b+ba ta thA ga ta hrI da ya/ ha ra ha ra/ auM hUM hrIHb+ha ga bAn dz+nyA na mUrti/ bA gI shwa ra/ ma hA pA tsa/ sar+b+ba d+har+m+mA ga ga nA ma la su pa ri shud+d+ha/ d+har+m+mA d+hA tu dz+nyA na gar+b+ha AH/   
 > sngags dgod pa'o// //  
 
-*Oṁ*! O you whose nature is the absence of all phenomena, whose vajra-essence is completely pure—*a ā aṃ aḥ*!
-All phenomena are by nature fully pure—to explain, they are fully pure based on state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*!
-Seize, seize the heart of all tathāgatas.
-*Oṁ hūṃ hrīḥ*! O Blessed One, wisdom body, lord of speech whose speech is great, he who is all Dharma, whose essence is the wisdom of the Dharma realm that's completely pure like stainless space—*āḥ*!
+*oṁ sarva-dharmābhāva-svabhāva viśuddha-vajra a ā aṃ aḥ | prakṛti-pariśuddhāḥ sarva-dharmā yad uta sarva-tathāgata-jñāna-kāya-mañjuśrī-pariśuddhitām upādāyeti a āḥ | sarva-tathāgata-hṛdayaṃ hara hara | oṁ hūṁ hrīḥ bhagavan jñāna-mūrti vāg-īśvara mahā-vāca sarva-dharma gaganāmala-supariśuddha-dharma-dhātu-jñāna-garbha āḥ |*[162-m]  
+
+[162-m]: *Oṁ*! O you whose nature is the absence of all phenomena, whose vajra-essence is completely pure—*a ā aṃ aḥ*! All phenomena are by nature fully pure—to explain, they are fully pure based on state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*! Seize, seize the heart of all tathāgatas. *Oṁ hūṃ hrīḥ*! O Blessed One, wisdom body, lord of speech whose speech is great, he who is all Dharma, whose essence is the wisdom of the Dharma realm that's completely pure like stainless space—*āḥ*!
 
 
 
@@ -3993,7 +3992,7 @@ That's taught by every true and perfect buddha. (167)
 
 > 'phags pa rnal 'byor chen po'i rgyud sgyu 'phrul dra ba stong phrag bcu drug pa ting nge 'dzin dra ba'i le'u las phyung ba/ bcom ldan 'das 'jam dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/ bcom ldan 'das de bzhin gshegs pa shAkya thub pas gsungs pa rdzogs so// //  
 
-This concludes the supreme chanting of the names of the Blessed One Mañjuśrī, the wisdom deity. Extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its chapter on the net of *samāhi*, it was spoken by the Blessed One Śākyamuni, the *tathāgata*.   
+This concludes the supreme chanting of the names of the Blessed One Mañjuśrī, the wisdom deity. Extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its chapter on the net of *samādhi*, it was spoken by the Blessed One Śākyamuni, the *tathāgata*.   
 
 * Translated based on Tib.. Maybe the Sanskrit should read something like '... mahāyogatantrād antaḥpātitāḥ ...'?   
 
