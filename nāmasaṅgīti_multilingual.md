@@ -1075,14 +1075,13 @@ Endowed with tenfold mastery,[^45-3] great being, (45)
 > ji skad smras ba de bzhin byed/ /  
 > 	% VM commentary unclear if he reads nyid dag or nyi bdag  
 
-Beginningless, free from complexities,  
+Beginningless, void of complexities,  
 By nature pure, reality in essence,  
 Speaker of truth, speaking consistently,  
-With actions that align with what he says, (46)  
+With speech and action perfectly alligned, (46)  
 
 * We follow the Tibetan translations in rendering ananyavādin in the third quarter.  
 
-% resume
 > advayo 'dvayavādī ca bhūtakoṭivyavasthitaḥ |  
 > nairātmyasiṃhanirnādaḥ kutīrthyamṛgabhīkaraḥ || 47 ||  
 
@@ -1096,12 +1095,12 @@ With actions that align with what he says, (46)
 > bdag med seng ge'i sgra dang ldan/ /  
 > mu stegs ri dags ngan 'jigs byed/ /  
 
-Non-dual, the teacher of what is non-dual,  
+Non-dual, teacher of non-dualality,  
 Established at reality’s summit,  
-Having the roar of lion-like no self,   
-Terrifying the deer-like bad seekers,[^47-1] (47)  
+Whose roar is that of lion-like no self,   
+Who terrifies deer-like misled seekers,[^47-1] (47)  
 
-[^47-1]: 'Seekers' refer to those who seek awakening. They are described as 'bad' insofar as they do not follow the Buddhist path, and they are 'deer-like' because they are terrified by the roar of the lion-like 'no self' doctrine.  
+[^47-1]: 'Seekers' (Skt. *tīrthya*; Tib. *mu stegs*) refer to those who seek liberation from suffering. They are described as 'misled' or 'bad' insofar as they do not follow the Buddhist path, and they are 'deer-like' because they are terrified by the roar of the lion-like 'no self' doctrine.  
 
 * nirnāda = nināda, given the non-standard form for metricial reasons. See Edgerton on nirnāda.  
 * VV takes tīthya in the sense of any practitioner. Alternative translation, Terrifier of bad deer-like seekers.  
@@ -1120,15 +1119,15 @@ Terrifying the deer-like bad seekers,[^47-1] (47)
 > rgyal ba rnam rgyal dgra las rgyal/ /  
 > 'khor los sgyur ba stobs po che/ /  
 
-With fruitful journeys, travelling everywhere, [^48-1]  
-Swift like the minds of all *tathāgata*s,  
-Victor, slayer of foes, triumphant one,  
-With great forces,[^48-2] a universal monarch, (48)  
+With journeys fruitful, travelling everywhere, [^48-1]  
+As swift as all *tathāgata*s' thinking,  
+A victor, triumphant, a slayer of foes,  
+A universal king, with forces great,[^48-2] (48)  
 
 [^48-1]: Based on Vimalamitra's commentary, which contains a reading of the text found only in certain witnesses of the Tibetan translation (*kun tu 'gro ba'i don yod stobs*), we may translate the first quarter as, 'he who has strength that is fruitful for all beings'.   
 [^48-2]: Here 'force' (*bala*; Tib. *stobs*) is most naturally understood in the sense of military force.  
 
-* VV also proposes a bahuvrīhi interpretation of sarvatraga.  
+* VV also proposes a *bahuvrīhi* interpretation of *sarvatraga*.  
 * This is again evidence that VM was likely not aware of the Sanskrit text. The Tibetan translation of VV reads 'stabs' in place of 'stobs', which is almost certainly a better reading. The error of ''gro ba'i don' for ''gro ba don' is very easily made, and I don't see how '*kun tu 'gro ba'i don yod stabs*' can reflect a valid interpretation of the Sanskrit, even if we had a reading such as *sarvatragāmoghagatiḥ*.  
 
 
@@ -1145,13 +1144,13 @@ With great forces,[^48-2] a universal monarch, (48)
 > mthu chen gces par 'dzin pa ste/ /  
 > tshul chen gzhan gyis 'dring mi 'jog/ /  
 
-Assembly master, teacher of assemblies,   
-Assembly lord, assembly chief, ruler,  
-Exerting great influence, precious load bearer,   
-Not led by others, with the greatest way, (49)  
-! not smooth  
+Assembly head, instructor for assemblies,  
+Assembly lord, assembly chief, and ruler,  
+Most influential, bearing precious burdens,  
+Not other-bound, his way the greatest way, (49)  
 
 * mahānubhāva: VV mahātma - in a kingly context, can refer to 'charisma'  
+* 'not other-bound' = not led by others
 * QUESTION: How to account for the form dhaureya, and in particular VV's gloss? dhur = (1) burden, (2) foremost thing. VV: dhaureya i[img 70]ti| dharmmadhuri sādhuḥ | dhaureyaḥ |   
 
 
@@ -1170,10 +1169,9 @@ Not led by others, with the greatest way, (49)
 >> 	% tshig bden pa dang bden par smra - monlam version  
 
 The lord of speech, the master of expression,  
-Skilful in words, language master, truth teller,  
-With boundless words, the teacher of the truth,   
-Providing instructions on fourfold truths, (50)  
-! not smooth  
+Most skilled with words, adept with language, truthful,  
+With boundless words, the teacher of the truth,  
+Providing teachings on fourfold truth, (50)  
 
 * Vilāsavajra and Vimalamitra relate the first for words to the so sor yang dag par rig pa bzhi  
 * Names have been slightly rearranged in English for metrical reasons  
@@ -1193,10 +1191,10 @@ Providing instructions on fourfold truths, (50)
 > nges 'byung sna tshogs las 'byung ba/ /  
 > 'byung ba chen po rgyu gcig po/ /  
 
-Neither reversing nor returning, rhino,  
-The leader of the pratyekabuddhas,[^51-1]:  
-Gone forth through going forth in different ways,   
-The singular cause of the basic elements, (51)  
+Not turning back, not coming back, rhino,  
+The leader of the *pratyekabuddha*s,[^51-1]  
+Gone forth by going forth in different ways,  
+The single cause of all great elements, (51)  
 
 [^51-1]: Vilāsavajra explains that 'rhino' refers to the *pratyekabuddha*s who lead solitary lives, whereas the following refers to *pratyekabuddha*s who congregate in groups.  
 
@@ -1217,10 +1215,10 @@ The singular cause of the basic elements, (51)
 > bsil bar gyur pas rnyog pa med/ /  
 > 	% monlam has bral bas, rnyed pas, gyur pas  
 
-Bhikṣu, *arhat*, defilements exhausted,  
-One free of passion, master of the senses,  
-Met with comfort, met with security,  
-For he, having cooled down, is without stains; (52)  
+*Bhikṣu*, *arhat*, defilements exhausted,  
+Devoid of passion, master of the senses,  
+Arrived at comfort, met with security,  
+For he, having cooled down, is free from stains; (52)  
 
 
 > vidyācaraṇasaṃpannaḥ sugato lokavit paraḥ |  
@@ -1237,15 +1235,14 @@ For he, having cooled down, is without stains; (52)
 > bden pa gnyis kyi tshul la gnas/ /  
 
 Fully equipped with knowledge and its feet,[^53-1]  
-Sugata, supreme knower of the world,  
-Free of conceptualising 'me' and 'mine',  
-Established in the way of the two truths. (53)  
-! b not smooth   
+A *sugata*, best knower of the world,  
+Not thinking 'me', not clinging onto 'mine',  
+Established in the system of two truths, (53)  
 
 [^53-1]: This term (vidyācaraṇasampanna; Tib. rig pa dang zhabs su/rkang par ldan pa) is a stock epithet for the Buddha and refers to knowledge and good conduct, or, more technically, the Eightfold Path of the Nobles (namely, knowledge refers to right view, and its "feet" or supporting factors are the remaining seven branches.  
 
 * VM and the ancient translation appear to read 'jig rten rig pa'i mchog (i.e. 1 word), and this is reflected in our translation. In any case, VV also views these names as closely connected.  
-* Alternative for c: Free of possessiveness, without ego,  
+* Alternative for c: Without ego, free from possessiveness.  
 
 
 > saṃsārapārakoṭisthaḥ kṛtakṛtyaḥ sthale sthitaḥ |  
@@ -1263,16 +1260,15 @@ Established in the way of the two truths. (53)
 > [VM f. 15v] shes rab mtshon chen rnam 'joms pa/ /  
 >> 	% monlam - bya ba byas pas; pāda c: shes pa 'ba' zhig nges gsal ba   
 
-Upon the edge of *saṃsāra*'s far shore,  
-With work accomplished, resting on the bank,  
-Manifesting from untainted awareness,   
-Penetrating with his sword-like insight, (54)	  
-! not smooth  
+Upon the edge of cyclic life's far shore;  
+With deeds accomplished; resting on the bank;  
+Emerging from untainted, lone awareness;  
+With sword-like insight ever penetrating; (54)	
 
 * VV: Resting at the tip of saṃsāra and its opposite shore.  
 * nges 'byung ba/nges gsal ba = Skt. ni + √ṣṭhiv, ṣṭhiv = to eject, to spit, etc. 'nirasane' (Dhātupāṭha)  
-* VV: vidāraṇa = realisation (avabodhana) of the details about what to do and what to avoid doing; VM: vidāraṇa = destroying the kleśas. 'Penetrating', metrically helpful, seems like a somewhat acceptable compromise for the meanings of 'realising', 'splitting', and 'destroying' (rnam 'joms pa).    
-* Davidson translates: 'Having rejected isolatory knowledge, he is the cleaving sword of insight'. 'rejected' is probably not a valid interpretation of ni + √ṣṭhiv, and the final name cannot be a karmadhāraya.  
+* VV: *vidāraṇa* = realisation (*avabodhana*) of the details about what to do and what to avoid doing; VM: *vidāraṇa* = destroying the *kleśa*s. 'Penetrating', metrically helpful, seems like a somewhat acceptable compromise for the meanings of 'realising', 'splitting', and 'destroying' (*rnam 'joms pa*).    
+* Davidson translates: 'Having rejected isolatory knowledge, he is the cleaving sword of insight'. 'rejected' is probably not a valid interpretation of ni + √ṣṭhiv, and the final name cannot be a *karmadhāraya*.  
 
 
 > saddharmo dharmarāḍ bhāsvān lokālokakaraḥ paraḥ |  
@@ -1289,13 +1285,13 @@ Penetrating with his sword-like insight, (54)
 > chos kyi dbang phyug chos kyi rgyal/ /  
 > legs pa'i lam ni ston pa po/ /  
 
-Sublime Dharma, king of Dharma, the sun,  
+Sublime Dharma, the Dharma king, the sun,  
 Supreme illuminator of the world,  
-The sovereign over Dharma, lord of Dharma,  
-Instructor of the path to excellence, (55)  
+The sovereign of Dharma, the Dharma lord,  
+The teacher of the path to excellence, (55)  
 
 * VV: saddharma = scriptural dharma (dharma of 'the good ones'), dharmarāṭ = ultimate reality  
-* Davidson translates: 'with true dharma', understanding a bahuvrīhi?   
+* Davidson translates: 'with true dharma', understanding a *bahuvrīhi*?   
 
 
 > siddhārthaḥ siddhasaṃkalpaḥ sarvasaṃkalpavarjitaḥ |  
@@ -1311,10 +1307,10 @@ Instructor of the path to excellence, (55)
 > rnam par mi rtog dbyings mi zad/ /  
 > chos dbyings dam pa zad mi shes/ /  
 
-Accomplisher of aims, fulfilling wishes,  
-Bereft of forming desires of any kind,  
-Free from thinking, a source that never runs out,   
-The *dharmadhātu*, supreme, beyond decay, (56)  
+Accomplishing all goals, fulfilling wishes,  
+Completely free from want of any kind,  
+Bereft of thought, an undepleting source,  
+The Dharma source, supreme, beyond decay, (56)  
 
 * VV interprets the first three names as *karmadhāraya*s, and he relates them to the *trisvabhāva*: 'The achieved aim, the wish that is fulfilled," etc. The first '*dhātu*' he takes in the sense of cause (hence our translation 'source'), the second as the support for the qualities of noble beings. VM also glosses *dbying* as *'byung khungs* ('source').  
 * QUESTION: Do we need further footnotes here?  
@@ -1333,16 +1329,15 @@ The *dharmadhātu*, supreme, beyond decay, (56)
 > ye shes ye shes khyad par che/ /  
 > ye shes ldan pa yod med shes/ /  
 > tshogs gnyis tshogs ni bsags pa 'o/ /  
-> 	57b khyad par che] VM; 'byung gnas che monlam    
+> 	57b khyad par che] VM; 'byung gnas che monlam  
 
-Rich in merit, merit's accumulation,   
-Wisdom, great unique wisdom, wisdom-rich,   
-Aware of what exists and what does not,   
-Replete with the twofold accumulation, (57)  
-! d not smooth  
+Enriched by merit, merit's gathering,  
+Great unique wisdom, wisdom, wisdom-rich,  
+Aware of what exists and what does not,  
+While gathering the twofold gathering, (57)  
 
-* The word *jñānākaram* is found in the *pratīka* of the Cambridge ms of VV's commentary, but the commentary clearly glosses the word *jñānāntara*. This is likely the source of the Tib. *ye shes khyad par*.   
-* VV clarifies that saṃbhṛta = saṃpūrṇa; ancient translation could be read as *bsags pa po*, i.e. *saṃbartā, but this is impossible. Perhaps *bsags pa 'o* is really intended, although the *rdzogs tshig* is a bit jarring.  
+* The word *jñānākaram* is found in the *pratīka* of the Cambridge ms of VV's commentary, but the commentary clearly glosses the word *jñānāntara*. This is likely the source of the Tib. *ye shes khyad par*. 
+* VV clarifies that saṃbhṛta = saṃpūrṇa; ancient translation could be read as *bsags pa po*, i.e. *saṃbartā, but this is impossible. Perhaps *bsags pa 'o* is really intended, although the *rdzogs tshig* is a bit jarring. 
 
 
 > [ed-d 54] śāśvato viśvarāḍ yogī dhyānaṃ dhyeyo dhiyāṃ patiḥ |  
@@ -1360,14 +1355,14 @@ Replete with the twofold accumulation, (57)
 > 	blo ldan bdag] VM; blo ldan mchog monlam  
 > 	mi g.yo ba] em.; spyod yul ba VM	  
 
-Yogi, king of the universe, eternal,   
-Meditation, meditation's focus,  
-The master of intelligent thinking—   
-For only by one self is he experienced—   
+Eternal, *yogin*, king of everywhere,  
+The object and the mind of concentration,  
+The master of intelligent reflection—  
+For by oneself alone is he experienced—  
 The unmoving and ultimate beginning,  
-Who bears awakening's threefold body. (58)  
+Bearing embodiment in its three forms, (58)  
 
-* Note that VM comments on *mi g.yo ba*; *spyod yul ba* is evidently a scirbal error in the pratīka.  
+* Note that VM comments on *mi g.yo ba*; *spyod yul ba* is evidently a scirbal error in the pratīka.
 
 
 > pañcakāyātmako buddhaḥ pañcajñānātmako vibhuḥ |  
@@ -1384,15 +1379,15 @@ Who bears awakening's threefold body. (58)
 > sangs rgyas lnga bdag cod pan can/ /  
 > spyan lnga chags pa med pa 'chang/ /  
 
-Consisting of five kāyas, he is the Buddha,  
-Omnipresent, formed of the five wisdoms,[^59-1]  
+Comprised of five bodies,[^59-1] the awakened one,  
+The omnipresent, formed of five wisdoms,  
 Wearing a crown made of the five buddhas,  
-With the five eyes,[^59-2] bearing no attachments, (59)  
+With eyes of five kinds,[^59-2] bearing no attachments, (59)  
 
-[^59-1]: Four of these five *kāya*s are the *dharmakāya*, *svabhāvakāya*, *sambhogakāya*, and *nirmāṇakāya*. The fifth is various given as 'the body of ripening' (*vipākakāya*), 'the body of wisdom-dharma' (**jñānadharmakāya*), or the vajra body (*vajrakāya*). Vilāśavajra refers to the first of these, whereas Vimalamitra refers to the fourth.  
+[^59-1]: Four of these five bodies are the *dharmakāya*, *svabhāvakāya*, *sambhogakāya*, and *nirmāṇakāya*. The fifth is given variously as 'the body of ripening' (*vipākakāya*), 'the body of wisdom-dharma' (**jñānadharmakāya*), or the vajra body (*vajrakāya*). Vilāśavajra refers to the first of these, whereas Vimalamitra refers to the fourth.  
 [^59-2]: The five eyes, which are five organs of superior vision, are the bodily eye, divine eye, insight eye, dharma eye, and buddha's eye.  
 
-* VV reads *asaṅgadṛk*, which seems much better, but Tibetan witnesses all seem to support *chags pa med pa 'chang* (*asaṅgadṛk*) (0 of 91 hits on BDRC).  
+* VV reads *asaṅgadṛk*, which seems much better, but Tibetan witnesses all seem to support *chags pa med pa 'chang* (*asaṅgadhṛk*) (0 of 91 hits on BDRC).  
 * VM connects spyan lnga with chags pa med pa, 'he possesses the five eyes without attachment'. The Sanskrit cannot be understood that way, even reading asaṅgadhṛk; so again this is evidence that the commentary was not composed in reference to Sanskrit.  
 
 
@@ -1412,13 +1407,13 @@ With the five eyes,[^59-2] bearing no attachments, (59)
 >> 	60c shes pa srid 'phyung] VM; shes pas sri 'byung monlam  
 >> 	chos las byung ba] VM; chos las 'byung ba monlam  
 
-Progenitor of all awakened ones,   
+The great progenitor of all the buddhas,  
 The best and foremost offspring of the buddhas,  
-Rising up from the world through his insight,   
-Sourceless, dharma source, ending existence, (60)  
+Arising from the world that is his insight,  
+The sourceless, Dharma source, existence ending, (60)  
 
 * Davidson, the ancient translation, and VM read ayoni in 60c. VV and D clearly *yoni*. The two are indistinguishable in Sanskrit manuscripts.  
-* The ancient translation evidently treats *prajñābhavodbhava* as a *bahuvrīhi* ('he whose source is dharma'), while VV and the Kangyur translation take the word as a *tatpuruṣa*. The ancient translation comes across as self-contradictory: he is sourceless yet his source is the dharma. In our translation, we avoid dissolving the compound.   
+* The ancient translation evidently treats *dharmayonir* as a *bahuvrīhi* ('he whose source is dharma'), while VV and the Kangyur translation take the word as a *tatpuruṣa*. The ancient translation comes across as self-contradictory: he is sourceless yet his source is the dharma. In our translation, we avoid dissolving the compound.   
 * VM: Rising up from the world through his insight; VV: Rising from the world that is insight (i.e. 5 pure skandhas)  
 
 
@@ -1436,13 +1431,13 @@ Sourceless, dharma source, ending existence, (60)
 > shes rab ye shes me bo che/ /  
 > 	61d me bo che] monlam; me 'o che VM  
 
-Comprised of vajras, wholly firm and dense,   
-Newly born sovereign ruler of the world,  
-Emerging from the sky, and self arising,  
-A great inferno of knowledge of wisdom, (61)  
+Comprised of vajras, wholly firm and dense,  
+The newborn sovereign ruler of the world,  
+Emerging from the sky, the self arisen,  
+A great inferno of knowledge of insight, (61)  
 
 * The elements of the compound 'whole firm and dense' are reversed in the Tibetan translations and also reflected in the translation here.  
-* sāra as adjective = atidṛḍha (śabdāratnāvalī via kalpadruma)   
+* *sāra* as adjective = *atidṛḍha* (Śabdāratnāvalī via Kalpadruma)   
 
 
 > vairocano mahādīptir jñānajyotir virocanaḥ |  
@@ -1458,10 +1453,10 @@ A great inferno of knowledge of wisdom, (61)
 > 'gro ba'i mar me ye shes sgron/ /  
 > [VM f. 17r] gzi brjid chen po 'od gsal ba/ /  
 
-A great beacon, the one who blazes forth,[^62-1]   
-The lamp of wisdom, he who is blazing,  
-A light for beings, the lantern of wisdom,  
-With great energy, radiating light, (62)  
+The one who blazes forth,[^62-1] a great beacon,  
+A lamp of wisdom, he who is blazing,  
+A light for beings, a lantern unto wisdom,  
+With energy supreme, most radiant, (62)  
 
 [^62-1]: Vairocana. The name Mahāvairocana occurs in verse 42.  
 
@@ -1482,12 +1477,12 @@ With great energy, radiating light, (62)
 > gtsug tor chen po rmad byung gtsug /  
 > nam mkha'i bdag po sna tshogs ston/ /  
 
-The king of vidyās, lord of supreme mantras,   
-The king of mantras, fulfilling great aims,  
-Great *uṣṇīṣa*, marvellous *uṣṇīṣa*,  
-Master of space, revealing everything, (63)  
+The king of *vidyā*s, lord of foremost mantras,  
+The king of mantras, serving noble aims,  
+The great *uṣṇīṣa*, marvellous *uṣṇīṣa*,  
+The lord of space, revealer of all things, (63)  
 
-* VV: vidyā plural. agramantra singular = hūṁ. viśva = 'nānāprakāraṃ samādhiṃ'	  
+* VV: vidyā plural. agramantra singular = hūṁ (not reflected in translation due to meter). viśva = 'nānāprakāraṃ samādhiṃ'.  
 
 
 > sarvabuddhātmabhāvāgryo jagadānandalocanaḥ |  
@@ -1506,13 +1501,13 @@ Master of space, revealing everything, (63)
 >> 	64b 'gro ba] VM; 'gro kun monlam  
 >> 	64d] mchod cing rjod pa drang srong che  
 
-Foremost body of all awakened ones,  
-With eyes the joy of every living being,   
+The best embodiment of every buddha,  
+With eyes the joy of every living being,  
 Creator, manifesting varied forms,  
-Great sage, praiseworthy, venerable, (64)  
+Great sage, most praiseworthy, most venerable, (64)  
 
 * The ancient translation understands *ātmabhāva* as 'body', whereas VV, and probably also the Kangyur translation, take it to mean *ātmanaḥ bhāva*. Based on VV's gloss, the name can be translated: 'foremost reality (bhāva = sattā) of the nature (ātman = svabhāva) of all buddhas.' VV's Tib. translation reads as follows for the root text: sangs rgyas kun bdag ngo bo mchog.  
-* Unlike the Tibetan translators, Vilāsavajra understands this compound as a tatpuruṣa. I.e., “the eye of the joy of the world”. I.e. he serves as their eyes of insight insofar as his nature is the discernment of what should be adopted and abandoned.  
+* 64b, *jagadānandalocanaḥ*: Unlike the Tibetan translators, VV understands this compound as a tatpuruṣa: 'the eye of the joy of the world'—i.e. he serves as their eyes of insight insofar as his nature is the discernment of what should be adopted and abandoned.  
 
 
 > kulatrayadharo mantrī mahāsamayamantradhṛk |  
@@ -1529,18 +1524,18 @@ Great sage, praiseworthy, venerable, (64)
 > theg pa mchog gsum ston pa po/ /  
 >> 	65a] gsang sngags 'chang] VM; gsang sngags can monlam  
 
-Upholder of the three families,[^65-1] *mantrin*,  
-Bearing the mantra of the great *samaya*,[^65-2]    
-Foremost keeper of the three precious gems,  
-Teacher of the three supreme vehicles; (65)  
+Upholder of the triple family,[^65-1] *mantrin*,  
+Bearing the mantra of the foremost pledge,[^65-2]  
+The foremost keeper of the triple gem,  
+The teacher of the three supreme *yāna*s; (65)  
 
 [^65-1]: The three families are those of Body, Speech, and Mind.  
 [^65-2]: The great samaya may, as Vilāsavajra suggests, refer to a deity, or it may refer more generally to the pledges of the Vajrayāna.   
 
-* The ancient Tibetan translation evidently understands *uttama* to qualify *triyāna*, but this is a slightly problematic analysis. VV analyses the compound: trayāṇāṃ srāvakapratyekabuddhamahāyānānām uttamadeśaka. So he probably understands the compound to mean 'supreme teacher of the three vehicles'. Perhaps the Kangyur translation also has this interpretation in mind.   
-* VV explains: mahāsamaya = bodhicittavajra. i.e., Vairocana.   
+* The ancient Tibetan translation evidently understands *uttama* to qualify *triyāna*, but this is a slightly problematic analysis. VV analyses the compound: trayāṇāṃ srāvakapratyekabuddhamahāyānānām uttamadeśaka. So he probably understands the compound to mean 'supreme teacher of the three vehicles'. Perhaps the Kangyur translation also has this interpretation in mind.  
+* VV explains: mahāsamaya = bodhicittavajra. i.e., Vairocana.  
 
-
+% resume
 > amoghapāśo vijayī vajrapāśo mahāgrahaḥ |  
 > vajrāṅkuśo mahāpāśo vajrabhairavabhīkaraḥ || 66 ||  
 > suviśuddhadharmadhātujñānagāthāḥ pādonapañcaviṃśatiḥ ||  
@@ -3897,10 +3892,10 @@ This concludes the five verses of praise for the wisdom of the five *tathāgata*
 > mgon po bcom ldan de bzhin gshegs/ /  
 > rdzogs sangs rgyas la phyag 'tshal nas/ /  
 
-And then, Vajradhara, the glorious one,  
+And then Vajradhara, the glorious,  
 Most pleased and satisfied, with folded palms,  
 Prostrated to the Buddha, the great protector,   
-The Blesssed One, the one who has thus gone, (163)  
+The Blesssed One and the *tathāgata*, (163)  
 
 
 > anyaiś ca bahuvidhair nāthair guhyendrair vajrapāṇibhiḥ |  
@@ -3916,7 +3911,7 @@ The Blesssed One, the one who has thus gone, (163)
 > sna tshog gzhan dang lhan cig tu/ /  
 > gsang bstod nas ni tshig 'di gsol/ /  
 
-And with a host of other various  
+And with a host of other numerous  
 Vajrapāṇis—the lords of *guhyaka*s,  
 Noble protectors and great wrathful kings—   
 He spoke the following intensive praise: (164)  
@@ -3938,10 +3933,10 @@ He spoke the following intensive praise: (164)
 > rnam grol 'bras bu 'tshal ba yi/ /  
 > 'gro ba'i mgon med rnams dang ni/ /  
 
-Protector, we rejoice! How excellent!    
-What you have taught is truly excellent!  
-By you our lofty aim has been fulfilled,  
-which leads to true and full awakening; (165)  
+Protector, we rejoice! How excellent!  
+It's truly excellent what you have taught!  
+By you our lofty aim has been achieved,  
+Which leads to true and full awakening; (165)  
 
 
 > jagataś cāpy anāthasya vimuktiphalakāṃkṣiṇaḥ |  
@@ -3959,8 +3954,8 @@ which leads to true and full awakening; (165)
 
 And so the aims of helpless mundane beings,  
 Who seek the fruits of perfect liberation.  
-Just this, taught in the Māyājāla's system,  
-Is the pure path that leads to excellence, (166)   
+Just this, taught in the *Māyājāla*'s system,  
+Is the pure path leading to excellence: (166)   
 
 
 > gambhīrodāravaipulyo mahārtho jagadarthakṛt |  
@@ -3981,10 +3976,10 @@ Is the pure path that leads to excellence, (166)
 > dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/ bcom ldan 'das de bzhin gshegs pa shAkya thub pa'i zhal nas gsungs pa rdzogs sho//  
 >	kun gyis bshad] VM; rnams kyis bshad NyiGyu  
 
-For with largeness, vastness, and profundity,  
-With great meaning, fulfilling beings' aims,  
-Just this is the sphere of the awakened ones,   
-That's taught by every true and perfect buddha. (167)
+With largeness, vastness, and profundity,  
+With meaning great, achieving beings' aims,  
+Just this makes up the sphere of every buddha  
+That's taught by every truly awakened one. (167)  
 
 
 ## Colophon:

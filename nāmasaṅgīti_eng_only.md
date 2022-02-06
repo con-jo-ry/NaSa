@@ -2,7 +2,7 @@
 
 ## Scribe/translator's homage:
 
-Homage to ever-youthful Mañjuśrī!  
+Homage to the ever-youthful Mañjuśrī!  
 
 ## 1. The request  
 
@@ -37,9 +37,9 @@ Bowing their bodies reverentially—(5)
 
 
 Paid homage to the fully awakened one,  
-Protector, blessed one, *tathāgata*.  
+Protector, Blessed One, *tathāgata*.  
 And joining his two palms respectfully,  
-He said before the Lord the following: (6)  
+He said before the lord the following: (6)  
 
 
 'O omnipresent lord, for my benefit,  
@@ -57,7 +57,7 @@ So that they may obtain the highest fruit, (8)
 
 
 May you—the most supreme awakened one,  
-The blessed one, the world's guru, teacher,  
+The Blessed One, the world's guru, teacher,  
 Who knows the great *samaya*'s reality,  
 Aware of wishes and abilities—(9)  
 
@@ -82,7 +82,7 @@ By all the buddhas of the present age; (12)
 
 Which were respectfully recited in  
 This great tantra, the *Net of Illusion*,  
-By great Vajrapaṇis, beyond number,  
+By great Vajrapāṇis, beyond number,  
 Joyous upholders of the secret mantras. (13)  
 
 
@@ -121,7 +121,7 @@ Dispelling all three types of bad rebirth—(18)
 With his sweet-sounding voice, like that of Brahmā,  
 Filling all reaches of the triple world,  
 Replied as follows to the lord of secrets,  
-To Vajrapāṇia, strongest of the strong: (19)  
+To Vajrapāṇi, strongest of the strong: (19)  
 
 
 "That you, being suffused with great compassion  
@@ -140,7 +140,7 @@ And so, O master of secrets, I shall
 Teach this to you in a way most excellent.  
 Listen to it with single-minded focus.'  
 'How excellent!' replied Vajrapāṇi,  
-That is most excellent, O blessed one.' (22)  
+That is most excellent, O Blessed One.' (22)  
 
 
 ## 3. The survey of the six families  
@@ -155,6 +155,7 @@ The family of and yet beyond the world,
 The family great in brightening the world,  
 The foremost family of *mahāmudrā*,  
 And the great family of the great *uṣṇīṣa*. (24)  
+
 
 ## 4. The stages of awakening according to the Net of Illusion  
 
@@ -314,140 +315,140 @@ Endowed with tenfold mastery,[^45-3] great being, (45)
 [^45-3]: Vilāsavajra and Vimalamitra both understand this to refer to the ten masteries (*vaśitā*; Tib. *dbang*)—namely the power over 1. life; 2. mind; 3. material provisions; 4. action; 5. birth; 6. aspirations; 7. resolve; 8. supernatural powers; 9. Dharma; and 10. knowledge.  
 
 
-Beginningless, free from complexities,  
+Beginningless, void of complexities,  
 By nature pure, reality in essence,  
 Speaker of truth, speaking consistently,  
-With actions that align with what he says, (46)  
+With speech and action perfectly alligned, (46)  
 
 
-Non-dual, the teacher of what is non-dual,  
+Non-dual, teacher of non-dualality,  
 Established at reality’s summit,  
-Having the roar of lion-like no self,   
-Terrifying the deer-like bad seekers,[^47-1] (47)  
+Whose roar is that of lion-like no self,   
+Who terrifies deer-like misled seekers,[^47-1] (47)  
 
-[^47-1]: 'Seekers' refer to those who seek awakening. They are described as 'bad' insofar as they do not follow the Buddhist path, and they are 'deer-like' because they are terrified by the roar of the lion-like 'no self' doctrine.  
+[^47-1]: 'Seekers' (Skt. *tīrthya*; Tib. *mu stegs*) refer to those who seek liberation from suffering. They are described as 'misled' or 'bad' insofar as they do not follow the Buddhist path, and they are 'deer-like' because they are terrified by the roar of the lion-like 'no self' doctrine.  
 
 
-With fruitful journeys, travelling everywhere, [^48-1]  
-Swift like the minds of all *tathāgata*s,  
-Victor, slayer of foes, triumphant one,  
-With great forces,[^48-2] a universal monarch, (48)  
+With journeys fruitful, travelling everywhere, [^48-1]  
+As swift as all *tathāgata*s' thinking,  
+A victor, triumphant, a slayer of foes,  
+A universal king, with forces great,[^48-2] (48)  
 
 [^48-1]: Based on Vimalamitra's commentary, which contains a reading of the text found only in certain witnesses of the Tibetan translation (*kun tu 'gro ba'i don yod stobs*), we may translate the first quarter as, 'he who has strength that is fruitful for all beings'.   
 [^48-2]: Here 'force' (*bala*; Tib. *stobs*) is most naturally understood in the sense of military force.  
 
 
-Assembly master, teacher of assemblies,   
-Assembly lord, assembly chief, ruler,  
-Exerting great influence, precious load bearer,   
-Not led by others, with the greatest way, (49)  
+Assembly head, instructor for assemblies,  
+Assembly lord, assembly chief, and ruler,  
+Most influential, bearing precious burdens,  
+Not other-bound, his way the greatest way, (49)  
 
 
 The lord of speech, the master of expression,  
-Skilful in words, language master, truth teller,  
-With boundless words, the teacher of the truth,   
-Providing instructions on fourfold truths, (50)  
+Most skilled with words, adept with language, truthful,  
+With boundless words, the teacher of the truth,  
+Providing teachings on fourfold truth, (50)  
 
 
-Neither reversing nor returning, rhino,  
-The leader of the pratyekabuddhas,[^51-1]:  
-Gone forth through going forth in different ways,   
-The singular cause of the basic elements, (51)  
+Not turning back, not coming back, rhino,  
+The leader of the *pratyekabuddha*s,[^51-1]  
+Gone forth by going forth in different ways,  
+The single cause of all great elements, (51)  
 
 [^51-1]: Vilāsavajra explains that 'rhino' refers to the *pratyekabuddha*s who lead solitary lives, whereas the following refers to *pratyekabuddha*s who congregate in groups.  
 
 
-Bhikṣu, *arhat*, defilements exhausted,  
-One free of passion, master of the senses,  
-Met with comfort, met with security,  
-For he, having cooled down, is without stains; (52)  
+*Bhikṣu*, *arhat*, defilements exhausted,  
+Devoid of passion, master of the senses,  
+Arrived at comfort, met with security,  
+For he, having cooled down, is free from stains; (52)  
 
 
 Fully equipped with knowledge and its feet,[^53-1]  
-Sugata, supreme knower of the world,  
-Free of conceptualising 'me' and 'mine',  
-Established in the way of the two truths. (53)  
+A *sugata*, best knower of the world,  
+Not thinking 'me', not clinging onto 'mine',  
+Established in the system of two truths, (53)  
 
 [^53-1]: This term (vidyācaraṇasampanna; Tib. rig pa dang zhabs su/rkang par ldan pa) is a stock epithet for the Buddha and refers to knowledge and good conduct, or, more technically, the Eightfold Path of the Nobles (namely, knowledge refers to right view, and its "feet" or supporting factors are the remaining seven branches.  
 
 
-Upon the edge of *saṃsāra*'s far shore,  
-With work accomplished, resting on the bank,  
-Manifesting from untainted awareness,   
-Penetrating with his sword-like insight, (54)	  
+Upon the edge of cyclic life's far shore;  
+With deeds accomplished; resting on the bank;  
+Emerging from untainted, lone awareness;  
+With sword-like insight ever penetrating; (54)	
 
 
-Sublime Dharma, king of Dharma, the sun,  
+Sublime Dharma, the Dharma king, the sun,  
 Supreme illuminator of the world,  
-The sovereign over Dharma, lord of Dharma,  
-Instructor of the path to excellence, (55)  
+The sovereign of Dharma, the Dharma lord,  
+The teacher of the path to excellence, (55)  
 
 
-Accomplisher of aims, fulfilling wishes,  
-Bereft of forming desires of any kind,  
-Free from thinking, a source that never runs out,   
-The *dharmadhātu*, supreme, beyond decay, (56)  
+Accomplishing all goals, fulfilling wishes,  
+Completely free from want of any kind,  
+Bereft of thought, an undepleting source,  
+The Dharma source, supreme, beyond decay, (56)  
 
 
-Rich in merit, merit's accumulation,   
-Wisdom, great unique wisdom, wisdom-rich,   
-Aware of what exists and what does not,   
-Replete with the twofold accumulation, (57)  
+Enriched by merit, merit's gathering,  
+Great unique wisdom, wisdom, wisdom-rich,  
+Aware of what exists and what does not,  
+While gathering the twofold gathering, (57)  
 
 
-Yogi, king of the universe, eternal,   
-Meditation, meditation's focus,  
-The master of intelligent thinking—   
-For only by one self is he experienced—   
+Eternal, *yogin*, king of everywhere,  
+The object and the mind of concentration,  
+The master of intelligent reflection—  
+For by oneself alone is he experienced—  
 The unmoving and ultimate beginning,  
-Who bears awakening's threefold body. (58)  
+Bearing embodiment in its three forms, (58)  
 
 
-Consisting of five kāyas, he is the Buddha,  
-Omnipresent, formed of the five wisdoms,[^59-1]  
+Comprised of five bodies,[^59-1] the awakened one,  
+The omnipresent, formed of five wisdoms,  
 Wearing a crown made of the five buddhas,  
-With the five eyes,[^59-2] bearing no attachments, (59)  
+With eyes of five kinds,[^59-2] bearing no attachments, (59)  
 
-[^59-1]: Four of these five *kāya*s are the *dharmakāya*, *svabhāvakāya*, *sambhogakāya*, and *nirmāṇakāya*. The fifth is various given as 'the body of ripening' (*vipākakāya*), 'the body of wisdom-dharma' (**jñānadharmakāya*), or the vajra body (*vajrakāya*). Vilāśavajra refers to the first of these, whereas Vimalamitra refers to the fourth.  
+[^59-1]: Four of these five bodies are the *dharmakāya*, *svabhāvakāya*, *sambhogakāya*, and *nirmāṇakāya*. The fifth is given variously as 'the body of ripening' (*vipākakāya*), 'the body of wisdom-dharma' (**jñānadharmakāya*), or the vajra body (*vajrakāya*). Vilāśavajra refers to the first of these, whereas Vimalamitra refers to the fourth.  
 [^59-2]: The five eyes, which are five organs of superior vision, are the bodily eye, divine eye, insight eye, dharma eye, and buddha's eye.  
 
 
-Progenitor of all awakened ones,   
+The great progenitor of all the buddhas,  
 The best and foremost offspring of the buddhas,  
-Rising up from the world through his insight,   
-Sourceless, dharma source, ending existence, (60)  
+Arising from the world that is his insight,  
+The sourceless, Dharma source, existence ending, (60)  
 
 
-Comprised of vajras, wholly firm and dense,   
-Newly born sovereign ruler of the world,  
-Emerging from the sky, and self arising,  
-A great inferno of knowledge of wisdom, (61)  
+Comprised of vajras, wholly firm and dense,  
+The newborn sovereign ruler of the world,  
+Emerging from the sky, the self arisen,  
+A great inferno of knowledge of insight, (61)  
 
 
-A great beacon, the one who blazes forth,[^62-1]   
-The lamp of wisdom, he who is blazing,  
-A light for beings, the lantern of wisdom,  
-With great energy, radiating light, (62)  
+The one who blazes forth,[^62-1] a great beacon,  
+A lamp of wisdom, he who is blazing,  
+A light for beings, a lantern unto wisdom,  
+With energy supreme, most radiant, (62)  
 
 [^62-1]: Vairocana. The name Mahāvairocana occurs in verse 42.  
 
 
-The king of vidyās, lord of supreme mantras,   
-The king of mantras, fulfilling great aims,  
-Great *uṣṇīṣa*, marvellous *uṣṇīṣa*,  
-Master of space, revealing everything, (63)  
+The king of *vidyā*s, lord of foremost mantras,  
+The king of mantras, serving noble aims,  
+The great *uṣṇīṣa*, marvellous *uṣṇīṣa*,  
+The lord of space, revealer of all things, (63)  
 
 
-Foremost body of all awakened ones,  
-With eyes the joy of every living being,   
+The best embodiment of every buddha,  
+With eyes the joy of every living being,  
 Creator, manifesting varied forms,  
-Great sage, praiseworthy, venerable, (64)  
+Great sage, most praiseworthy, most venerable, (64)  
 
 
-Upholder of the three families,[^65-1] *mantrin*,  
-Bearing the mantra of the great *samaya*,[^65-2]    
-Foremost keeper of the three precious gems,  
-Teacher of the three supreme vehicles; (65)  
+Upholder of the triple family,[^65-1] *mantrin*,  
+Bearing the mantra of the foremost pledge,[^65-2]  
+The foremost keeper of the triple gem,  
+The teacher of the three supreme *yāna*s; (65)  
 
 [^65-1]: The three families are those of Body, Speech, and Mind.  
 [^65-2]: The great samaya may, as Vilāsavajra suggests, refer to a deity, or it may refer more generally to the pledges of the Vajrayāna.   
@@ -458,6 +459,7 @@ The great snatcher, the snare made of vajras,
 The hook made of vajras, the supreme snare.[^66-1]  
 
 [^66-1]: A number of names in this verse correspond to well-known deities: Amoghapāśa (translated as 'with an unfailing snare') is a form of Lokeśvara, while Vajrapāśa (translated as 'the snare made of vajras') and Vajrāṅkuśa (translated as 'the hook made of vajras') are found as the door-keepers in a number of maṇḍalas.   
+
 
 ## 7. The mirror-like wisdom  
 He is Vajrabhairava, the terrific, (66)  
@@ -818,6 +820,7 @@ Holding the true Buddha's awakening,
 Being the direct perception of all buddhas,  
 He is the flame of wisdom, most luminous; (118)  
 
+
 ## 9. The wisdom of equality   
 
 The great fulfiller of desired aims,  
@@ -992,9 +995,10 @@ Having realised the pinnacle of bodies,
 Displaying his forms of every possible kind,  
 He is the great gem, most precious stone; (142)  
 
+
 ## 10. The wisdom of performing actions   
 
-To be realised by all of the buddha,  
+To be realised by all of the buddhas,  
 The buddhas' unsurpassed awakening,  
 Devoid of syllables, yet born of mantra,  
 Bred of Great Mantra's threefold lineage,[^143-1] (143)  
@@ -1094,6 +1098,7 @@ Most fortunate within the threefold world,
 The glorious provider of all wealth,  
 The best amongst the glorious, Mañjuśrī. (157)  
 
+
 ## 11. Praise for the wisdom of the five *tathāgata*s.
 
 Homage to you, boon granter, best of vajras;  
@@ -1104,7 +1109,7 @@ O Buddha's awakening, homage to you; (158)
 
 O passion of the buddhas, homage to you;  
 Desire of the buddhas, I pay you homage;  
-O love of ever buddha, homage to you;  
+O love of every buddha, homage to you;  
 The joy of all the buddhas, I pay you homage; (159)
 
 
@@ -1126,43 +1131,42 @@ Homage to you, the everything of all;
 O body of wisdom, homage to you! (162)
 
 
-*Oṁ*! O you whose nature is the absence of all phenomena, whose vajra-essence is completely pure—*a ā aṃ aḥ*!
-All phenomena are by nature fully pure—to explain, they are fully pure based on state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*!
-Seize, seize the heart of all tathāgatas.
-*Oṁ hūṃ hrīḥ*! O Blessed One, wisdom body, lord of speech whose speech is great, he who is all Dharma, whose essence is the wisdom of the Dharma realm that's completely pure like stainless space—*āḥ*!
+*oṁ sarva-dharmābhāva-svabhāva viśuddha-vajra a ā aṃ aḥ | prakṛti-pariśuddhāḥ sarva-dharmā yad uta sarva-tathāgata-jñāna-kāya-mañjuśrī-pariśuddhitām upādāyeti a āḥ | sarva-tathāgata-hṛdayaṃ hara hara | oṁ hūṁ hrīḥ bhagavan jñāna-mūrti vāg-īśvara mahā-vāca sarva-dharma gaganāmala-supariśuddha-dharma-dhātu-jñāna-garbha āḥ |*[^162]  
+
+[^162]: *Oṁ*! O you whose nature is the absence of all phenomena, whose vajra-essence is completely pure—*a ā aṃ aḥ*! All phenomena are by nature fully pure—to explain, they are fully pure based on state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*! Seize, seize the heart of all tathāgatas. *Oṁ hūṃ hrīḥ*! O Blessed One, wisdom body, lord of speech whose speech is great, he who is all Dharma, whose essence is the wisdom of the Dharma realm that's completely pure like stainless space—*āḥ*!
 
 
-And then, Vajradhara, the glorious one,  
+And then Vajradhara, the glorious,  
 Most pleased and satisfied, with folded palms,  
 Prostrated to the Buddha, the great protector,   
-The Blesssed One, the one who has thus gone, (163)  
+The Blesssed One and the *tathāgata*, (163)  
 
 
-And with a host of other various  
+And with a host of other numerous  
 Vajrapāṇis—the lords of *guhyaka*s,  
 Noble protectors and great wrathful kings—   
 He spoke the following intensive praise: (164)  
 
 
-Protector, we rejoice! How excellent!    
-What you have taught is truly excellent!  
-By you our lofty aim has been fulfilled,  
-which leads to true and full awakening; (165)  
+Protector, we rejoice! How excellent!  
+It's truly excellent what you have taught!  
+By you our lofty aim has been achieved,  
+Which leads to true and full awakening; (165)  
 
 
 And so the aims of helpless mundane beings,  
 Who seek the fruits of perfect liberation.  
-Just this, taught in the Māyājāla's system,  
-Is the pure path that leads to excellence, (166)   
+Just this, taught in the *Māyājāla*'s system,  
+Is the pure path leading to excellence: (166)   
 
 
-For with largeness, vastness, and profundity,  
-With great meaning, fulfilling beings' aims,  
-Just this is the sphere of the awakened ones,   
-That's taught by every true and perfect buddha. (167)
+With largeness, vastness, and profundity,  
+With meaning great, achieving beings' aims,  
+Just this makes up the sphere of every buddha  
+That's taught by every truly awakened one. (167)  
 
 ## Colophon:
 
-This concludes the supreme chanting of the names of the Blessed One Mañjuśrī, the wisdom deity. Extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its chapter on the net of *samāhi*, it was spoken by the Blessed One Śākyamuni, the *tathāgata*.   
+This concludes the supreme chanting of the names of the Blessed One Mañjuśrī, the wisdom deity. Extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its "Net of *Samādhi*" chapter, it was spoken by the Blessed One Śākyamuni, the *tathāgata*.   
 
 
