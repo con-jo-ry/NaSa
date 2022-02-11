@@ -3191,12 +3191,12 @@ Knowing for every mind each moment’s object, (134)
 >> 	tshul gyis] VM; tshul gyi NyiGyu  
 >> 	ston pa po] NyiGyu; stogs pa po VM  
 
-And manifesting for the sake of all  
+And manifesting for the sake of beings   
 With means derived from varied vehicles,  
 Having gone forth on all three vehicles,  
 Abiding in the single vehicle’s fruit, (135)  
 
-* 135ab, *vibhāvaka: The ancient translation renders vibhāvaka as *rtogs pa po*. The same usage can be found below, as well as *bye brag 'byed*. The translator has probably understood this word in a very cognitive sense, but for this verse such a meaning is striking inappropriate. We therefore go against the ancient translation and translate *vibhāvaka* as 'manifesting'. *naya* has been dropped from the English translation for smoothness.     
+* 135ab, *vibhāvaka*: The ancient translation renders *vibhāvaka* as *rtogs pa po*. The same usage can be found below, as well as *bye brag 'byed*. The translator has probably understood this word in a very cognitive sense, but for this verse such a meaning is striking inappropriate. We therefore go against the ancient translation and translate *vibhāvaka* as 'manifesting'. *naya* has been dropped from the English translation for smoothness.     
 
 
 > kleśadhātuviśuddhātmā karmadhātukṣayaṃkaraḥ |  
