@@ -394,7 +394,7 @@ Stood with his body bowed before the lord. (16)
 > zhus pa'i le'u ste dang po'o// //  
 >>		% Following this, only VM is collated for some verses  
 
-This concludes the sixteen verses showing the request.  
+This concludes sixteen verses showing the request.  
 
 
 ## 2. The Reply  
@@ -527,7 +527,7 @@ Listen to it with single-minded focus.'
 'How excellent!' replied Vajrapāṇi,  
 That is most excellent, O Blessed One.' (22)  
 
-This concludes the six verses showing the reply.  
+This concludes six verses showing the reply.  
 
 
 * 20-23: Here we follow the ancient translation (as well as VM), which seems to have understood the Sanskrit 'yat' in verse 20 to be in a way connected with 'sādhu' of the same verse, i.e. in the sense of 'It's excellent that...'. The 'tat' in 22 has the sense of 'So (de phyir) I will teach it to you'. *sādhu* in verse 22 has been understood adverbially. VV, and probably also the Dege translation, has connected 'yat' in 20 with 'tat' in 22, in the sense of 'since ... therefore'. This is not really a substantial difference. In 22, the Dege translation's 'gsang ba'i bdag po khyod legs so' is difficult to account for.    
@@ -579,7 +579,7 @@ The family great in brightening the world,
 The foremost family of *mahāmudrā*,  
 And the great family of the great *uṣṇīṣa*. (24)  
 
-This concludes the two verses showing the survey of the six families.  
+This concludes two verses showing the survey of the six families.  
 
 
 ## 4. The stages of awakening according to the Net of Illusion  
@@ -641,7 +641,7 @@ Which bear the quality of non-arising: (25)
 *jñāna-kāya* *vāgī-śvara*  
 *arapacanāye te namaḥ* |[^27-1] (27)  
 
-This concludes the three verses showing the stages of awakening according to the *Net of Illusion*.  
+This concludes three verses showing the stages of awakening according to the *Net of Illusion*.  
 
 [^27-1]: This mantra can be translated as follow: *Oṁ*, homage to you, Vajratīkṣṇa ('vajra-sharp'), Duḥkhaccheda ('eliminator of suffering'), Prajñājñānamūrti ('embodiment of insight-wisdom'), Jñānakāya ('wisdom body'), Vāgīśvara ('lord of speech'), Arapacana!  
 
@@ -959,7 +959,8 @@ Protector as the best of great *vidyā*s,[^41-1]
 Guru in being the best of great *mantra*s,  
 Riding along the Mahāyāna's path,  
 Himself the Mahāyāna's foremost way; (41)  
-This concluded the fourteen verses showing the great Vajradhātu *maṇḍala*.  
+  
+This concluded fourteen verses showing the great Vajradhātu *maṇḍala*.  
 
 [^41-1]: Here we believe that the majority of witnesses of the Tibetan translations have suffered from corruption, with the word '*rig*' becoming '*rigs*'. Following the corrupted text, we may translate the name, 'the best of the great families'. This reading, along with its interpretations, appears to be common in Tibetan commentaries, including that of Vimalamitra. Witnesses of the text reading '*rig*' (*vidyā*) can also be found, and these are almost certainly to be regarded as correct.  
 
@@ -1535,7 +1536,7 @@ The teacher of the three supreme *yāna*s; (65)
 * The ancient Tibetan translation evidently understands *uttama* to qualify *triyāna*, but this is a slightly problematic analysis. VV analyses the compound: trayāṇāṃ srāvakapratyekabuddhamahāyānānām uttamadeśaka. So he probably understands the compound to mean 'supreme teacher of the three vehicles'. Perhaps the Kangyur translation also has this interpretation in mind.  
 * VV explains: mahāsamaya = bodhicittavajra. i.e., Vairocana.  
 
-% resume
+
 > amoghapāśo vijayī vajrapāśo mahāgrahaḥ |  
 > vajrāṅkuśo mahāpāśo vajrabhairavabhīkaraḥ || 66 ||  
 > suviśuddhadharmadhātujñānagāthāḥ pādonapañcaviṃśatiḥ ||  
@@ -1552,20 +1553,19 @@ The teacher of the three supreme *yāna*s; (65)
 > rdo rje lcags kyu zhags pa che/ /  
 > [VM f. 18r] rdo rje 'jigs byed 'jigs par byed/ /  
 
-Victorious, with snare unfailing snare,  
-The great snatcher, the snare made of vajras,  
-The hook made of vajras, the supreme snare.[^66-1]  
-! not smooth  
+With snare unfailing, most victorious,  
+Great snatcher, snare consisting of vajras,  
+The vajra hook, the snare forever supreme.[^66-1]  
 
-[^66-1]: A number of names in this verse correspond to well-known deities: Amoghapāśa (translated as 'with an unfailing snare') is a form of Lokeśvara, while Vajrapāśa (translated as 'the snare made of vajras') and Vajrāṅkuśa (translated as 'the hook made of vajras') are found as the door-keepers in a number of maṇḍalas.   
+[^66-1]: A number of names in this verse correspond to well-known deities: Amoghapāśa (translated as 'with snare unfailing') is a form of Lokeśvara, while Vajrapāśa (translated as 'snare consisting of vajras') and Vajrāṅkuśa (translated as 'the vajra hook') are found as the door-keepers in a number of *maṇḍala*s.  
 
-* VV: amoghapāsa = Bodhicitavajra; Vajrapāśa = Ratnasambhava; Mahāgraha = Vajranigaḍa/Amitābha; Vajrāṅkuśa = Akṣobhya; Mahāpāśa = Amoghasiddhi. VV appears to treat Vajrapāśa onwards as proper names, offering no breakdown.    
+* VV: amoghapāsa = Bodhicitavajra; Vajrapāśa = Ratnasambhava; Mahāgraha = Vajranigaḍa/Amitābha; Vajrāṅkuśa = Akṣobhya; Mahāpāśa = Amoghasiddhi. VV appears to treat Vajrapāśa onwards as proper names, offering no breakdown.  
 
-This concludes the twenty-four verses and three quarters showing the wisdom of the immaculate dharmadhātu.  
+This concludes twenty-four verses and three quarters showing the wisdom of the immaculate dharmadhātu.  
 
 
 ## 7. The mirror-like wisdom  
-He is Vajrabhairava, the terrific, (66)  
+He is terrific, Vajrabhairava, (66)  
 
 * VV: vajrabhairavabhīkaraḥ is a dvandva  
 
@@ -1583,15 +1583,15 @@ He is Vajrabhairava, the terrific, (66)
 > keng rus mche ba gtsigs pa po/ /  
 > ha la ha la gdong brgya pa/ /  
 
-The king of anger,[^67-1] six-faced, dreadful,   
-With six eyes, and with six arms, powerful,    
-A skeleton, baring his terrible fangs,  
-Halāhala,[^67-2] of one hundred faces, (67)  
+Six-faced, the king of anger,[^67-1] hideous,  
+Six-eyed, six-armed, the ever powerful,  
+Baring his terrible fangs, a skeleton,  
+Halāhala,[^67-2] one with a hundred faces, (67)  
 
-[^67-1]: Alternatively, 'King of wrathful deities'.   
+[^67-1]: Alternatively, 'King of wrathful deities'.  
 [^67-2]: Halāhala is the poison that, according to Hindu mythology, was produced during the churning of the ocean.  
 
-* VV: halāhalaśatānanaḥ is dvandva; presumably he takes duṃṣṭṛā* in the same way, since he glosses two names bsaed on it. Otherwise *karāla is caseless.  
+* VV: *halāhalaśatānanaḥ* is *dvandva*; presumably he takes *daṃṣṭrākarālakaṅkāla* in the same way, since he glosses two names based on it. Otherwise *karāla* is without a case ending.  
 
 
 > yamāntako vighnarāḍ vajravego bhayaṃkaraḥ |  
@@ -1608,15 +1608,15 @@ Halāhala,[^67-2] of one hundred faces, (67)
 > sgyu 'phrul rdo rje gsus po che/ /  
 > 	% rdo rje'i snying - monlam  
 
-Yama's killer,[^68-1] king over obstacles,[^68-2]  
-With vajra-like impetus, terrorising,  
-Vajra-hearted, with the renowned vajra,  
-Large-bellied, with the vajra of illusion, (68)  
+The Yama killer,[^68-1] ruling obstacles,[^68-2]  
+With vajra impetus, instilling fear,  
+The vajra-hearted, famous for his vajra,  
+With belly large, with vajras of illusion, (68)  
 
-[^68-1]: This translates the name Yamāntaka.  
-[^68-2]: This translates the name Vighnarāja, a common epithet for Gaṇeśa.   
+[^68-1]: This translates the name Yamāntaka. Yama can be understood as the personification of death or as death's messenger.  
+[^68-2]: This translates the name Vighnarāja, a common epithet for Gaṇeśa.  
 
-* VV: māyā nirmāṇaṃ. tad eva vajram, abhedyarūpatvāt. yasya sa.  
+* VV: māyā nirmāṇaṃ. tad eva vajram, abhedyarūpatvāt. yasya saḥ.  
 
 
 > kuliśeśo vajrayonir vajramaṇḍo nabhopamaḥ |  
@@ -1632,10 +1632,10 @@ Large-bellied, with the vajra of illusion, (68)
 > mi g.yo ral pa gcig gis bsgyings/ /  
 > glang chen ko rlon gos su gyon/ /  
 
-Born of the vajra, sovereign of the vajra,  
-Having the vajra as his core, like space,  
-Unmoving,[^69-1] proud of his single dreadlock,   
-Clothed in the fresh hide of an elephant, (69)  
+The vajra-born, the sovereign of the vajra,  
+Bearing the vajra as his core, like space,  
+Unmoving,[^69-1] haughty from his single dreadlock,  
+His clothes the hide fresh from an elephant, (69)  
 
 [^69-1]: This translates the name Acala.  
 
@@ -1657,9 +1657,9 @@ Clothed in the fresh hide of an elephant, (69)
 > rdo rje gad mo cher sgrogs pa/ /  
 > 	% grags chen - monlam  
 
-The great terrific one, crying *hā hā*,  
-Screaming *hī hī*, instilling intense fear,  
-Laughing a screeching laugh and a booming laugh,  
+The great terrific one, who cries *hā hā*,  
+Screaming *hī hī*, instilling fervent fear,  
+Laughing a screeching laugh, a booming laugh,  
 He is the vajra laugh, the mighty howl; (70)  
 
 * VV seems to treat the names in 70cd more like proper names. For our translation, *bahuvrīhi* v. *tatpuruṣa* understandings vaguely follow Tib., but they are mostly just what sounds nicest to us.  
@@ -1679,13 +1679,13 @@ He is the vajra laugh, the mighty howl; (70)
 > rdo rje drag po dga' ba che/ /  
 > rdo rje hUM ste hUM zhes sgrogs/ /  
 
-He is Vajrasattva, the great *sattva*,  
-Great bliss, the sovereign of the vajra,  
-Ferocity of the vajra, great joy,  
-Voicing Vajrahūṁkāra’s *huṁ* syllables, (71)  
+He is the noble *sattva*, Vajrasattva,  
+The vajra's sovereign lord, the highest bliss,  
+The vajra's wrathfulness, the highest joy,  
+Voicing the *hūṁ*s of Vajrahūṁkāra, (71)  
 
 * 71d: 71d, as per the Tattvasaṅgraha, he has the four hūṁ syllables of Vajrahūṁkāṛa.  
-* The Kangyur translation's 'hūṁ gi gzugs' perhaps indicates that *kṛti* was understood in the sense of ākṛti. Davidson translates 'practising', but *huṁkṛti* probably most naturally has the same sense as *hūṁkāra* - 'the making the sound *hūṁ*'.   
+* The Kangyur translation's 'hūṁ gi gzugs' perhaps indicates that *kṛti* was understood in the sense of ākṛti. Davidson translates 'practising', but *huṁkṛti* probably most naturally has the same sense as *hūṁkāra* - 'the making the sound *hūṁ*' - i.e., the syllable *hūṁ*; i.e., *hūṁ*.  
 
 
 > [ed-d p. 55] vajrabāṇāyudhadharo vajrakhaḍgo nikṛntanaḥ |  
@@ -1700,14 +1700,14 @@ Voicing Vajrahūṁkāra’s *huṁ* syllables, (71)
 > rdo rje ral gris ma lus gcod/ /  
 > rdo rje kun 'chang rdo rje can/ /  
 > rdo rje gcig pu g.yul sel ba/ /  
-> 	% mtshon du rdo rje'i - monlam; ral gri - monlam;   
+> 	% mtshon du rdo rje'i - monlam; ral gri - monlam;  
 
-Wielding as his weapon a vajra arrow,  
-With his vajra sword, slashing thoroughly,  
-Holder of all vajras, vajra bearer,  
-The sole vajra bearer, removing conflict, (72)  
+Wielding a vajra arrow as his weapon,  
+While slashing thoroughly, with vajra sword,  
+Upholding every vajra, vajra bearing,  
+With but a single vajra, ending conflict, (72)  
 
-* 72a: VV arrows marked with a vajra; VM vajra-like bow and arrow.   
+* 72a: VV arrows marked with a vajra; VM vajra-like bow and arrow.  
 * 72c: The Sanskrit text, confirmed by Vilāsavajra, reads *viśvavajradhara*, i.e. 'holder of the crossed vajra'. Both Tibetan translations have either understood viśva in the sense of 'all', or have read something like *sarvavajradhara* in its place.  
 * 72c: The Sanskrit text reads ekavajrī, which VV interprets as a *karmadhāraya*. This is perhaps not the first understanding one would arrive at from *rdo rje gcig bu*, but maybe it's possible.  
 * On *raṇaṃjaha* and *jahāti*, see Edgerton's entries (he suggests the meanings 'removes' 'abolishes'). Dhātupāṭha 3.9: *hā* = *tyāge*.  
@@ -1726,10 +1726,12 @@ The sole vajra bearer, removing conflict, (72)
 > rdo rje 'bebs pa 'bebs pa che/ /  
 > mig brgya pa ste rdo rje'i mig /  
 
-With frightening eyes like a vajra ablaze,  
+With eyes most dreadful like a blazing vajra,  
 With hair that's like a vajra set alight,  
-Great entering, making the vajra enter,  
+Great entering,[^73-1] the entry of the vajra,  
 With eyes like vajras, with a hundred eyes, (73)  
+
+[^73-1]: Here 'entering' (Skt. *āveśa*, Tib. *'bebs pa*) can be understood in the sense of 'empowerment', 'blessing', or 'possession'.  
 
 * VV: vajralocana = he who has two vajra-like eyes.  
 
@@ -1749,9 +1751,9 @@ With eyes like vajras, with a hundred eyes, (73)
 > 	% rdo rje'i snying po - monlam  
 
 The one whose body sprouts with vajra hairs,  
-Whose one body is marked by vajra hairs,  
+Whose unique form is marked by vajra hairs,  
 Whose fingernails advance with vajra tips,  
-Whose skin is compact like a vajra’s core. (74)  
+Whose skin is firm as if a vajra’s core. (74)  
 
 * 74c: VV: 'Who acts with nails resembling vajra tips', VM: 'the tips of whose fingernails grow as vajras'. The Dege translation supports VV. It is uncertain whether the ancient translation hints at a different reading of the Sanskrit, or is simply a different (probably difficult to justify) interpretation. Our translation favours the ancient translation, but is a slight attempt at a compromise.  
 
@@ -1772,9 +1774,9 @@ Whose skin is compact like a vajra’s core. (74)
 > 	% rdo rje'i rgyan - monlam  
 
 Wearing a vajra garland splendidly,[^75-1]  
-Adorned with ornaments made of vajras,  
-Laughing his screech '*ha ha*', with a loud voice,  
-Six syllabled, sounding a vajra's rumble, (75)  
+Adorned with ornaments comprised of vajras,  
+With booming voice, laughing his screech '*ha ha*',  
+Six-syllabled, sounding a vajra rumble, (75)  
 
 [^75-1]: Garland (mālā; phreng ba) may refer to a mālā in the sense of rosary.  
 
@@ -1799,10 +1801,10 @@ Six syllabled, sounding a vajra's rumble, (75)
 > sgra dang ldan pa rnams kyi mchog /  
 > 	% a chen po'i - monlam; mtha' klas - monlam;   
 
-The great Mañjughoṣa and the great sound,  
-Whose roar is unique in the threefold world,  
-He is the voice that reaches the ends of space,  
-The greatest of all those endowed with voices. (76)  
+Great Mañjughoṣa, sound ever supreme,  
+A roar unique unto the threefold world,  
+The voice that reaches every bound of space,  
+Pre-eminent amongst all voice-endowed. (76)  
 
 
 * It seems likely that the ancient translation placed *mahān* in the first *pāda*, qualifying Mañjughoṣa. The translators of VV, however, did not take it that way; they treat 'jam dbyangs chen po as if translating mañjughoṣa, and omit entirely VV's gloss of mahān.  
@@ -1825,12 +1827,12 @@ This concludes ten verses and one quarter showing the mirror-like wisdom.
 > stong nyid smra ba'i khyu mchog ste/ /  
 > zab cing rgya che sgra sgrogs pa/ /  
 
-He is the one for whom there is the truth,  
-Reality, its summit, and no-self;[^77-1]   
-Unexpressed;[^77-2] best teacher of emptiness;  
-Whose voice intones profound and vast teachings; (77)  
+He is a being whose understood the truth,  
+Reality, its peak, and selflessness;[^77-1]  
+Best teacher showing emptiness; word free;[^77-2]  
+Whose voice intones the teachings, deep and vast; (77)  
 
-[^77-1]: According to Vilāśavajra, the meaning of this epithet is that Mañjuśrī has knowledge of these four things: truth, reality, reality's summit, and no-self (the commentator glosses these four as slightly different aspects of the ultimate reality).  
+[^77-1]: According to Vilāśavajra, the meaning of this epithet is that Mañjuśrī has knowledge of these four: truth, reality, reality's peak, and selflessness (the commentator glosses these four as slightly different aspects of the ultimate reality).  
 [^77-2]: Literally 'without letters'; the Sanskrit name can also mean 'imperishable'.   
 
 * Davidson's edition prints *tathātābhūtanairātmyaṃ*, and he treats *tathatā* as a separate word in his translation, as well as *bhūta* as an adjective. For our reading and interpretation of the text, we follow VV. The Tibetan translations do not obviously show that this name is a *bahuvrīhi*.   
@@ -1852,12 +1854,12 @@ Whose voice intones profound and vast teachings; (77)
 > phyogs bcu chos kyi rnga bo che/ /  
 > 	% phyogs bcu'i - monlam  
 
-The conch of Dharma, he whose sound is great,   
-The gong of Dharma, with great resonance,   
-Having entered unbounded nirvāṇa,[^78-1]  
+The conch of Dharma, bolstering great sound,  
+The gong of Dharma, greatly resonant,  
+Reaching *nirvāṇa* in unbounded form,[^78-1]  
 He is the Dharma drum of all ten quarters; (78)  
 
-[^78-1]: Unbounded nirvāṇa (apratiṣṭhitanirvāṇa; Tib. mi gnas pa'i mya ngan las 'das pa) refers to the state of liberation that is bound to neither saṃsāra nor utter quiescence. 	  
+[^78-1]: 'Unbounded *nirvāṇa*' (*apratiṣṭhitanirvāṇa*; Tib. *mi gnas pa'i mya ngan las 'das pa*) refers to the state of liberation that is bound to neither *saṃsāra* nor utter quiescence. 	  
 
 
 > arūpo rūpavān agryo nānārūpo manomayaḥ |  
@@ -1873,10 +1875,10 @@ He is the Dharma drum of all ten quarters; (78)
 > gzugs rnams thams cad snang ba'i dpal/ /  
 > gzugs brnyan ma lus 'chang ba po/ /  
 
-He is formless, with handsome form, supreme,  
-Endowed with diverse forms, comprised of mind,   
+He's formless, bearing handsome form, supreme,  
+Replete with diverse forms, comprised of mind,  
 With splendour that appears in every form,  
-Wielding control over every illusion, (79)  
+While wielding power over all illusions, (79)  
 
 * yid las skyes and yid rang bzhin probably translate the same word, the former in the sense of 'made from mind' and the latter 'having the nature of mind'.  
 
@@ -1895,8 +1897,8 @@ Wielding control over every illusion, (79)
 > dar ba chen po chos kyi tog /  
 > 	80a tshugs pa med] em.; mthungs pa med VM  
 
-Invincible, known as a great master,  
-The great sovereign who rules the threefold world,  
+Invincible, renowned as sovereign supreme,  
+The sovereign supreme who rules the threefold world,  
 Abiding on the nobles’ lofty path,  
 Great source of flourishing, the Dharma's crown, (80)  
 
@@ -1921,10 +1923,10 @@ Great source of flourishing, the Dharma's crown, (80)
 > 	81c 'chang ba] em.; 'tshang ba VM  
 > 	% 'chang ba - monlam  
 
-With a young form most unique in all worlds,  
-Elder, senior, father of living beings,  
-Who's ornamented by the thirty-two marks,  
-Most beautiful, most handsome in all worlds, (81)	  
+With youthful form unique within all worlds,  
+The elder, senior, father of all beings,  
+Adorned with thirty-two auspicious marks,  
+Most beautiful, most handsome in all worlds, (81)	
 
 * 'All worlds' in place of 'three worlds' for metrical reasons. Better solutions welcome.  
 
@@ -1942,10 +1944,10 @@ Most beautiful, most handsome in all worlds, (81)
 > mgon skyob 'jig rten yid gcugs pa/ /  
 > skyabs dang skyob pa bla na med/ /  
 
-Teacher of mundane knowledge and virtues,  
-Teacher to beings, supremely confident,  
-Protector, saviour, the world’s trustworthy guide,   
-The unsurpassed refuge, and guardian, (82)  
+The teacher of mundane virtues and knowledge,  
+The teacher to all beings, most confident,  
+The world’s trustworthy guide, protector, saviour,  
+The refuge unsurpassed, the guardian, (82)  
 
 * Kangyur translation of 82a seems incoherent. For 82c, it has translated *āpta* as *khyab pa*, which is highly questionable.  
 * First neuter name with śaraṇaṃ.  
@@ -1964,12 +1966,12 @@ The unsurpassed refuge, and guardian, (82)
 > ma rig sgo nga'i sbubs 'byed pa/ /  
 > srid pa'i dra ba 'joms pa po/ /  
 
-With enjoyments that reach the limits of space,  
-An ocean of the omniscient one’s knowledge,  
+With his enjoyments stretching throughout space,  
+The knowledge-ocean of omniscient beings,  
 Breaking the eggshell that is ignorance,  
 Smashing the cage of cyclic existence, (83)  
 
-* VV takes *gaganābhogasaṃbhogaḥ* as meaning 'full enjoyment of the enjoyment of space', apparently as a *tatpuruṣa*. Here we rely on Tib., which has understood ābhoga in the sense of 'fullness' (*paripūrṇatā*).  
+* VV takes *gaganābhogasaṃbhogaḥ* as meaning 'full enjoyment of the enjoyment of space', apparently as a *tatpuruṣa*. Here we rely on Tib., which has understood *ābhoga* in the sense of 'fullness' (*paripūrṇatā*).  
 * VV also treats *bhavapañjaradāraṇaḥ* as a *tatpuruṣa*; we feel that if so, it is best to understand *dāraṇa* as referring to the agent. 'Opening' may be a more literal translation; 'smashing' is more evocative.   
 
 
@@ -1986,10 +1988,10 @@ Smashing the cage of cyclic existence, (83)
 > ye shes dbang bskur cod pan [VM f. 21v] can/ /  
 > rdzogs pa'i sangs rgyas rgyan du thogs/ /  
 
-He who has quelled affliction in all forms,  
-Who crosses the ocean that is *saṃsāra*,  
-And crowned for the empowerment of wisdom,  
-He is adorned with the perfect buddhas; (84)  
+Quelling intense affliction thoroughly,  
+Reaching the shoreside of *saṃsāra*'s ocean,  
+Wearing the crown of wisdom consecration,  
+With perfect buddhas as his ornaments, (84)  
 
 * VV takes *śamitāśeṣasaṃkleśaḥ* as a genitive rather than instrumental bahuvrīhi. Tib. suggests the latter.  
 
@@ -2007,7 +2009,7 @@ He is adorned with the perfect buddhas; (84)
 > sgrib pa thams cad nges par grol/ /  
 > mkha' ltar mnyam pa nyid la gnas/ /  
 
-Quelling the pain of threefold suffering,  
+Soothing the pain of threefold suffering,  
 Bringing the trio[^85-1] to an end, endless,  
 Arriving at the threefold liberation,  
 Completely free of every obscuration,  
@@ -2037,7 +2039,7 @@ Having achieved sky-like equality, (85)
 Passing beyond affliction's every stain,  
 Knowing the timelessness of all three times,   
 Most eminent[^86-1] amongst all sentient beings,  
-The crown amongst those crowned with fine qualities, (86)  
+The crown amongst those crowned with fine virtues, (86)  
 
 [^86-1]: Literally 'great elephant', or 'great *nāga*', 'amongst sentient beings'. The word *nāga* at the end of the compound frequently denotes pre-eminence in general.  
 
@@ -2062,10 +2064,10 @@ The crown amongst those crowned with fine qualities, (86)
 >> 	% monlam - nyon mons kun las rnam grol ba  
 >> 	% kun gyi mchog - monlam  
 
-Completely free from all forms of substrates,[^87-1]  
+Completely free from substrates of all sorts,[^87-1]  
 Well situated on the path of space,  
 Holding a splendid wish-fulfilling jewel,  
-Omnipresent, best of all precious gems, (87)  
+The omnipresent, best of all that's precious, (87)  
 
 [^87-1]: For the Nāmasaṅgīti, we translate *upadhi* as 'substrate', but the word as a technical Buddhist term has a number of possible meanings, depending on context. For example, it can also mean 'remainder', 'body', or 'afflictions'. Tibetan translations of the Nāmasaṅgīti and other texts render this term in various ways.  
 
@@ -2087,8 +2089,8 @@ Omnipresent, best of all precious gems, (87)
 >> 	% phan 'dod - monlam  
 
 Great wish-fulfilling tree, most plentiful,  
-Supreme amongst the great vases of fortune,  
-A doer, who fulfills the aims of beings,  
+The greatest of all great auspicious vases,  
+Doer, fulfilling aims of sentient beings,  
 An ally, most beloved to all creatures, (88)  
 
 
@@ -2107,17 +2109,17 @@ An ally, most beloved to all creatures, (88)
 >> 	% dbang po - monlam  
 
 Knower of good and bad, knower of times,  
-The omnipresent knower of *samaya*s,  
+The omnipresent knower of the pledges,  
 Upholding *samaya*s, occasion knower,  
-Knower of varied aptitudes in beings,   
+Knower of varied aptitudes in beings,  
 Most skilled with liberation in three forms,[^89-1] (89)  
 
-[^89-1]: According to both Vimalamitra and Vilāsavajra, the three forms of liberations are that of śrāvakas, pratyekabuddhas, and buddhas.  
+[^89-1]: According to both Vimalamitra and Vilāsavajra, the three forms of liberations are that of *śrāvaka*s, *pratyekabuddha*s, and buddhas.  
 
 
 > guṇī guṇajño dharmajñaḥ praśasto maṅgalodayaḥ |  
 > sarvamāṅgalyamāṅgalyaḥ kīrtir lakṣmīr yaśaḥ śubhaḥ || 90 ||  
->> 	sarvamāṅgalyamāṅgalyaḥ] VV ms-c; sarvamaṅgalamāṅgalyaḥ ed-d VV ms-b   
+>> 	sarvamāṅgalyamāṅgalyaḥ] VV ms-c; sarvamaṅgalamāṅgalyaḥ ed-d VV ms-b  
 
 > yon tan ldan zhing yon tan shes/ /  
 > chos shes rab zhi bkra shis 'byung/ /  
@@ -2131,9 +2133,9 @@ Most skilled with liberation in three forms,[^89-1] (89)
 >> 	90d grags pa] em.; grags pa'i VM   
 
 Virtued, knower of virtues, Dharma knower,  
-Auspicious one, the source of auspiciousness,   
-Auspicious amongst all that is auspicious,  
-He is splendour, glory, good, and fortune; (90)  
+Auspicious, source of all auspiciousness,  
+Most auspicious of all that's auspicious,  
+Great splendour, glory, good, and fine fortune; (90)  
 
 * 90b: The Kangyur translation reads *rab zhi*, which may have arisen from the reading (or misreading) *praśānta*. The ancient translation has understood *praśasta* in the sense of 'auspicious', but it can also mean 'lauded' etc.  
 * 90c: Davidson appears to interpret (incorrectly) *māṅgalya* as meaning 'auspiciousness'; it is, as VV shows, and adjective. He also translates śubha as 'goodness', while it too should probably be an adjective.   
@@ -2142,7 +2144,7 @@ He is splendour, glory, good, and fortune; (90)
 
 > mahotsavo mahāśvāso mahānando mahāratiḥ |  
 > satkāraḥ satkṛtir bhūtiḥ pramodaḥ śrīyaśaspatiḥ || 91 ||  
->> 	śrīyaśaspatiḥ] VV; śrīr yaśaspatiḥ ed-d   
+>> 	śrīyaśaspatiḥ] VV; śrīr yaśaspatiḥ ed-d  
 
 > dbugs 'byin chen po dga' ston che/ /  
 > dga' ba chen po rol pa che/ /  
@@ -2155,10 +2157,10 @@ He is splendour, glory, good, and fortune; (90)
 > mchog tu dga' ba grags bdag dpal/ /  
 >> 	91d mchog tu dga' ba] em.; mtshog tu dga' ba'i VM  
 
-Great reassurance, and great celebration,  
-Great joy, and one for whom there is great pleasure,   
-Reverence, abundance, venerable action,  
-Great joy, a glorious master of splendour, (91)  
+Great reassurance, foremost celebration,  
+Great joyouness, the highest form of pleasure,  
+Abundance, reverence, action venerable,  
+Great happines, the noble lord of splendour, (91)  
 
 * 91c satkāra and satkṛti appear to be complete synonyms, but VV gives a creative interpretation of the latter: 'the action of the venerable'. *bskur sti* and *rim gro* are also synonyms.   
 * VV reads śrīyaśapati and interprets it as 'the lord of the splendour of goddesses'. The reading is attractive, but the interpretation is a bit forced; hence we follow Tib.  
@@ -2180,10 +2182,10 @@ Great joy, a glorious master of splendour, (91)
 > 'jigs pa ma lus sel ba po/ /	  
 >> 	'jigs chen dgrs] em.; 'jig rten dgra VM  
 
-Wished for, the greatest granter of what's wished,  
-Refuge bestowing, the greatest source of refuge,  
-The greatest enemy of great dangers,  
-Dispeller of all danger in all forms, (92)  
+Wisdhed for, the greatest granter of what's wished,  
+Refuge bestowing, highest source of refuge,  
+The foremost enemy of potent danger,  
+Alleviating danger in all forms, (92)  
 
 * 92c: BDRC etext hits: 'jigs chen dgra, 34; 'jig rten dgra 24; rab mchog 'jigs 4. Correct reading is almost certainly 'jigs chen dgra, but VM comments on 'jig rten dgra. Further evidence that the author did not refer to a Sanskrit text.  
 
@@ -2201,12 +2203,12 @@ Dispeller of all danger in all forms, (92)
 > gdong lnga gtsug phud lnga dang ldan/ /  
 > zur phud lnga pa me tog thod/ /  
 
-One with a tuft of hair, with a plume of hair,  
+With tufts of hair, with plumes of luscious hair,  
 With matted hair, with matted locks, chord-tied,[^93-1]  
-Wearing a crown, five faced, with five hair tufts,   
-Crowned with a flower garland of five strands, (93)  
+Wearing a crown, five faced, with five hair tufts,  
+And crowned with flower garlands of five strands, (93)  
 
-[^93-1]: 'Chord-wearing' (Skt. *mauñjin*) indicates that Mañjuśrī wears the sacred chord of a brahmin. In some witnesses of the text, this name is swapped with the name *mauṇḍin* from the following verse, and this can be interpreted to mean that Mañjuśrī has a shaved head (as a renunciate) or that he carries a skull cup (as a practitioner of extreme asceticism). The Kangyur translation of the Nāmasaṅgīti indicates that *mauṇḍin* was read both in this verse and the ntext. Regardless, commentators tend to agree that this portion of the text shows how Mañjuśrī can appear with the garb and appearance of various Buddhist and non-Buddhist religious practitioners.  
+[^93-1]: 'Chord-wearing' (Skt. *mauñjin*) indicates that Mañjuśrī wears the sacred chord of a brahmin. In some witnesses of the text, this name is exchanged with the name *mauṇḍin* from the following verse, and this can be interpreted to mean that Mañjuśrī has a shaved head (as a renunciate) or that he carries a skull cup (as a practitioner of extreme asceticism). The Kangyur translation of the Nāmasaṅgīti indicates that *mauṇḍin* was read both in this verse and in the following. Regardless, commentators tend to agree that this portion of the text shows how Mañjuśrī can appear with the garb and appearance of various Buddhist and non-Buddhist religious practitioners.  
 
 * 93b: The Kangyur translation suggests reading *mauṇḍī*, which the translator interprets as meaning 'bald'. VV, by contrast, interprets *mauṇḍī* as 'bearing a skull [cup]'. The ancient translation suggests reading *mauñjin*, which would be refer to one who wears the sacred chord or girdle of a brahmin. VM takes *ral pa* as a chord and *muñja* as the belt.   
 * 93d: The ancient translation has rendered *pañcacīrakaśekharaḥ* as *zur phud lnga pa me tog thod*, indicating that *śekhara* is understood as a flower garland. This is possible, and we reflect it in our translation, but it is not necessary. In his introduction to ch. 4, VV (Tribe 2016: 255) makes it fairly clear that he understands the *śekhara* in question to be formed of five hair braids: ādibuddhaṃ bhagavantaṃ pañcānanam iti pañcamukham, pañcaśikham iti pañcacīrakam, tasyaiva bandhanāt pañcacīrakaśekharaṃ. VM, for his part, treats pañcacīraka as a separate name, again evidence that the author probably did not have access to a Sanskrit text.  
@@ -2227,13 +2229,15 @@ Crowned with a flower garland of five strands, (93)
 >> 	% zhugs chen po pa - monlam  
 
 Upholding great observances, head shaven,  
-Best of observances, the chaste disciple,   
-In whom austerity has culminated,  
-With great austerity, bather, Gautama; (94)  
+Foremost in all observances, chaste student,  
+With great austerities fully perfected,[^94-1]  
+He is the greatest bather, Gautama; (94)  
+
+[^94-1]: More precisely, here two names should be understood: 'he whose austerities are great' and 'he in whom austerities have culminated'.   
 
 * 94a: The Kangyur translation now translates *mauṇḍī* as *mgo zlum*. This probably indicates some confusion on the part of the translator.  
-* 94d: We assume that *gtsang gnas* is a valid translation of *snātaka*; however, it would be difficult to arrive at the meaning of 'bather', i.e. one who perform ablutions, based on the Tibetan alone. VV gives an alternate explanation for gtsang gnas; this may be worth investigating as further evidence.  
-* QUESTION: So he is the observance and the one upholding the observance?  
+* 94d: We assume that *gtsang gnas* is a valid translation of *snātaka*; however, it would be difficult to arrive at the meaning of 'bather', i.e. one who perform ablutions, based on the Tibetan alone. VV gives an alternate explanation for *gtsang gnas*; this may be worth investigating as further evidence.  
+* QUESTION: *vratottamaḥ*: is he the observance itself also?  
 
 
 > brahmavid brāhmaṇo brahmā brahmanirvāṇam āptavān |  
@@ -2250,17 +2254,17 @@ With great austerity, bather, Gautama; (94)
 > rnam grol zhi ba zhi ba nyid/ /  
 >> 	% grol ba'i thar pa - monlam  
 
-Brahmin, Brahmā, a knower of *brahman*,[^95-1]  
-He who has reached the *brahman* *nirvāṇa*,  
-Freedom, awakening and its branches,[^95-2]   
-Release, calmness, and full tranquillity;[^95-3] (95)  
+A brahmin, Brahmā, knower of *brahman*,[^95-1]  
+Fully arrived at *brahman* *nirvāṇa*,  
+Awakening, its branches,[^95-2] liberation,  
+Release, complete tranquillity, quiescence,[^95-3] (95)  
 
 [^95-1]: A 'brahmin' is a member of the bhramin caste, 'Brahmā' refers to the deity known by that name, and '*brahman*' can be understood as ultimate reality. Commentators vary in their accounts of how these conventionally 'Hindu' terms relate to Mañjuśrī.  
 [^95-2]: Vilāsavajra comments that 'the branches of awakening' (Skt. *vimokṣaṅga*) are the seven branches of awakening and the eight-branched path of noble beings. Vimalamitra, perhaps led by the Tibetan rendering the term 'branch' as *lus* ('body'), interprets as meaning 'the body of awakening'—i.e., the body that is achieved on achieving full liberation.  
-[^95-3]: The word *śiva* may also be understood with the meaning 'good' or ;'beneficial', or, although it is not mentioned by commentators, the god who bears the name Śiva.  
+[^95-3]: The word *śiva* ('quiescence') may also be understood with the meaning 'good' or 'beneficial'; or, although it is not mentioned by commentators, the god who bears the name Śiva.  
 
 * 95a: For VV, brahman etc. all have their basic Hindu associations here.  
-* 95b: VV interprets *brahmanirvāṇam* as one word and *āptavān* as a second word. The two Tibetan translations have understood these words are syntactically connected. Although we follow the latter for our translation, VV's interpretation is perhaps more consistent with the general patter of names in the Nāmasaṅgīti.    
+* 95b: VV interprets *brahmanirvāṇam* as one word and *āptavān* as a second word. The two Tibetan translations have understood these words are syntactically connected. Although we follow the latter for our translation, VV's interpretation is perhaps more consistent with the general pattern of names in the *Nāmasaṅgīti*.  
 
 
 > nirvāṇaṃ nirvṛtiḥ śāntiḥ śreyoniryāṇam antagaḥ |  
@@ -2279,14 +2283,14 @@ Release, calmness, and full tranquillity;[^95-3] (95)
 > chags bral lus las 'das pa po/ /  
 >> 	96a emend zhing to zhi  
 
-He is *nirvāṇa*, quiescence, and peace,  
-Approaching fine entry into nirvāṇa,  
+He is *nirvāṇa*, calmness, peacefulness,  
+Approaching well his entry to *nirvāṇa*,  
 The culmination, ending pleasure and pain,   
-Passionlessness, destruction of substrates, (96)  
+The state devoid of passion, free from substrates, (96)  
 
-* 96b: Our translation is an attempt to follow the ancient translation, but there are a few problems here: First, as opposed to ed-d, *śreyo* appears to be taken in compound by VV and in both Tibetan translations (if we assume that *legs par* is indeed the correct reading as opposed to, say, legs pa). VV does not spell out the relationship between *śreyo* and *niryāṇa*, but we take it adverbially, qualifying the action of *niryāṇa*. However, the ancient translation further hints at reading *nirvāṇa* in place of *niryāṇa*. For the last word of the quarter, the Kangyur probably reflects the reading *antaka*, whereas VV clearly has *antaga*. With its *dang nye*, the ancient translation may actually reflect *antika*, which can occasionally goveren an accusative.  
+* 96b: Our translation is an attempt to follow the ancient translation, but there are a few problems here: First, as opposed to ed-d, *śreyo* appears to be taken in compound by VV and in both Tibetan translations (if we assume that *legs par* is indeed the correct reading as opposed to, say, legs pa). VV does not spell out the relationship between *śreyo* and *niryāṇa*, but we take it adverbially, qualifying the action of *niryāṇa*. However, the ancient translation further hints at reading *nirvāṇa* in place of *niryāṇa*. For the last word of the quarter, the Kangyur translation probably reflects the reading *antaka*, whereas VV clearly has *antaga*. With its *dang nye*, the ancient translation may actually reflect *antika*, which can occasionally govern an accusative.  
 * A lot of feminine and neutre names here.  
-
+* *upadhi* again interpreted variously
 
 > ajayo 'nupamo 'vyakto nirābhāso nirañjanaḥ |  
 > niṣkalaḥ sarvago vyāpī sūkṣmo bījam anāsravaḥ || 97 ||  
@@ -2301,10 +2305,10 @@ Passionlessness, destruction of substrates, (96)
 > mi 'gyur kun 'gro khap pa po/ /  
 > phra zhing [f. 55r] zag med sa bon bral/ /  
 
-Beyond defeat, matchless, unmanifest,    
+Beyond defeat, unmanifest, unmatched,  
 Not making manifest, and not appearing,  
-Timeless, omnipresent, fully pervasive,  
-Subtle, seedless, free from defilement, (07)  
+Pervasive, timeless, fully omnipresent,  
+Minute, beyond defilement, seed-free, (97)  
 
 * 97b: nirañjana/gsal byed min/'not making manifest': Our translation follows what is suggested by the ancient translation, although it probably not the most natural interpretation of *nirañjana*. Given the context, it does make sense to say that Mañjuśrī does not appear and he does not 'colour' other thing, i.e. make other things appear. The Kangyur translation or *nirañjana* as 'gos pa med' is a natural one.   
 * 97c niṣkala/'gyur ba med/'timeless': This translation attempts to somewhat harmonise the reading of the ancient translation (mi 'gyur - `without change') with that of our Sanskrit witness and Kangyur translation (niṣkala/cha med - 'without parts'). If we take *kalā* as referring to a unit of time, to be without kalās is, therefore, to be unchanging or timeless.  
@@ -2324,12 +2328,12 @@ Subtle, seedless, free from defilement, (07)
 > shin tu sad pa sad pa'i bdag /  
 > kun shes kun rig dam pa po/ /  
 
-Without stains, void of passion, passionless,[^98-1]  
-Defeating faults, he is affliction free;  
-Fully awake, by nature most awakened,   
+Unstained, devoid of passion, passionless,[^98-1]  
+Controlling humours, free from every illness,  
+Fully awake, by nature most awakened,  
 Omniscient, all knowing, and most supreme, (98)  
 
-[^98-1]: The names translated here as 'void of passion' and 'passionless' point toward the *guṇa* of *rajas*, from the triad of *sattva* (light/goodness), *rajas* (passion/energy), and *tamas* (darkness/inertia). This connection also suits the two names given in 98b, which connote freedom from disease related to the three humours (which are in turn based on the three *guṇa*s). The Tibetan translation of the word *rajas* (*rdul*), while also referring to the *guṇa* in a technical context, can equally imply either a minute particle or a fault (*nyes rkyon*).  
+[^98-1]: The names translated here as 'devoid of passion' and 'passionless' point toward the *guṇa* of *rajas*, from the triad of *sattva* (light/goodness), *rajas* (passion/energy), and *tamas* (darkness/inertia). This connection also suits the two names given in 98b, which connote freedom from disease related to the three humours (which are in turn based on the three *guṇa*s). The Tibetan translation of the word *rajas* (i.e., *rdul*), while also referring to the *guṇa* in a technical context, can equally imply either a minute particle or a fault (*nyes rkyon*).  
 
 * 98c: vibuddhātma = he whose nature is those more awakened than the śrāvakas etc.   
 * 98d: sarvajñā: The Kangyur translation's rendering of *sarvajña* as *thams cad ye shes* is either wrong or based on another reading.  
@@ -2793,7 +2797,7 @@ Holding the true Buddha's awakening,
 Being the direct perception of all buddhas,  
 He is the flame of wisdom, most luminous; (118)  
 
-This concludes the forty two verses showing the wisdom of discernment.   
+This concludes forty two verses showing the wisdom of discernment.   
 
 
 ## 9. The wisdom of equality   
@@ -3363,7 +3367,7 @@ Having realised the pinnacle of bodies,
 Displaying his forms of every possible kind,  
 He is the great gem, most precious stone; (142)  
 
-This concludes the fourteen verses showing the wisdom of equality.    
+This concludes fourteen verses showing the wisdom of equality.    
 
 * 142b, kāyakoṭivibhāvakaḥ: Our translation follows the ancient translation. Vilāsavajra's commentary, as well as probably also the Kangyur translation, suggests: 'He who manifests ten million bodies'. The ancient translation and VV both likely based on the same reading of the Sanskrit text.  
 
@@ -3716,7 +3720,7 @@ Most fortunate within the threefold world,
 The glorious provider of all wealth,  
 The best amongst the glorious, Mañjuśrī. (157)  
 
-This concludes the fifteen verses on the wisdom of performing actions.   
+This concludes fifteen verses on the wisdom of performing actions.   
 
 
 ## 11. Praise for the wisdom of the five *tathāgata*s.
@@ -3822,7 +3826,7 @@ Homage to you, the buddhas' spectacle;
 Homage to you, the everything of all;  
 O body of wisdom, homage to you! (162)
 
-This concludes the five verses of praise for the wisdom of the five *tathāgata*s.    
+This concludes five verses of praise for the wisdom of the five *tathāgata*s.    
 
 
 ## [Benefits - not translated; collation not checked]  
@@ -3871,9 +3875,9 @@ This concludes the five verses of praise for the wisdom of the five *tathāgata*
 > oM sar+b+ba d+har+m+mA b+hA ba swa b+hA wa bi shud+d+ha badz+ra tsak+ShuHa AHaM aHpra krI ti/ pa ri shud+d+haHsar+b+ba d+har+m+mA ya du ta sar+b+ba ta thA ga ta dz+nyA na kA ya/ many+dzu shrI pa ri shud+d+hi tA/ mu pA dA ye ti/ a AH/ sar+b+ba ta thA ga ta hrI da ya/ ha ra ha ra/ auM hUM hrIHb+ha ga bAn dz+nyA na mUrti/ bA gI shwa ra/ ma hA pA tsa/ sar+b+ba d+har+m+mA ga ga nA ma la su pa ri shud+d+ha/ d+har+m+mA d+hA tu dz+nyA na gar+b+ha AH/   
 > sngags dgod pa'o// //  
 
-*oṁ sarva-dharmābhāva-svabhāva viśuddha-vajra a ā aṃ aḥ | prakṛti-pariśuddhāḥ sarva-dharmā yad uta sarva-tathāgata-jñāna-kāya-mañjuśrī-pariśuddhitām upādāyeti a āḥ | sarva-tathāgata-hṛdayaṃ hara hara | oṁ hūṁ hrīḥ bhagavan jñāna-mūrti vāg-īśvara mahā-vāca sarva-dharma gaganāmala-supariśuddha-dharma-dhātu-jñāna-garbha āḥ |*[162-m]  
+*oṁ sarva-dharmābhāva-svabhāva viśuddha-vajra a ā aṃ aḥ | prakṛti-pariśuddhāḥ sarva-dharmā yad uta sarva-tathāgata-jñāna-kāya-mañjuśrī-pariśuddhitām upādāyeti a āḥ | sarva-tathāgata-hṛdayaṃ hara hara | oṁ hūṁ hrīḥ bhagavan jñāna-mūrti vāg-īśvara mahā-vāca sarva-dharma gaganāmala-supariśuddha-dharma-dhātu-jñāna-garbha āḥ |*[^162-m]  
 
-[162-m]: *Oṁ*! O you whose nature is the absence of all phenomena, whose vajra-essence is completely pure—*a ā aṃ aḥ*! All phenomena are by nature fully pure—to explain, they are fully pure based on state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*! Seize, seize the heart of all tathāgatas. *Oṁ hūṃ hrīḥ*! O Blessed One, wisdom body, lord of speech whose speech is great, he who is all Dharma, whose essence is the wisdom of the Dharma realm that's completely pure like stainless space—*āḥ*!
+[^162-m]: *Oṁ*! O you whose nature is the absence of all phenomena, whose vajra-essence is completely pure—*a ā aṃ aḥ*! All phenomena are by nature fully pure—to explain, they are fully pure based on state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*! Seize, seize the heart of all tathāgatas. *Oṁ hūṃ hrīḥ*! O Blessed One, wisdom body, lord of speech whose speech is great, he who is all Dharma, whose essence is the wisdom of the Dharma realm that's completely pure like stainless space—*āḥ*!
 
 
 
