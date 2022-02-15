@@ -2285,7 +2285,7 @@ Release, complete tranquillity, quiescence,[^95-3] (95)
 
 He is *nirvāṇa*, calmness, peacefulness,  
 Approaching well his entry to *nirvāṇa*,  
-The culmination, ending pleasure and pain,   
+The culmination, ending pain and pleasure,   
 The state devoid of passion, free from substrates, (96)  
 
 * 96b: Our translation is an attempt to follow the ancient translation, but there are a few problems here: First, as opposed to ed-d, *śreyo* appears to be taken in compound by VV and in both Tibetan translations (if we assume that *legs par* is indeed the correct reading as opposed to, say, legs pa). VV does not spell out the relationship between *śreyo* and *niryāṇa*, but we take it adverbially, qualifying the action of *niryāṇa*. However, the ancient translation further hints at reading *nirvāṇa* in place of *niryāṇa*. For the last word of the quarter, the Kangyur translation probably reflects the reading *antaka*, whereas VV clearly has *antaga*. With its *dang nye*, the ancient translation may actually reflect *antika*, which can occasionally govern an accusative.  
@@ -2330,8 +2330,8 @@ Minute, beyond defilement, seed-free, (97)
 
 Unstained, devoid of passion, passionless,[^98-1]  
 Controlling humours, free from every illness,  
-Fully awake, by nature most awakened,  
-Omniscient, all knowing, and most supreme, (98)  
+By nature most awakened, fully awake,  
+Omniscient, knowing everything, supreme, (98)  
 
 [^98-1]: The names translated here as 'devoid of passion' and 'passionless' point toward the *guṇa* of *rajas*, from the triad of *sattva* (light/goodness), *rajas* (passion/energy), and *tamas* (darkness/inertia). This connection also suits the two names given in 98b, which connote freedom from disease related to the three humours (which are in turn based on the three *guṇa*s). The Tibetan translation of the word *rajas* (i.e., *rdul*), while also referring to the *guṇa* in a technical context, can equally imply either a minute particle or a fault (*nyes rkyon*).  
 
@@ -2353,10 +2353,10 @@ Omniscient, all knowing, and most supreme, (98)
 > dus gsum sangs rgyas las byed pa/ /  
 > 	'chang] em.; 'tshang NyiGyu  
 
-Beyond reality as consciousness,  
+Beyond cognition as reality,  
 Pristine awareness, bearing non-dual form,  
-Free from conceptualisation, effortless,  
-Acting as all buddhas of all three times, (99)   
+Beyond conceptualisation, effort-free,  
+Acting as buddhas do in every age, (99)  
 
 
 > [ed-d p. 57] anādinidhano buddha ādibuddho niranyvayaḥ |  
@@ -2372,10 +2372,10 @@ Acting as all buddhas of all three times, (99)
 > ye shes mi gcig dri ma med/ /  
 > ye shes lus can de bzhin gshegs/ /  
 
-Buddha, with no beginning and no end,  
-Primordial buddha, free from sequence,  
+The Buddha, endless and beginningless,  
+The Buddha at the start, devoid of sequence,  
 With wisdom as his only eye, stainless,  
-With wisdom as his body, *tathāgata*, (100)  
+*Tathāgata*, with wisdom as his body, (100)  
 
 * 100b, niranvaya: Most witneses of the ancient translation read *rgyu med pa*, although there are a handful that support *rgyud med pa*. The latter is almost certainly correct. VV glosses anvaya as *krama*, while the Amarakośa has it as a synonym of *vaṃśa*. The meaning should be sequence/lineage/succession/etc. Davidson's (1981: 30 n. 95) remark that 'all commentaries gloss the term as specifically devoid of causation' is wrong. In any case, the idea appears to be that Mañjuśrī, having no beginning or end, is without a sequence or continuum in which change takes place.  
 
@@ -2393,10 +2393,10 @@ With wisdom as his body, *tathāgata*, (100)
 > smra ba'i dam pa mchog gi gnas/ /  
 > smra ba'i seng ge tshugs pa med/ /  
 
-Sovereign of all language, the great debater,  
-The king of discourse, the best of orators,  
-The best and greatest among communicators,  
-The unassailable, the lion of speech, (101)  
+Sovereign of every language, great debater,  
+The king of discourse, best of orators,  
+The best and greatest of communicators,  
+The unassailable, lion of speech,  (101)  
 
 * The translation attempts bring out different nuances from these forms derived from √vad.  
 
@@ -2417,16 +2417,15 @@ The unassailable, the lion of speech, (101)
 >> 	[^1] phreng ba] em.; phung po NyiGyu  
 >> 	% check for lta bas variant  
 
-Seeing in all directions, true delight,  
-With garlands of fierce energy, most handsome,   
-Most radiant, lustre, the endless knot,[^102-1]   
+With sight of all directions, true delight,  
+With garlands of fierce energy, most handsome,  
+The endless knot,[^102-1] most radiant, great lustre,  
 With shining rays in hand, providing light; (102)  
 
 [^102-1]: Alternatively, Mañjuśrī is 'Śrī's beloved' (*śrīvatsa*). According to Vailāsavajra, a mark which has the shape of a so-called endless knot is situated uniquely at the hearts of buddhas. Śrīvatsa is also a common epithet for Viṣṇu and the mark on his chest.   
 
-* 102d, bhābhāsvarakaradyutiḥ: VV reads this word as a compound, unlike what is printed in ed-d. VV interprets the compound as a *tatpuruṣa*, but the exact significance he draws from it is a bit difficult to discern, since all of the words more or less amount to meaning 'light': bhāśabdo raśmiparyāya ākārānto py asti | bhāśvarāś ca te karāś ca | bhāsvarakarāḥ krodhadīdhitayaḥ | bhānāṃ ○ bhāsvarakarāḥ | bhābhāsvarakarāḥ | teṣāṃ dyutir bhābhāsvarakaradyutiḥ |. As for the Kangyur translation's reading of *snang ba gsal bar byed pa'i 'od*, it can be understood in different ways, but what is fairly clear is that *kara* has been taken in the sense of 'making' (this seems like a stretch). The ancient translation's 'lag na 'od 'bar snang ba po' suggests 'kara' in the sense of 'hand', and it seems very possible that this was read as a separate word: *bhābhāsvarakaraḥ dyutiḥ*. Again, we follow the ancient translation here.  
-
-$ one feminine noun: dīpti; also *dyuti, if tatpuruṣa or uncompounded.   
+* 102d, *bhābhāsvarakaradyutiḥ*: VV reads this word as a compound, unlike what is printed in ed-d. VV interprets the compound as a *tatpuruṣa*, but the exact significance he draws from it is a bit difficult to discern, since all of the words more or less amount to meaning 'light': *bhāśabdo raśmiparyāya ākārānto py asti | bhāśvarāś ca te karāś ca | bhāsvarakarāḥ krodhadīdhitayaḥ | bhānāṃ ○ bhāsvarakarāḥ | bhābhāsvarakarāḥ | teṣāṃ dyutir bhābhāsvarakaradyutiḥ |*. As for the Kangyur translation's reading of *snang ba gsal bar byed pa'i 'od*, it can be understood in different ways, but what is fairly clear is that *kara* has been taken in the sense of 'making' (this seems like a stretch). The ancient translation's '*lag na 'od 'bar snang ba po*' suggests '*kara*' in the sense of 'hand', and it seems very possible that this was read as a separate word: *bhābhāsvarakaraḥ dyutiḥ*. Again, we follow the ancient translation here.  
+* one feminine noun: dīpti; also *dyuti, if tatpuruṣa or uncompounded.   
 
 
 > mahābhiṣagvaraḥ śreṣṭhaḥ śalyahartā niruttaraḥ |  
@@ -2446,10 +2445,10 @@ $ one feminine noun: dīpti; also *dyuti, if tatpuruṣa or uncompounded.
 >> 	zug rngu] em.; zus rngu NyiGyu  
 >> 	dgra] em.; dgra NyiGyu  
 
-Supreme and great physician, eminent,  
-Unparalleled in getting rid of pain,  
-A tree that's rich with every medicine,  
-Arch enemy against all maladies, (103)  
+The best of great physician, eminent,  
+Unequalled in alleviating of pain,  
+A tree providing every medicine,  
+The foe opposing every malady, (103)  
 
 * 103d, kleśavyādhimahāripuḥ: Unlike VV and the Kangyur translation, the ancient translation, which we follow, does not have a reflex for *kleśa*.    
 
@@ -2467,9 +2466,9 @@ Arch enemy against all maladies, (103)
 > phyogs bcu nam mkha'i mthar thug pa/ /  
 > chos kyi rgyal mtshan legs par 'dzugs/ /  
 
-The crown jewel of the triple world, lovely,   
-A shining star cluster, most glorious,   
-The end of space in all the ten directions,  
+The crowning jewel of all three worlds, lovely,   
+A bright star cluster, ever glorious,  
+The end of space in all its ten directions,  
 Hoisting on high the Dharma's victory flag, (104)  
 
 
@@ -2489,10 +2488,10 @@ Hoisting on high the Dharma's victory flag, (104)
 >> 	chen po] em.; chen por NyiGyu  
 >> 	gdugs] em.; dugs NyiGyu  
 
-Sharing one large umbrella with all beings,   
+Sharing one large umbrella with the world,  
 His *maṇḍala* being love and empathy,  
-The glorious lotus lord of the dance,[^105-1]  
-Omnipresent with his jewel parasol, (105)  
+The lotus lord of dance,[^105-1] most glorious,  
+Pervading with his precious parasol, (105)
 
 [^105-1]: Padmanarteśvara, a name commonly associated with Lokeśvara.  
 
@@ -2514,10 +2513,10 @@ Omnipresent with his jewel parasol, (105)
 > sangs rgyas kun gyi bstan pa gcig /  
 >> 	gyi gzi brjid che] em.; kyi gzi brjid che NyiGyu  
 
-The great fierce energy of all buddhas,   
-Who possess the bodies of all buddhas,  
-The great union enjoyed with all buddhas,  
-The teaching unique to all buddhas, (106)  
+The energy most fierce of all the buddhas,   
+Bearing a body shared by all the buddhas,  
+Supreme union enjoyed with all the buddhas,  
+The single teaching taught by all the buddhas, (106)  
 
 * 106a, sarvabuddhamahārājā: The ancient translation probably reflects a different Sanskrit reading with 'sangs rgyas kun gyi gzi brjid che/ /'.   
 * 106b, sarvabuddhātmabhāvadhṛk: We follow the ancient translation in understanding 'ātmabhāva' in the sense of 'body'. Vilāsavajra has a different interpretation, and this is probably mirrored in the Kangyur translation: i.e., 'bearer of the existence of the nature of all buddhas'.  
@@ -2538,9 +2537,9 @@ The teaching unique to all buddhas, (106)
 >> 	kun gyi bdag] em.; kun kyi bdag NyiGyu  
 
 Most glorious with Vajraratna's blessing,  
-The sovereign ruler of Sarvaratna,  
-The master of Sarvalokeśvara,  
-Supreme monarch of Sarvavajradhara, (107)
+The highest sovereign lord of Sarvaratna,  
+The ruler of Sarvalokeśvara,  
+Supreme monarch of Sarvavajradhara, (107)  
 
 
 > sarvabuddhamahācittaḥ sarvabuddhamanogatiḥ |  
@@ -2557,11 +2556,10 @@ Supreme monarch of Sarvavajradhara, (107)
 > sangs rgyas kun gyi gsung yang yin/ /  
 >> 	thugs che ba] em.; thugs pa NyiGyu  
 
-The ultimate mind of Sarvabuddha,[^108-1]  
+The mind most excellent of Sarvabuddha,[^108-1]  
 Residing in the mind of every buddha,  
-For every buddha being their great body,  
-As well for each buddha their sweet speech, (108)  
-! c in not smooth
+The greatest body borne by all the buddhas,  
+The lovely speech endowing every buddha, (108)  
 
 [^108-1]: Vilāsavajra appears to treat Vajraratna and so on (i.e. the names in verse 107–108a) as proper names, and he, as Vimalamitra does too, identifies them with, respectively, Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi, and Vairocana.  
 
