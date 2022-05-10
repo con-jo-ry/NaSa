@@ -1529,10 +1529,10 @@ Great sage, most praiseworthy, most venerable, (64)
 > theg pa mchog gsum ston pa po/ /  
 >> 	65a] gsang sngags 'chang] VM; gsang sngags can monlam  
 
-Upholder of the triple family,[^65-1] *mantrin*,  
-Bearing the mantra for the foremost pledge,[^65-2]  
-The foremost holder of the triple gem,  
-The teacher of the three supreme *yāna*s; (65)  
+Belonging to the triple family,[^65-1] *mantrin*,  
+Holding the mantra of the foremost pledge,[^65-2]  
+The greatest bearer of the triple gem,  
+Who teaches the supreme three vehicles; (65)  
 
 [^65-1]: The three families are those of Body, Speech, and Mind.  
 [^65-2]: The foremost pledge (or great *samaya*) may, as Vilāsavajra suggests, refer to a deity, or it may refer more generally to the pledges of the Vajrayāna.  
@@ -1636,10 +1636,10 @@ With belly large, with vajras of illusion, (68)
 > mi g.yo ral pa gcig gis bsgyings/ /  
 > glang chen ko rlon gos su gyon/ /  
 
-The vajra-born, the sovereign of the vajra,  
-Bearing the vajra as his core, like space,  
-Unmoving,[^69-1] haughty with his single dreadlock,  
-His clothes an elephant hide still fresh and moist, (69)  
+The vajra-born; the sovereign of the vajra;  
+Bearing the vajra as his core; like space;  
+Unmoving;[^69-1] haughty with his single dreadlock;  
+His clothes an elephant's raw hide, still moist; (69)  
 
 [^69-1]: This translates the name Acala.  
 
@@ -1662,7 +1662,7 @@ His clothes an elephant hide still fresh and moist, (69)
 > 	% grags chen - monlam  
 
 The great terrific one, who cries *hā hā*,  
-Screaming *hī hī*, instilling fervent fear,  
+Who screams *hī hī*, instilling fervent fear,  
 Laughing a screeching laugh, a booming laugh,  
 He is the vajra laugh, the mighty howl; (70)  
 
@@ -1706,8 +1706,8 @@ Voicing the *hūṁ*s of Vajrahūṁkāra, (71)
 > rdo rje gcig pu g.yul sel ba/ /  
 > 	% mtshon du rdo rje'i - monlam; ral gri - monlam;  
 
-With vajra arrows serving as a weapon,  
-With vajra sword, one slashing everything,  
+With vajra arrows serving as his weapon,  
+His sword comprised of vajras, slashing all,  
 Upholding every vajra, vajra bearing,  
 With just a single vajra, ending strife, (72)  
 
@@ -1730,12 +1730,12 @@ With just a single vajra, ending strife, (72)
 > rdo rje 'bebs pa 'bebs pa che/ /  
 > mig brgya pa ste rdo rje'i mig /  
 
-With eyes, like vajra fire, ever dreadful;  
+With eyes, like vajra fire, truly dreadful;  
 With hair that's like a vajra set ablaze;  
-Great entering;[^73-1] the entry of the vajra;  
+Immersion of the vajra;[^73-1] great immersion;  
 With eyes like vajras; eyes a hundredfold; (73)  
 
-[^73-1]: Here 'entering' (Skt. *āveśa*, Tib. *'bebs pa*) can be understood in the sense of 'empowerment', 'blessing', or 'possession'.  
+[^73-1]: Here 'immersion' (Skt. *āveśa*, Tib. *'bebs pa*) can be understood in the sense of 'empowerment', 'blessing', 'possession', or simply 'entry'.  
 
 * VV: vajralocana = he who has two vajra-like eyes.  
 
@@ -1754,10 +1754,10 @@ With eyes like vajras; eyes a hundredfold; (73)
 > rdo rje snying po pags pa mkhregs/ /  
 > 	% rdo rje'i snying po - monlam  
 
-With vajra hairs that sprout upon his form;  
-His unique body marked by vajra hairs;  
+With vajra hairs that sprout upon his body;  
+His unique figure marked by vajra hairs;  
 With nails advancing, vajras at their tips;  
-With skin that's firm as if a vajra’s core; (74)  
+With skin that's solid like a vajra’s core; (74)  
 
 * 74c: VV: 'Who acts with nails resembling vajra tips', VM: 'the tips of whose fingernails grow as vajras'. The Dege translation supports VV. It is uncertain whether the ancient translation hints at a different reading of the Sanskrit, or is simply a different (probably difficult to justify) interpretation. Our translation favours the ancient translation, but is a slight attempt at a compromise.  
 
@@ -1777,12 +1777,10 @@ With skin that's firm as if a vajra’s core; (74)
 > yi ge drug pa rdo rje'i sgra/ /  
 > 	% rdo rje'i rgyan - monlam  
 
-Wearing a vajra garland splendidly,[^75-1]  
+The splendid master, donning vajra garlands,  
 Adorned with ornaments comprised of vajras,  
-With booming voice, laughing his screech '*ha ha*',  
-Six-syllabled, sounding a vajra rumble, (75)  
-
-[^75-1]: Garland (mālā; phreng ba) may refer to a mālā in the sense of rosary.  
+With booming voice, his laughter crying '*ha ha*',  
+Six-syllabled, producing vajra rumbles, (75)  
 
 * 75c: Unlike both Tib translations, VV takes *nirghoṣa* to mean 'without sound'.  
 * 75d: VV: *vajraghoṣa* = thunder  
@@ -1804,6 +1802,8 @@ Six-syllabled, sounding a vajra rumble, (75)
 > nam mkha'i mtha' la sgra sgrogs pa/ /  
 > sgra dang ldan pa rnams kyi mchog /  
 > 	% a chen po'i - monlam; mtha' klas - monlam;   
+
+% resume
 
 Great Mañjughoṣa, sound ever supreme,  
 A roar unique unto the threefold world,  
