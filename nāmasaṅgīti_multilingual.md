@@ -1706,10 +1706,10 @@ Voicing the *hūṁ*s of Vajrahūṁkāra, (71)
 > rdo rje gcig pu g.yul sel ba/ /  
 > 	% mtshon du rdo rje'i - monlam; ral gri - monlam;  
 
-Wielding a vajra arrow as his weapon,  
-While slashing thoroughly, with vajra sword,  
+With vajra arrows serving as a weapon,  
+With vajra sword, one slashing everything,  
 Upholding every vajra, vajra bearing,  
-With but a single vajra, ending conflict, (72)  
+With just a single vajra, ending strife, (72)  
 
 * 72a: VV arrows marked with a vajra; VM vajra-like bow and arrow.  
 * 72c: The Sanskrit text, confirmed by Vilāsavajra, reads *viśvavajradhara*, i.e. 'holder of the crossed vajra'. Both Tibetan translations have either understood viśva in the sense of 'all', or have read something like *sarvavajradhara* in its place.  
@@ -1815,7 +1815,6 @@ Pre-eminent amongst all voice-endowed. (76)
 
 This concludes ten verses and one quarter showing the mirror-like wisdom.  
 
-% resume
 ## 8. The wisdom of discernment  
 > tathatābhūtanairātmyabhūtakoṭir anakṣaraḥ |  
 > śūnyatāvādivṛṣabho gambhīrodāragarjanaḥ || 77 ||  
@@ -1831,13 +1830,13 @@ This concludes ten verses and one quarter showing the mirror-like wisdom.
 > stong nyid smra ba'i khyu mchog ste/ /  
 > zab cing rgya che sgra sgrogs pa/ /  
 
-He is a being whose understood the truth,  
+He is an understander of the truth,  
 Reality, its peak, and selflessness;[^77-1]  
-Best teacher showing emptiness; word free;[^77-2]  
-Whose voice intones the teachings, deep and vast; (77)  
+Supreme in propagating emptiness;  
+Intoning both the deep and vast; word free;[^77-2] (77)  
 
 [^77-1]: According to Vilāśavajra, the meaning of this epithet is that Mañjuśrī has knowledge of these four: truth, reality, reality's peak, and selflessness (the commentator glosses these four as slightly different aspects of the ultimate reality).  
-[^77-2]: Literally 'without letters'; the Sanskrit name can also mean 'imperishable'.   
+[^77-2]: Literally 'without letters'; the Sanskrit name can also mean 'imperishable'.  
 
 * Davidson's edition prints *tathātābhūtanairātmyaṃ*, and he treats *tathatā* as a separate word in his translation, as well as *bhūta* as an adjective. For our reading and interpretation of the text, we follow VV. The Tibetan translations do not obviously show that this name is a *bahuvrīhi*.   
 * VV says bhūta = satya; Amṛtakanikā takes bhūta as mahābūtānām nairātmyam.  
