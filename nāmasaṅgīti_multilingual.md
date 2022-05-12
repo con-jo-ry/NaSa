@@ -3036,10 +3036,10 @@ Reality, maintaining firm great mindfulness,
 > yang dag sangs rgyas lam rig pa/ /  
 >> 	rig pa] NyiGyu; rig mchog VM  
 
-Fragrant with flowers of bodhi's branches,  
-An ocean of *thathāgata* qualities,  
-Knowing the journey of the eightfold path,   
-Knowing the path of true and perfect buddhas, (128)  
+Infused with scent from bloom on bodhi's branches,  
+An ocean of *thathāgata* virtues,  
+With knowledge of the eightfold path's true way,  
+With knowledge of the path of perfect buddhas, (128)  
 
 * 128a, *āmoda. The Kangyur translation interprets moda (or āmoda) as 'joy' rather than 'fragrance'. VV also appears to go in this direction: *āmodo harṣaś cittasya bhavatīti*.  
 
@@ -3080,9 +3080,9 @@ He is, for every being, as swift as mind; (129)
 > rnam dag phung po lnga 'chang ba/ /  
 >> 	'phrog pa] VM; 'phrogs pa NyiGyu  
 
-Knowing the aptitude of every being,   
-And captivating every creature's mind,    
-Knowing the essence of the aggregated,[^130-1]  
+Aware of all the aptitudes of beings,  
+While captivating every creature's mind,  
+With insight into aggregated natures,[^130-1]  
 Himself with fully pure five aggregates, (130)  
 
 [^130-1]: A more literal translation may be, 'he who know the reality of the objects [subsumed in] the five aggregates'.   
@@ -3101,10 +3101,10 @@ Himself with fully pure five aggregates, (130)
 > nges 'bhung kun [f. 57r] gyi lam la gnas/ /  
 > nges par 'byung ba kun ston pa/ /  
 
-Reaching the endpoint of all going forth,  
-Skilful at going forth in every way,    
+Atop the peak of every going forth,  
+Most skilled in going forth in every way,  
 Established on all paths of going forth,  
-Teacher of going forth in all its forms, (131)  
+The teacher of all forms of going forth, (131)  
 
 * 131c, sarvaniryāṇamārgasthaḥ: We diverge from the ancient translation by connecting *sarva* with *mārga* instead of *niryāṇa*, simply because it sounds smoother in English. It's not immediately obvious how VV understands *sarva* in these compounds. The Kangyur translation appears to have its own understanding.  
 
@@ -3124,10 +3124,12 @@ Teacher of going forth in all its forms, (131)
 >> 	bton] VM; ston NyiGyu  
 >> 	rtogs pa 'chang] VM; rtogs par 'chang NyiGyu  
 
-Using the twelve links to uproot becoming,  
-Bearing the fully purified twelve forms, [^132-1]  
-His own form being the way of fourfold truth,   
-He is one who has gained the eightfold knowledge; [^132-2] (132)  
+Uprooting all becoming with twelve links,  
+Endowed with purity in all twelve forma,[^132-1]  
+His form the way of fourfold noble truth,  
+With realization of the eightfold knowledge; [^132-2] (132)  
+
+Possessing as his form the fourfold truth,
 
 [^132-1]: According to the commentators, this refers to the twelve sense sources (āyatana, skye mched) in their pure forms.  
 [^132-2]: These eight knowledges are understood by Vilāsavajra as follows: knowledge of Dharma, knowledge of non-duality, knowledge of suffering, knowledge of the origin, knowledge of cessation, knowledge of the path, knowledge of destruction, and knowledge of non-arising. Vimalamitra, however, offers another interpretation: Mañjuśrī realises that the eight forms of consciousness (from eye consciousness through to the storehouse consciousness) are unarisen.  
@@ -3149,12 +3151,12 @@ He is one who has gained the eightfold knowledge; [^132-2] (132)
 > rnam par sangs rgyas kun rig mchog /  
 >> 	bden don] VM; bde don NyiGyu  
 
-Bearing the truth's meaning in twelve aspects,[^133-1]  
-Knowing reality in sixteen forms,[^133-2]  
-Whose great awakening has twenty forms,[^133-3]   
-The true Buddha, omniscient, most supreme, (133)  
+With meaning of the truths in twelvefold form,[^133-1]  
+Aware of suchness in its sixteen forms,[^133-2]  
+With true awakening in twenty forms,[^133-3]  
+Awakened fully, knowing all, supreme, (133)  
 
-[^133-1]: Vilāsavajra identifies these twelve aspects as the forms of the Four Truths as divided across the three turnings of the wheel of Dharma. Vimalamitra, by contrast, enumerates the twelve as the five families (*rigs lnga*), the five wisdoms (*ye shes lnga*), and insight (*shes rab*) and compassion (*snying rje*).  
+[^133-1]: Vilāsavajra identifies these twelve forms as the forms of the Four Truths as divided across the three turnings of the wheel of Dharma. Vimalamitra, by contrast, enumerates the twelve as the five families (*rigs lnga*), the five wisdoms (*ye shes lnga*), and insight (*shes rab*) and compassion (*snying rje*).  
 [^133-2]: Vilāsavajra explains that sixteen forms referred to here are sixteen moments of realisation of the Four Truths on the Path of Seeing. Vimalamitra, by contrast, enumerates these as the sixteen varieties of emptiness.  
 [^133-3]: Vilāsavajra enumerates these twenty forms as four ways in which each of the five aggregates are not conceptualised. For example, by achieving awakening, one does not believe that (1) material form is the self, (2) the self is within material form, (3) material form is within the self, or (4) material form possesses the self. Multiple by five aggregates, these add up to twenty forms. Vimalamitra, on the other hand, understands these twenty forms as the transformation of the five elements, of the five aggregates, of the five afflictions, and of the five faculties.  
 
@@ -3174,12 +3176,12 @@ The true Buddha, omniscient, most supreme, (133)
 >> 	bye ba] VM; byed pa NyiGyu  
 >> 	mngon par rtogs] VM; mngon par rtog NyiGyu  
 
-Dispatching some ten million buddha bodies  
-With emanations inconceivable,  
+Dispatching countless sets of some ten million  
+Embodiments of emanating buddhas,  
 The final realisation of all moments,  
-Knowing for every mind each moment’s object, (134)  
+Who knows for every mind each moment’s object, (134)  
 
-* 134ab, ameya*: There is some disagreement in the ancient translation and the Kangyur translation about where to connected the word *ameya*. Our translation free, and perhaps can be improved. VV, and similarly the Kangyur translation, analyse the compound: 'Dispatching ten million bodies of emanations of countless buddhas'. The ancient translation appears to connect *ameya* with *koṭi*.  
+* 134ab, ameya*: There is some disagreement in the ancient translation and the Kangyur translation about where to connected the word *ameya*. VV, and similarly the Kangyur translation, analyse the compound: 'Dispatching ten million bodies of emanations of countless buddhas'. The ancient translation appears to connect *ameya* with *koṭi* and hence the current English translation.    
 
 
 > nānāyānanayopāyajagadarthavibhāvakaḥ |  
@@ -3219,9 +3221,9 @@ Abiding in the single vehicle’s fruit, (135)
 > sbyor ba'i dgon pa las byung ba/ /  
 
 With purified afflictive spheres[^136-1] at heart,  
-Annihilator of all karmic spheres,  
-Having traversed all oceanic floods,[^136-2]   
-Having emerged from yoga's dark forest,[^136-3] (136)  
+Annihilating every karmic spheres,  
+Arrived atop dry land from flooding oceans,[^136-2]  
+Emerged from yoga's perilous dark grove,[^136-3] (136)  
 
 [^136-1]: Vilāsavajra unpacks 'afflictive spheres' as referring to the eighteen spheres (*dhātu*, *khams*) beginning the eye sphere.  
 [^136-2]: Vilāsavajra explains that 'oceanic floods' are the traditionally enumerated four floods—namely, the floods of desire, cyclic existence, views, and ignorance.   
@@ -3242,9 +3244,9 @@ Having emerged from yoga's dark forest,[^136-3] (136)
 > don yod 'gro ba'i don byed pa/ /  
 >> 	btan spangs pa] VM; bstan spangs pa NyiGyu  
 
-Casting off general, minor and complete  
+Released from general, minor, and complete  
 Afflictions and their latent tendencies;  
-Having great insight, means, and empathy;  
+With insight, means, and foremost empathy;  
 Achieving fruitful aims for living beings; (137)  
 
 
@@ -3264,9 +3266,9 @@ Achieving fruitful aims for living beings; (137)
 >> 	'gag par byed] VM; 'gags par byed NyiGyu  
 >> 	yul dang ldan] NyiGyu; yid dang ldan VM  
 
-Being object-free by means of all perceptions,[^138-1]  
+Abiding object-free through all perceptions,[^138-1]  
 With consciousness as object, with cessation,  
-Holding all beings as objects of his mind,   
+With every being the object of his mind,   
 His knowledge being the mind of all the buddhas, (138)  
 
 [^138-1]: According to Vilāsavajra, the words 'all perceptions' (*sarvasaṃjñā*) refer to certain forms of mundane meditative concentration. Through these meditations, Mañjuśrī enters a state of objectless awareness.   
@@ -3289,10 +3291,10 @@ His knowledge being the mind of all the buddhas, (138)
 > sems can kun yid tshim par byed/ /  
 > sems can kun gyi [f. 57v] yid dga' ba/ /  
 
-Residing in the mind of every being,  
-Having become their minds' equality,  
-And satisfying the mind of every being,  
-He is for every being great mental joy; (139)  
+Residing in the mind of every being;  
+Having become their minds' equality;  
+And satisfying the mind of every being;  
+He is, for every being, great inner joy; (139)  
 
 * 139b,  taccittasamatāṃgataḥ: The ancient translation's '*mthun par 'jug*' probably reflects the Sanskrit reading printed here. Our translation follows the interpretation offered by Vilāsavajra. Vimalamitra's gloss amount to, 'One who is active with respect to the aims of beings in accordance with the minds of those beings.' This seems like an unlikely interpretation of the Sanskrit text, and may be further evidence that the author did not have awareness of it.  
 
@@ -3313,16 +3315,18 @@ He is for every being great mental joy; (139)
 >> 	'khrul pa med] VM; 'phrul pa med NyiGyu  
 >> 	nor ba] VM; nor pa NyiGyu  
 
-Confusion-free regarding points of doctrine,[^140-1]   
-Lacking erroneousness in all its forms,  
-With doubt-free thinking, knowing three objects,  
-With all objects, three properties by nature,[^140-2] (140)  
+Confusion-free regarding points of doctrine,[^140-1]  
+Completely free from error in all its forms,  
+His thinking free from doubt, his referent threefold,  
+His referent all, three properties by nature,[^140-2] (140)  
 
 [^140-1]: An alternate reading and interpretation of this verse may read, 'one who has reached the end of accomplishment, confusion free'.    
 [^140-2]: Vilāsavajra explains the final three cryptic names here as follows: 'three objects' are the past, present, and future; 'all objects' are all objects of the animate and inanimate world; and the 'three properties' are the three *guṇa*s extensively described in Sāṅkhya philosophy.   
 
 * 140a, siddhāntavibhramāpagataḥ: Vilāśavajra's reading seems more context appropriate. It's possible that ed-d's reading is what's reflected in the ancient translation, and that it is indeed how Vimalamitra interprets the translation; but this is not necessarily the case. Hence we do not believe our translation deviates too significantly from the ancient translation.  
 
+
+% resume
 
 > pañcaskandhārthas triṣkālaḥ sarvakṣaṇavibhāvakaḥ |  
 > ekakṣaṇābhisaṃbuddhaḥ sarvabuddhasvabhāvadhṛk || 141 ||  
