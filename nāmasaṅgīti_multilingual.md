@@ -2731,8 +2731,6 @@ With emanation circles most diverse, (115)
 * 115d, viśvanirmāṇacakradhṛk: VV and the ancient translation connect *viśva* with *nirvāṇa*, whereas the ancient translation (which our translation follows) connects it with *cakra*.  
 
 
-% resume
-
 > sarvabhāvasvabhāvāgryaḥ sarvabhāvasvabhāvadhṛk |  
 > anutpādadharmā viśvārthaḥ sarvadharmasvabhāvadhṛk || 116 ||  
 
@@ -2747,12 +2745,10 @@ With emanation circles most diverse, (115)
 > chos kun ngo bo nyid 'chang ba/ /  
 >> 	chos te] em.; de NyiGyu  
 
-The highest nature of all that exists,  
+The highest nature of all entities,  
 Supportive of the nature of all things,  
-With *dharma*s unarisen, with goals for all,   
+With goals for all, with *dharma*s unarisen,  
 Supportive of the nature of all *dharma*s, (116)  
-
-* QUESTION: Why dharmā?  
 
 
 > ekakṣaṇamahāprājñasarvadharmāvabodhadhṛk |  
@@ -2771,14 +2767,14 @@ Supportive of the nature of all *dharma*s, (116)
 >> 	chud pa 'chang] em.; chud pa po NyiGyu  
 >> 	% some witnesses read 'byung po mtha'  
 
-And bearing knowledge of all phenomena  
-In but an instant as the most wise one,  
-Realising vividly all phenomena,  
-He is a sage, with great intelligence,   
-One vanquishing all hosts of evil spirits, (117)  
+With full awareness of phenomena  
+In but an instant as the wisest sage,  
+With vivid realisation of all *dharma*s,  
+He is a sage, the greatest intellect,  
+Who vanquishing the hosts of evil spirits; (117)  
 
-* 116a, ekakṣaṇam*] This is our attempt to follow Vilāsavajra's analysis.  
-* 116d, bhūtāntamunir] We follow the ancient translation, which may have read something other than *bhūtāntamuni*, or given it a strained interpretation. VV, along with the Dege translation, suggest a translations such as, 'The sage who is reality's end point'.   
+* 116a, *ekakṣaṇam*°] This is our attempt at following Vilāsavajra's analysis.  
+* 116d, *bhūtāntamunir*] We follow the ancient translation, which may have read something other than *bhūtāntamuni*, or given it a strained interpretation. VV, along with the Dege translation, suggest a translations such as, 'The sage who is reality's end point'.   
 
 
 > stimitaḥ suprasannātmā samyaksaṃbuddhabodhidhṛk |  
@@ -2799,11 +2795,11 @@ One vanquishing all hosts of evil spirits, (117)
 >> 	so sor] em.; so so NyiGyu  
 
 Unwavering, completely pure in nature,  
-Holding the true Buddha's awakening,  
-Being the direct perception of all buddhas,  
-He is the flame of wisdom, most luminous; (118)  
+Grasping the wakefulness of perfect buddhas,  
+The direct realization of all buddhas,  
+He is the flame of wisdom, luminous; (118)  
 
-This concludes forty two verses showing the wisdom of discernment.   
+This concludes forty two verses showing the wisdom of discernment.  
 
 
 ## 9. The wisdom of equality   
@@ -2822,12 +2818,12 @@ This concludes forty two verses showing the wisdom of discernment.
 
 The great fulfiller of desired aims,  
 The purifier of all evil states,  
-Protector, greatest of all living beings,   
-Who liberates all beings with great vigour, (119)  
+The greatest of all living beings, protector,   
+Who liberates all living beings with vigour, (119)  
 
 
 > kleśasaṃgrāmaśūraikaḥ ajñānaripudarpahā |  
-> dhīḥśṛṅgāradharaḥ śrīmān vīrabībhatsarūpadhṛk || 120 ||	  
+> dhīḥśṛṅgāradharaḥ śrīmān vīrabībhatsarūpadhṛk || 120 ||  
 >> 	dhīḥśṛṅgāradharaḥ] VV (see note); dhīḥ śṛṅgāradharaḥ ed-d  
 
 > nyon mongs g.yul du gcig dpa' ba/ /  
@@ -2843,14 +2839,14 @@ Who liberates all beings with great vigour, (119)
 >> 	'joms] em.; 'jom NyiGyu  
 >> 	dpal ldna blo dang sgegs par ldan/ /] NyiGyu; blo ldan sgeg 'chang dpal dang ldan  
 
-Unmatched hero in battle with afflictions,    
-Crushing the pride of ignorance—the enemy,   
-The glorious mind[^120-1] grasping amorousness,   
-Bearing repulsive and heroic forms, (120)  
+Unrivalled knight in battle with afflictions,  
+Humiliating ignorance—his foe,  
+The celebrated mind[^120-1] of amorousness,  
+Endowed with forms heroic and repulsive, (120)  
 
 [^120-1]: Or, alternatively, 'the glorious letter *dhīḥ*'.  
 
-* 120c, dhīḥśṛṅgāradharaḥ: VV appears to read this in compound, taking dhīḥ as a syllable: i.e., 'he is the bearer of amorousness who is the syllable *dhiḥ*.'  There are various readings in the Tib. witnesses.   
+* 120c, dhīḥśṛṅgāradharaḥ: VV appears to read this in compound, taking dhīḥ as a syllable: i.e., 'he is the bearer of amorousness who is the syllable *dhiḥ*.' There are various readings in the Tib. witnesses.  
 
 
 > bāhudaṇḍaśatākṣepapadanikṣepanartanaḥ |  
@@ -2871,10 +2867,10 @@ Bearing repulsive and heroic forms, (120)
 >> 	stabs kyis] em.; stobs kyi NyiGyu  
 >> 	brgyas gang la] em.; rgyas gang la NyiGyu  
 
-The dancer moving his many hundreds  
+The dancer moving to and from his hundres   
 Of lengthy arms while setting down his stride,  
-The dancer who covers the whole of space  
-And fills it with Śrīmat’s one hundred arms,[^121-1] (121)  
+The dancer covering the whole of space  
+And filling it with Śrīmat’s hundred arms,[^121-1] (121)  
 
 [^121-1]: According to Vilāśavajra, Śrīmat refers to Padmanarteśvara, who is mentioned in verse 105.  
 
@@ -2901,12 +2897,12 @@ And fills it with Śrīmat’s one hundred arms,[^121-1] (121)
 > 	mthil gyis] em.; mthil gyi NyiGyu  
 > 	sen mo'i] em.; sen mo NyiGyu  
 
-Standing atop the surface of the earth  
-That's covered by just one of his foot soles,  
-Standing atop the summit of the world [^122-1]  
-And holding it just with his big toenail, (122)  
+Erect atop the surface of the earth,  
+Pervading it with one of his foot soles;  
+Erect atop the summit of the world,[^122-1]  
+Suppressing it with but his big toe's nail, (122)  
 
-[^122-1]: The Sanskrit word translated here as 'the world' is *brahmāṇḍa*, lit. 'Brahmā egg', a term more commonly in non-Buddhist texts in reference to the universe.   
+[^122-1]: The Sanskrit word translated here as 'the world' is *brahmāṇḍa*, lit. 'Brahmā egg', a term more commonly in non-Buddhist texts in reference to the universe.  
 
 * VV reads both *talesthitaḥ* and *nakhesthitaḥ* in compound as *bahuvrīhis*. He is slightly difficult to understand here, but his analysis doesn't seem far off from the ancient translation and what we have translated (somewhat freely). The Kangyur translation is almost incomprehensible.   
 
@@ -2928,9 +2924,9 @@ And holding it just with his big toenail, (122)
 >> 	'jig pa] em.; 'jigs pa NyiGyu VM  
 
 Whose aim is one; whose aim is non-dual Dharma;  
-Eternal one; whose aim is ultimate;   
+Whose aim is ultimate; beyond destruction;  
 Whose mind consists in groups of consciousness  
-With varied cognisance, objects, and forms; (123)  
+With varied objects, forms, and cognisance; (123)  
 
 * Following VV, we take the latter half of this verse to be a single name. VV's interpretation, although not entirely transparent, probably amounts to saying: 'He is the mind stream (*jñānasantati*) consisting in (1) varied representations, forms, and objects (*nānāvijñaptirūpārtha*) [i.e., the six gross forms of consciousness]; mind (*citta*) [i.e., *alayavijñāna*]; and consciousness (*vijñāna*) [i.e., *kliṣṭamanas*]. Here we've attempted to follow the ancient translation. To explain: he is one 'whose mind (*jñānasantati* as a *bahuvrīhi*) consists in groups of consciousness (vijñāna; rnam shes tshogs - *tshogs* being a plural marker) with varied cognisance, objects, and forms (*nānāvijñaptirūpārtha*, *rnam rig sna tshogs gzugs don can* - a *bahuvrīhi* qualifying *vijñāna*).   
 
@@ -2949,10 +2945,10 @@ With varied cognisance, objects, and forms; (123)
 > srid gsum dga' ba chen po pa/ /  
 >> 	stong pa dga'] VM; stong pa nyid la NyiGyu  
 
-Enjoying every object of existence,   
-A passion-filled mind, relishing emptiness,  
+Enjoying every object of existence,  
+A mind of passion, loving emptiness,  
 Transcending worldly passion and the like,  
-Taking great pleasure in the threefold world, (124)  
+Enjoying pleasures of the threefold world, (124)  
 
 * 124b, agradhīḥ: The ancient and Dege Tibetan translations do not reflect reading *agradhī* but rather something like rāgadhīḥ. Vilāsavajra's Sanskrit text does indeed read agradhīḥ.   
 
@@ -2971,10 +2967,10 @@ Taking great pleasure in the threefold world, (124)
 > sen mo'i 'od ni shes cher dmar/ /  
 >> 	sprin dkar] VM; sprin dka' NyiGyu  
 
-White in complexion like pristine white clouds,  
+With fair complexion white like pristine clouds,  
 With radiance like beams from autumn moons,  
-With lustre equal to the morning sun's,  
-With nails projecting light with deep redness,[^125-1] (125)  
+With lustre rivaling the morning sun's,  
+With nails emitting light with deep redness,[^125-1] (125)  
 
 [^125-1]: Or 'of great passion' (mahārāga).  
 
@@ -2996,11 +2992,11 @@ With nails projecting light with deep redness,[^125-1] (125)
 >> 	rgyan] VM; brgyan NyiGyu  
 
 Whose handsome crown has sterling sapphires,  
-Whose hair has tips of deep sapphire blue,  
+Whose hair has tips of sapphire deep blue,  
 With glory from the light of his great jewel,  
 Adorned with emanations of the buddhas, (126)  
 
-* 126ab: We diverge from the ancient translation in the interpretation of agra in these compounds. In the first compound it seems more natural to understand agra as mean 'best of', while in the second compound 'tip' makes better sense. VV offers no commentary here.   
+* 126ab: We diverge from the ancient translation in the interpretation of *agra* in these compounds. In the first compound it seems more natural to understand *agra* as mean 'best of', while in the second compound 'tip' makes better sense. VV offers no commentary here.   
 
 
 > lokadhātuśatākampī ṛddhipādamahākramaḥ |  
@@ -3018,12 +3014,12 @@ Adorned with emanations of the buddhas, (126)
 >> 	bskyod pa] VV; bskod pa NyiGyu  
 
 The shaker of a hundred worldly realms,  
-Having miraculous power as strength,[^127-1]   
-Suchness, maintainer of great mindfulness,  
+His strength the four miraculous powers,[^127-1]   
+Reality, maintaining firm great mindfulness,  
 *Samādhi* king of fourfold mindfulness,[^127-2] (127)  
 
-[^127-1]: The four bases of miraculous powers (Skt. *caturṛddhipāda*, Tib. *rdzu 'phrul gyi rkang pa bzhi*) are: 1. intention (canda, 'dun pa); 2. diligence (vīrya, brtson 'grus); 3. attention (citta, sems pa); and 4. discernment (mīmāṃsā, dpyod pa).  
-[^127-2]: The four applications of mindfulness (catuḥ-smṛtyupasthāna, dran pa nye bar bzhag pa bzhi) are mindfulness of 1. body (kāya, lus), 2. feelings (vedanā, tshor ba), 3. mind (citta, sems), and 4. phenomena (dharma, chos).  
+[^127-1]: The four bases of miraculous powers (Skt. *catur-ṛddhipāda*, Tib. *rdzu 'phrul gyi rkang pa bzhi*) are: 1. intention (*canda*, *'dun pa*); 2. diligence (*vīrya*, *brtson 'grus*); 3. attention (*citta*, *sems pa*); and 4. discernment (*mīmāṃsā*, *dpyod pa*).  
+[^127-2]: The four applications of mindfulness (Skt. *catuḥ-smṛtyupasthāna*, *dran pa nye bar bzhag pa bzhi*) are mindfulness of 1. body (*kāya*, *lus*), 2. feelings (*vedanā*, *tshor ba*), 3. mind (*citta*, *sems*), and 4. phenomena (*dharma*, *chos*).  
 
 
 > [ed-d 59] bodhyaṃgakusumāmodas tathāgataguṇodadhiḥ |  
