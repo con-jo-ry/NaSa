@@ -3326,8 +3326,6 @@ His referent all, three properties by nature,[^140-2] (140)
 * 140a, siddhāntavibhramāpagataḥ: Vilāśavajra's reading seems more context appropriate. It's possible that ed-d's reading is what's reflected in the ancient translation, and that it is indeed how Vimalamitra interprets the translation; but this is not necessarily the case. Hence we do not believe our translation deviates too significantly from the ancient translation.  
 
 
-% resume
-
 > pañcaskandhārthas triṣkālaḥ sarvakṣaṇavibhāvakaḥ |  
 > ekakṣaṇābhisaṃbuddhaḥ sarvabuddhasvabhāvadhṛk || 141 ||  
 
@@ -3342,10 +3340,10 @@ His referent all, three properties by nature,[^140-2] (140)
 > sangs rgyas kun gyi rang bzhin 'chang/ /  
 >> 	skad cig thams cad bye brag byed] deest in NyiGyu  
 
-With objects of the five *skandha*s, three times,  
-Discerning thoroughly moment by moment,   
-Awakening in but a single moment,   
-His nature being equal to all buddhas, (141)  
+With knowledge of the five *skandha*s, three times,  
+Discerning clearly each and every moment,  
+Awakening in but a single moment,  
+His basic nature equal to all buddhas, (141)  
 
 * VV's interpretation is mysterious for this verse, especially for pāda a and b. Eng. could use further revision.  
 * 141a, sarvakṣaṇavibhāvakaḥ: The ancient translation again takes vibhāvaka in the sense of 'realising'.   
@@ -3368,12 +3366,12 @@ His nature being equal to all buddhas, (141)
 > mnyam pa nyid kyi ye shes kyi stod pa'i le'u ste dgu pa'o/ /  
 >> 	tog] VM; rtog NyiGyu  
 
-His body bodiless, the best of bodies,  
-Having realised the pinnacle of bodies,  
-Displaying his forms of every possible kind,  
-He is the great gem, most precious stone; (142)  
+With body bodiless, the best of bodies,  
+With realization of the peak of bodies,  
+Displaying his form in every possible way,  
+He is the greatest stone, the precious gem; (142)  
 
-This concludes fourteen verses showing the wisdom of equality.    
+This concludes fourteen verses showing the wisdom of equality.  
 
 * 142b, kāyakoṭivibhāvakaḥ: Our translation follows the ancient translation. Vilāsavajra's commentary, as well as probably also the Kangyur translation, suggests: 'He who manifests ten million bodies'. The ancient translation and VV both likely based on the same reading of the Sanskrit text.  
 
@@ -3393,12 +3391,12 @@ This concludes fourteen verses showing the wisdom of equality.
 > gsang sngags chen po rigs gsum pa/ /  
 > 	chen po rigs] VM; chen pos rigs NyiGyu  
 
-To be realised by all of the buddhas,  
+What all the perfect buddhas are to know,  
 The buddhas' unsurpassed awakening,  
 Devoid of syllables, yet born of mantra,  
-Bred of Great Mantra's threefold lineage,[^143-1] (143)  
+Arisen from Great Mantra's threefold family,[^143-1] (143)  
 
-[^143-1]: According to Vilāsavajra, the three lineages (i.e. families) are those of Vairocana, Akṣobhya, and Amitābha.  
+[^143-1]: According to Vilāsavajra, the three families are those of Vairocana, Akṣobhya, and Amitābha.  
 
 
 > sarvamantrārthajanako mahābindur anakṣaraḥ |  
@@ -3415,9 +3413,9 @@ Bred of Great Mantra's threefold lineage,[^143-1] (143)
 > thig le stong pa yi ge brgya /  
 
 The father to the meaning of all mantras,  
-The great *bindu*, bereft of syllables,  
-Five syllabled, the greatest empty one,[^144-1]  
-*Bindu*-void, with a hundred syllables,[^144-2] (144)  
+The greatest *bindu*, void of syllables,  
+With five great syllables,[^144-1] great empty one,  
+A hundred syllabled,[^144-2] devoid of *bindu*, (144)  
 
 [^144-1]: Vilāsavajra and Vimalamitra both identify these syllables as the seeds of the five *tathāgata*s, but they diverge regarding precisely how these syllables are to be identified.  
 [^144-2]: Some witnesses of the text in Sanskrit and Tibetan indicate that the name is 'one with six syllables'. Vilāsavajra identifies the six syllables as 'oṁ vāgiśvara hūṁ', while Vimalamitra, reading 'one with a hundred syllables', interprets the hundred syllables as a generic large number that points to all the various mantras for which Mañjuśrī is the source.  
@@ -3440,14 +3438,14 @@ Five syllabled, the greatest empty one,[^144-1]
 >> 	phyed phyed] VV; byed NyiGyu  
 >> 	pa'i] NyiGyu; yi VV  
 
-Endowed with every form, but free from form,  
-Bearing the half of half of sixteen *bindu*s,[^145-1]  
-Without members, transcending every grouping,  
-Grasping the summit of the fourth *dhyāna*. (145)  
+Endowed with every form, yet free from form,  
+Supporting half of half of sixteen *bindu*s,[^145-1]  
+Transcending every grouping, void of members,  
+Sustaining *dhyāna*'s fourth and final peak, (145)  
 
-[^145-1]: Vilāsavajra refrains from offering a commentary on this line, but Vimalamitra clarifies that the four drops/*bindu*s (i.e. 'half of half of sixteen') are the seed syllables *a ā aṃ aḥ*. This being a commonly quoted verse, a variety of highly esoteric interpretations can be found.  
+[^145-1]: Vilāsavajra refrains from offering a commentary on this line, but Vimalamitra clarifies that the four drops/*bindu*s (i.e. 'half of half of sixteen') are the seed syllables *a ā aṃ aḥ*. This being a frequently cited verse, a variety of highly esoteric interpretations can be found.  
 
-* 145a, sarvākāro nirākāraḥ: Our translation is based on the ancient translation, which appears to be reflected in Davidson's Sanskrit edition. Here VV reads a single name, which was also perhaps rendered in the Dege translation. VV's interpretation runs as follows: 'He who is has the form devoid of all forms' (*sarvākāranirākāra*; *rnam pa thams cad rnam pa med*).  
+* 145a, *sarvākāro nirākāraḥ*: Our translation is based on the ancient translation, which appears to be reflected in Davidson's Sanskrit edition. Here VV reads a single name, which was also perhaps rendered in the Dege translation. VV's interpretation runs as follows: 'He who is has the form devoid of all forms' (*sarvākāranirākāra*; *rnam pa thams cad rnam pa med*).  
 
 
 > sarvadhyānakalābhijñaḥ samādhikulagotravit |  
@@ -3466,12 +3464,12 @@ Grasping the summit of the fourth *dhyāna*. (145)
 >> 	ting 'dzin rigs] em.; ting 'dzin rig VM NyiGyu  
 >> 	rgyud rig pa] VM; rgyud rigs pa NyiGyu  
 
-Knowing the *dhyāna*'s each and every aspect,  
-Knowing *samādhi*s' pedigrees and families,  
-The best of bodies as the *samādhi* body,   
-The king of every body of enjoyment, (146)  
+Aware of *dhyāna*'s each and every aspect,  
+With knowledge of *samādhi*s' types and families,  
+The best of bodies—body of *samādhi*,   
+The sovereign king of all enjoyment bodies, (146)  
 
-* 146c, samādhikāyakāyāgryaḥ: Our translation assumes that this is a single name, based on VV's commentary. The ancient translation, however, may support ed-d's reading, which is, it should be noted, Davidson's conjecture. This reading is less attractive in terms of the overall flow of the text, and it is further undermined by the parallel in 147a.   
+* 146c, *samādhikāyakāyāgryaḥ*: Our translation assumes that this is a single name, based on VV's commentary. The ancient translation, however, may support ed-d's reading, which is, it should be noted, Davidson's conjecture. This reading is less attractive in terms of the overall flow of the text, and it is further undermined by the parallel in 147a.  
 
 
 > nirmāṇakāyakāyāgryo buddhanirmāṇavaṃśadhṛk |  
@@ -3513,11 +3511,11 @@ While benefiting all, however needed, (147)
 >> 	lha yi bla] VM; lha'i bla NyiGyu  
 
 The sovereign of the gods, the god of gods,  
-The lord of *asura*s, a deity ruler,  
-The sovereign of immortals, guru of gods,  
+*Asura* lord, the ruler of immortals,  
+The king of deities, the gods' guru,  
 The highest lord of *pramatha*s,[^148-1] Pramatha, (148)  
 
-[^148-1]: Pramathas are a class of being otherwise known as *gaṇa*s. They are known as serving as attendants to Śiva.   
+[^148-1]: *Pramatha*s are a class of beings otherwise known as *gaṇa*s. They are known as serving as attendants to Śiva.   
 
 * 148a, devātideva: Tib. reads lha yi lha, our English translation abbreviated mainly for metre: 'highest god of gods.'    
 
@@ -3536,12 +3534,12 @@ The highest lord of *pramatha*s,[^148-1] Pramatha, (148)
 > 'jig rten phyogs bcur rab grags pa/ /  
 > chos kyi sbyin bdag che ba po/ /  
 
-Crossing the gloomy forest of existence,  
-The single teacher, guru of all beings,  
-In every directions of well-known worlds  
-He is the greatest teacher of the Dharma; (149)   
+Emerged from cyclic life's imposing forest;  
+The single teacher; guru for all beings;  
+In every well-known world, in all directions,  
+The eminent bestower of the Dharma; (149)  
 
-* 149c, prakhyāta* It seems fairly clear that both Tib. translation read prakhyāta in compound. VV also reads it in compound.  
+* 149c, *prakhyāta* It seems fairly clear that both Tib. translation read prakhyāta in compound. VV also reads it in compound.  
 
 
 > maitrīsaṃnāhasaṃnaddhaḥ karuṇāvarmavarmitaḥ |  
@@ -3559,11 +3557,13 @@ He is the greatest teacher of the Dharma; (149)
 >> 	ya lad dgos] VM; ya lad gos NyiGyu  
 >> 	g.yul ngo sel] VM; gsul ngo sel NyiGyu  
 
-Armoured in armour made of loving-kindness;  
-And shielded by the shield of his compassion;  
-Holding a wisdom sword, arrow, and bow;   
-Ending the war with ignorance and *kleśa*s; (150)  
+Concealed by armour made of loving-kindness;  
+Well shielded by the shield of empathy;  
+With wisdom sword in hand, with bow and arrow;  
+Concluding war with ignorance and *kleśa*s; (150)  
 
+
+* See Edgerton on *rahaṃjaha*. VV doesn't appear to be much help on this word.
 
 > mārārir mārajid vīraś caturmārabhayāntakṛt |  
 > sarvamāracamūjetā saṃbuddho lokanāyakaḥ || 151 ||  
@@ -3579,10 +3579,10 @@ Ending the war with ignorance and *kleśa*s; (150)
 > rdzogs pa'i sangs rgyas 'jig rten 'dren/ /  
 >> 	bdud bzhi'i] VM; bdud bzhin NyiGyu  
 
-Hero, the *māra*s' enemy and tamer,   
-Dispeller of the four *māra*s' danger,  
-Defeater of all armies of *mārā*s,  
-The true buddha, a guide to living beings, (151)  
+The *māra*s' enemy and tamer, hero,   
+Eliminating threats from all four *māra*s,  
+Defeating all the armies of the *mārā*s,  
+A guide for living beings, the perfect buddha,  (151)  
 
 * 151c,sarvamāracamūjetā: *sarva* is perhaps only reflected in the ancient Tibetan translation with *rnams*.   
 
@@ -3602,12 +3602,12 @@ The true buddha, a guide to living beings, (151)
 >> 	bstod 'od] VM; btod 'os NyiGyu  
 >> 	rim gro] em.; rim 'gro NyiGyu; ri mor VM  
 
-Worthy of reverence and respect-worthy,  
-Worthy of homage, always honourable,  
-Worthy of worship and most highly adored,  
-Worthy of obeisance, the highest guru, (152)  
+Deserving reverence, worthy of respect,  
+Deserving homage, always honourable,  
+Deserving worship, worthy of regard,  
+The highest guru, ever venerable, (152)  
 
-* 152b, mānanīyaś: Witnesses of the ancient Tibetan translation commonly read here 'he is worthy of painting' (ri mor bya ba'i 'os); however, this appears to be a corruption. BDRC hit results: rim gro, 15; rim gror, 2; ri mor, 82.   
+* 152b, *mānanīyaḥ*: Witnesses of the ancient Tibetan translation commonly read here 'he is worthy of painting' (*ri mor bya ba'i 'os*); however, this appears to be a corruption. BDRC hit results: *rim gro*, 15; *rim gror*, 2; *ri mor*, 82.   
 
 
 > trailokyaikakramagatir vyomāparyantavikramaḥ |  
@@ -3624,14 +3624,13 @@ Worthy of obeisance, the highest guru, (152)
 > gsum rig gtsang ma dag pa ste/ /  
 > mngon shes drug ldan rjes dran drug /  
 
-Spanning three worlds with just a single stride,  
-His step reaching the boundary of space,   
-Knowing the three,[^153-1] well versed, and purified,  
-With six knowledges and six recollections, (153)  
+Traversing all three worlds in just one stride,  
+His step extending past the bounds of space,  
+With knowledge of the three,[^153-1] well-versed, and pure,  
+With sixfold higher knowledge and recall,[^153-3] (153)  
 
-[^153-1]: The three names in this verse quarter evoke the Vedic learning of a Brahman. Vilāsavajra understands 'Knowing the three' to refer to the three vedas: Ṛgveda, Yajurveda, and Sāmaveda. Vimalamitra comments that the three are the scriptures of the *tripiṭaka*, or else three bodies of a buddha.  
-
-* 153a, śrotriyaḥ: Here it is possible that we override the ancient translation, since *gtsang ma* generally means 'pure' rather than 'well-versed [in the Vedas]'. It is perhaps not impossible, however, that *gtsang ma* had other meanings in a more archaic form of the language; this can be researched further.   
+[^153-1]: The three names in this verse quarter evoke the Vedic learning of a brahmin. Vilāsavajra understands 'Knowing the three' to refer to the three Vedas: Ṛgveda, Yajurveda, and Sāmaveda. Vimalamitra comments that the three are the scriptures of the *tripiṭaka*, or else three bodies of a buddha.  
+[^153-2]: The six forms of 'higher knowledge' (*ṣaḍabhijñā*) are as follows: (1) the divine eye (*divyacakṣu*, *lha'i mig*), (2) the divine ear (*divyasrotra*, *lha'i rna ba*), (3) knowledge of other minds (*paracittajñāna), (4) recollection of previous births (*pūrvanivāsānusmṛti*, *sngon gyi gnas rjes su dran pa*), (5) miraculous powers (*ṛddhi*, *rdzu 'phrul*), and (6) knowledge of the destruction of defilements (*āśravakṣayajñāna*, *zag pa zad pa mkhyen pa*). The six forms of recollection, or 'recall', (*ṣaḍanusmṛti*, *rjes su dran pa drug*) are listed variously in texts. According to the *Mahāvyutpatti*, they are recollection of (1) the Buddha, (2) the Dharma, (4) the Saṅgha, (5) discipline (*śīla*, *tshul khrims*), (6) giving (*tryāga*, *gtong ba*), (7) and deities (*devatā*, *lha*). In their commentaries on the *Nāmasaṅgīti*, both Vimalamitra and Vilāsavajra provide their own unique lists, which are more influenced by the doctrines of tantric Buddhism.
 
 
 > [ed-d p. 61] bodhisattvo mahāsattvo lokātīto maharddhikaḥ |  
@@ -3648,12 +3647,12 @@ With six knowledges and six recollections, (153)
 > shes rab kyis ni de nyid thob/ /  
 >> 	rdzu 'phrul] VM; sgyu 'phrul NyiGyu  
 
-The bodhisattva and mahāsattva,   
-With great power, transcending worldly life,  
-Perfected from perfecting his insight,  
-Having obtained insight's reality, (154)  
+The bodhisattva and *mahāsattva*,  
+With power great, transcending worldly life,  
+Perfected by his excellence of insight,  
+Now equal to insight's reality, (154)  
 
-* 154d: more literally, 'one who has obtained the state of the reality of insight'.  There are some problems in ms-c for VV; ms-b provides a slightly more coherent set of readings.  
+* 154d: *prajñātattvatvam āgataḥ*] Tib. appears to hint at a meaning such as 'he is one who acquired the reality of insight', but, if that's what's really intended, it's probably not a faithful rendering of the Sanskrit. 
 
 
 > ātmavit paravit sarvaḥ sarvīyo hy agrapudgalaḥ |  
@@ -3670,12 +3669,12 @@ Having obtained insight's reality, (154)
 > shes dang shes bya'i bdag po mchog /  
 >> 	gzhan rigs] VM; gzhan rig NyiGyu  
 
-Knowing himself, knowing others, the whole,  
-For, wholly beneficial, he's man's best;  
-Surpassing all points of comparison,  
-The greatest master of knowledge and knowing, (155)  
+The whole, aware of self, aware of other,  
+For, fit for all, he is the best of men;  
+Surpassing all to which he is compared,  
+Supreme most lord of knowing and what's known, (155)  
 
-* 155, jñeyo jñānādhipaḥ: VV's commentary confirms ed-d's reading of two names here, but the Tibetan translation suggest only one, which is what is reflected in our English translation.   
+* 155, jñeyo jñānādhipaḥ: VV's commentary confirms ed-d's reading of two names here, but the Tibetan translation suggest only one, which is what is reflected in our English translation.  
 
 
 > dharmadānapatiḥ śreṣṭhaś caturmudrārthadeśakaḥ |  
@@ -3693,10 +3692,14 @@ The greatest master of knowledge and knowing, (155)
 >> 	bzhi po] VM; bzhi'i NyiGyu  
 >> 	bsnyen bskur] VM; snyen bkur NyiGyu  
 
-The foremost master of bestowing Dharma,   
-Teaching the meaning of the fourfold seal,  
-Supremely venerable amongst all beings  
+The foremost master of imparting Dharma,   
+Who shows the meaning of the fourfold seal,[^156]  
+The most revered amongst all living beings  
 Engaged in going forth on the three paths, (156)  
+
+% return to this
+
+[^156]: The four seals (*caturmudrā*, *phyag rgya bzhi*) are the action seal (*karmamudrā*, *las kyi phyag rgya*), the pledge seal (*samayamudrā*, *dam tshig gi phyag rgya*), Dharma seal (*dharmamudrā*, *chos kyi phyag rgya*), and great seal (*mahāmudrā*, *phyag rgya chen po*). 
 
 * 156cd: More literally, 'the most venerable amongst beings who proceed along the three ways of going forth'.    
 
@@ -3723,13 +3726,13 @@ Engaged in going forth on the three paths, (156)
 
 With glory purified by ultimate truth,  
 Most fortunate within the threefold world,  
-The glorious provider of all wealth,  
-The best amongst the glorious, Mañjuśrī. (157)  
+The celebrated source of all endowements,  
+Supreme amongst the glorious, Mañjuśrī. (157)  
 
 This concludes fifteen verses on the wisdom of performing actions.   
 
 
-## 11. Praise for the wisdom of the five *tathāgata*s.
+## 11. Praise for the wisdom of the five *tathāgata*s
 > namas te varada vajrāgrya bhūtakoṭi namo 'stu te |  
 > namas te śūnyatāgarbha buddhabodhi namo 'stu te || 158 ||  
 
@@ -3786,9 +3789,9 @@ The joy of all the buddhas, I pay you homage; (159)
 >> 	bzhad] VM; gzhad NG
 
 O smile of every buddha, homage to you;  
-The laugh of all the buddhas, I pay to you homage;  
+The laugh of all the buddhas, I pay you homage;  
 O speech of every buddha, homage to you;  
-The heart of all the buddhas, I pay to you homage; (160)  
+The heart of all the buddhas, I pay you homage; (160)  
 
 
 > abhavodbhava namas te 'stu namas te buddhasaṃbhava |  
@@ -3832,7 +3835,7 @@ Homage to you, the buddhas' spectacle;
 Homage to you, the everything of all;  
 O body of wisdom, homage to you! (162)
 
-This concludes five verses of praise for the wisdom of the five *tathāgata*s.    
+This concludes five verses of praise for the wisdom of the five *tathāgata*s.  
 
 
 ## [Benefits - not translated; collation not checked]  
@@ -3883,8 +3886,7 @@ This concludes five verses of praise for the wisdom of the five *tathāgata*s.
 
 *oṁ sarva-dharmābhāva-svabhāva viśuddha-vajra a ā aṃ aḥ | prakṛti-pariśuddhāḥ sarva-dharmā yad uta sarva-tathāgata-jñāna-kāya-mañjuśrī-pariśuddhitām upādāyeti a āḥ | sarva-tathāgata-hṛdayaṃ hara hara | oṁ hūṁ hrīḥ bhagavan jñāna-mūrti vāg-īśvara mahā-vāca sarva-dharma gaganāmala-supariśuddha-dharma-dhātu-jñāna-garbha āḥ |*[^162-m]  
 
-[^162-m]: *Oṁ*! O you whose nature is the absence of all phenomena, whose vajra-essence is completely pure—*a ā aṃ aḥ*! All phenomena are by nature fully pure—to explain, they are fully pure based on state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*! Seize, seize the heart of all tathāgatas. *Oṁ hūṃ hrīḥ*! O Blessed One, wisdom body, lord of speech whose speech is great, he who is all Dharma, whose essence is the wisdom of the Dharma realm that's completely pure like stainless space—*āḥ*!
-
+[^162-m]: *Oṁ*—O you whose nature is the absence of all phenomena, whose vajra-essence is fully pure—*a ā aṃ aḥ*! All phenomena are by nature fully pure—to explain, they are fully pure based on the state of complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*! Seize, seize the heart of all tathāgatas! *Oṁ hūṃ hrīḥ*—O Blessed One, wisdom body, lord of speech, whose speech is great, who is all Dharma, whose essence is the wisdom of the Dharma realm that is completely pure like stainless space—*āḥ*!
 
 
 > [ed-d p. 68] atha vajradharaḥ śrīmān hṛṣṭatuṣṭaḥ kṛtāñjaliḥ |  
@@ -3944,8 +3946,8 @@ He then exlaimed this most exuberent praise: (164)
 > 'gro ba'i mgon med rnams dang ni/ /  
 
 Protector, we rejoice! How excellent!  
-It's truly excellent what you have taught!  
-By you our lofty aim has been achieved,  
+It's excellent what you have taught to us!  
+Through you our lofty aim has been achieved,  
 Which leads to true and full awakening; (165)  
 
 
@@ -3964,8 +3966,8 @@ Which leads to true and full awakening; (165)
 
 And so the aims of helpless mundane beings,  
 Who seek the fruits of perfect liberation.  
-Just this, taught in the *Māyājāla*'s system,  
-Is the pure path that leads to excellence: (166)   
+Just this proclaimed within the *Māyājāla* is  
+The noble path that leads to excellence: (166)  
 
 
 > gambhīrodāravaipulyo mahārtho jagadarthakṛt |  
@@ -3988,8 +3990,8 @@ Is the pure path that leads to excellence: (166)
 
 With largeness, vastness, and profundity,  
 With meaning great, achieving beings' aims,  
-Just this makes up the sphere of every buddha  
-That's taught by all the true awakened ones. (167)  
+Just this comprises every buddha's sphere,   
+Just this is taught by all awakened ones. (167)  
 
 
 ## Colophon:
@@ -4003,4 +4005,4 @@ This concludes the supreme chanting of the names of the Blessed One Mañjuśrī,
 
 
 ## Kangyur colophon:
-> thun mong dang thun mong ma yin pa'i gsung rab thams cad la dbang 'byor pa'i bdag nyid chen po bla ma dam pa chos kyi rgyal po'i bka' drin gyis nye bar bskyangs pa/ sgra bsgyur gyi lo tsA ba dge slong blo gros brtan pas/ bsam gtan gling gi dben gnas su legs par bsgyur cing dag par byas pa'o/ /sngon gyi sgra bsgyur chen po de dag gis/ /rgyud 'di bsgyur cing kun la grags lags mod/ /'on kyang sgra don gtsug lag ji bzhin du/ /rgyud 'di blo brtan gnyis pas legs par bsgyur/ /zab cing rgya che rdo rje theg pa yi/ /nges don ye shes don gnyer skyes bu dag/chos dang don la legs par mi rton par/ /gang zag tshig 'bru'i rjes su ma 'brang zhig_/
+> thun mong dang thun mong ma yin pa'i gsung rab thams cad la dbang 'byor pa'i bdag nyid chen po bla ma dam pa chos kyi rgyal po'i bka' drin gyis nye bar bskyangs pa/ sgra bsgyur gyi lo tsA ba dge slong blo gros brtan pas/ bsam gtan gling gi dben gnas su legs par bsgyur cing dag par byas pa'o/ /sngon gyi sgra bsgyur chen po de dag gis/ /rgyud 'di bsgyur cing kun la grags lags mod/ /'on kyang sgra don gtsug lag ji bzhin du/ /rgyud 'di blo brtan gnyis pas legs par bsgyur/ /zab cing rgya che rdo rje theg pa yi/ /nges don ye shes don gnyer skyes bu dag/chos dang don la legs par mi rton par/ /gang zag tshig 'bru'i rjes su ma 'brang zhig /
