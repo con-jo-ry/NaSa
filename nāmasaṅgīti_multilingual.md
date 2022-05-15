@@ -1316,7 +1316,7 @@ The teacher of the path to excellence, (55)
 Accomplishing all goals,[^56-1] fulfilling wishes,  
 Completely free from wants of any kind,  
 Bereft of thought, an undepleting source,  
-The Dharma source,[^56-1] supreme, beyond decay, (56)  
+The Dharma source,[^56-2] supreme, beyond decay, (56)  
 
 [^56-1]: "Accomplishing all goals" translates the Sanskrit *siddhārtha*, also a well-known name of Buddha Śākyamuni.  
 [^56-2]: "The Dharma source" translates the Sanskrit *dharmadhātu*. An alternative translation could, for instance, the Dharma sphere.  
@@ -3630,7 +3630,7 @@ The highest guru, ever venerable, (152)
 Traversing all three worlds in just one stride,  
 His step extending past the bounds of space,  
 With knowledge of the three,[^153-1] well-versed, and pure,  
-With sixfold higher knowledge and recall,[^153-3] (153)  
+With sixfold higher knowledge and recall,[^153-2] (153)  
 
 [^153-1]: The three names in this verse quarter evoke the Vedic learning of a brahmin. Vilāsavajra understands 'Knowing the three' to refer to the three Vedas: Ṛgveda, Yajurveda, and Sāmaveda. Vimalamitra comments that the three are the scriptures of the *tripiṭaka*, or else three bodies of a buddha.  
 [^153-2]: The six forms of 'higher knowledge' (*ṣaḍabhijñā*) are as follows: (1) the divine eye (*divyacakṣu*, *lha'i mig*), (2) the divine ear (*divyasrotra*, *lha'i rna ba*), (3) knowledge of other minds (*paracittajñāna), (4) recollection of previous births (*pūrvanivāsānusmṛti*, *sngon gyi gnas rjes su dran pa*), (5) miraculous powers (*ṛddhi*, *rdzu 'phrul*), and (6) knowledge of the destruction of defilements (*āśravakṣayajñāna*, *zag pa zad pa mkhyen pa*). The six forms of recollection, or 'recall', (*ṣaḍanusmṛti*, *rjes su dran pa drug*) are listed variously in texts. According to the *Mahāvyutpatti*, they are recollection of (1) the Buddha, (2) the Dharma, (4) the Saṅgha, (5) discipline (*śīla*, *tshul khrims*), (6) giving (*tryāga*, *gtong ba*), (7) and deities (*devatā*, *lha*). In their commentaries on the *Nāmasaṅgīti*, both Vimalamitra and Vilāsavajra provide their own unique lists, which are more influenced by the doctrines of tantric Buddhism.
