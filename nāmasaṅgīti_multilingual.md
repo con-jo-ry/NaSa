@@ -16,11 +16,14 @@
 | r      | recto                                                                                                                                                                                                                     |
 | v      | verse                                                                                                                                                                                                                     |
 
-# Chanting the Names of Mañjuśrī  
+# Chanting the Names of Mañjuśrī[^1]  
 
-> [D 1v] rgya gar skad du/ many+dzu shrI dz+nyA na sa twa s+ya pa ra mAR+tha nA ma saM gI ti/ bod skad du/ 'jam dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/     
+[^1]: *Chanting the Names of Mañjuśrī*, commonly known as simply the *Nāmasaṅgīti*, is one of the most highly revered tantras throughout all lineages and practice systems of Vajrayāna Buddhism. In it Buddha Śākyamuni teaches Vajrapāṇi and his retinue a list of names for the wisdom body of Mañjuśrī, the heart of all *tathāṅata*s. Expressed in attractive and at time playful verses, the names evoke an extremely vast array of topics and images, from the mundane to the transcendent, and from the quiescent to the ferocious. The *Nāmasaṅgīti* has had a central role in the daily chanting of Buddhist practitioners for centuries, and it is also commonly the first text to be recited on special occasions. **Description of text**
 
-> [NG 49r] rgya gar skad du/ A rya many+dzu shrI nA ma sang gi te/ bod skad du/ 'phags pa 'jam dpal gyi mtshan yang dag par brjod pa/   
+
+> [D 1v] rgya gar skad du/ many+dzu shrI dz+nyA na sa twa s+ya pa ra mAR+tha nA ma saM gI ti/ bod skad du/ 'jam dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/ 
+
+> [NG 49r] rgya gar skad du/ A rya many+dzu shrI nA ma sang gi te/ bod skad du/ 'phags pa 'jam dpal gyi mtshan yang dag par brjod pa/ 
 
 ## Scribe/translator's homage:
 
@@ -33,7 +36,10 @@
 Homage to ever-youthful Mañjuśrī!  
 
 
-## 1. The request  
+## 1. The request[^2] 
+
+[^2]: The chapter titles are included in many but not all witnesses of the *Nāmasaṅgīti* and its translations. Commentators employ them to explain the structure of the text. They are generally not chanted aloud by contemporary practitioners who recite the text.
+
 > atha vajradharaḥ śrīmān durdāntadamakaḥ paraḥ |  
 > trilokavijayī vīro guhyarāṭ kuliśeśvaraḥ || 1 ||  
 
@@ -50,7 +56,7 @@ Homage to ever-youthful Mañjuśrī!
 Then Vajradhara, ever glorious,  
 Supreme subduer of the hard to tame,  
 The hero conquering the triple world,  
-The vajra lord and master of secrets, (1)  
+The vajra lord and master of all secrets, (1)  
 
 
 > vibuddhapuṇḍarīkākṣaḥ protphullakamalānanaḥ |  
@@ -93,11 +99,11 @@ A vajra of the highest excellence—(2)
 >> 	3c gdul dka'] VM; 'dul dka' NG  
 
 Accompanied by countless Vajrapāṇis,  
-With features such as fierce, turbulent frowns,  
+With features such as fierce, turbulent brows,  
 Subduers of the hard to tame, heroes,  
 Appearing with heroic, hideous forms, (3)  
 
-* 3a, *bhṛkuṭītaraṅgapramukhair*: Tribe (2016: 118 n. 34) notes that Vilāsavajra may have understood the this quarter along the lines of, 'Accompanied by countless Vajrapāṇis, foremost of whom is Bhṛkuṭītaraṅga...'. Tribe did not feel there was, however, enough evidence to incorporate this interpretation into his main translation. We believe this interpretation is indeed the most natural reading of Vilāśavajra's commentary, and it does not conflict with the Tibetan translations of the root text. Vimalamitra, however, and probably a majority of Tibetan commentators, have understood the verse as simply describing the physical features of the accompanying Vajrapāṇis.  
+* 3a, *bhṛkuṭītaraṅgapramukhair*: Tribe (2016: 118 n. 34) notes that Vilāsavajra may have understood the this quarter along the lines of, 'Accompanied by countless Vajrapāṇis, foremost of whom is Bhṛkuṭītaraṅga...'. Tribe did not feel there was, however, enough evidence to incorporate this interpretation into his main translation. We believe this interpretation is indeed the most natural reading of Vilāsavajra's commentary, and it does not conflict with the Tibetan translations of the root text. Vimalamitra, however, and probably a majority of Tibetan commentators, have understood the verse as simply describing the physical features of the accompanying Vajrapāṇis.  
 
 
 > ullālayadbhiḥ svakaraiḥ prasphuradvajrakoṭibhiḥ |  
@@ -114,7 +120,7 @@ Appearing with heroic, hideous forms, (3)
 > thabs kyis 'gro don byed pa'i mchog /  
 >> 	thabs kyis] VM; thabs kyi NG  
 
-And shaking in their hands their mighty vajras,  
+Brandishing in their hands their mighty vajras,  
 The tips of which emit intensive light,  
 Great benefactors to all living beings  
 Through skill, through insight, and through great compassion, (4)  
@@ -180,7 +186,7 @@ He said before the lord the following: (6)
 >> 	dra ba'i] VM; dra bas NG  
 
 'O omnipresent lord, for my well-being,  
-With due concern for me and for my sake, 
+With due concern for me and for my sake,  
 That I may reach complete awakening  
 Upon the basis of Illusion's Net;[^7-1] (7)  
 
@@ -225,7 +231,7 @@ So that they may obtain the highest fruit, (8)
 > dbang po bsam pa mkhyen mchog gis/ /  
 
 May you—the most supreme awakened one,  
-The Blessed One, the world's guru, teacher,  
+The Blessed One, the world's guru, and teacher,  
 Who knows the great *samaya*'s reality,  
 Aware of wishes and abilities—(9)  
 
@@ -249,7 +255,7 @@ Aware of wishes and abilities—(9)
 >> 	10b chen po'i] VM; chen po NG   
 >> 	10c sku ste] VM; sku de NG  
 
-Please teach to us the great name chanting of  
+Reveal to us the great name chanting of  
 The wisdom body of the Blessed One,  
 The great *uṣṇīṣa*, master of all speech,  
 The self-arising wisdom emanation,  
@@ -271,7 +277,7 @@ The wisdom deity called Mañjuśrī; (10)
 > thog ma bar dang mthar dge ba/ /  
 
 These names with meaning both profound and vast;  
-Of great significance; peerless; tranquil;   
+Of great significance; unmatched; serene;  
 With goodness at their start, middle, and end; (11)  
 
 * 'names' is added to the translation to clarify shift of subject  
@@ -363,7 +369,7 @@ The bearer of the buddhas' every secret; (14)
 
 And this I shall reveal to living beings  
 According to each one's capacity,  
-In order to completely quell afflictions,  
+In order that afflictions may be quelled,  
 So ignorance may fully be dispelled.' (15)  
 
 
@@ -522,7 +528,7 @@ How excellent of you, O Vajrapāṇi! (21)
 > khyod ni rtse gcig yid kyis nyon/ /  
 > bcom ldan de ni legs zhes gsol/ /  
 
-And so I shall, O master of all secrets,    
+And so I shall, O master of all secrets,  
 Reveal just that to you most splendidly.  
 With single-minded focus, listen well!'  
 'How excellent!' responded Vajrapāṇi,  
@@ -604,10 +610,10 @@ These verses, which include six kingly mantras,[^25-2]
 Which manifest from non-duality,  
 Which bear the quality of non-arising: (25)  
 
-[^25-1]: Vimalamitra, as well as the witnesses we have consulted of the *Nāmasaṅgīti*'s Tibetan translations, indicates that 'the lord of speech' is the Buddha: i.e., 'the Buddha, the lord of speech, spoke these verses'. Vilāsavajra and the Sanskrit witnesses of the Nāmasaṅgīti, however, indicate that 'the lord of speech' refers to Mañjuśrī. The latter reading and interpretation are, in our opinion, preferable on the grounds of grammar and sense, and we therefore reflect it in our English translation. 
-[^25-2]: The six mantra are expressed in verse 27.  
+[^25-1]: Vimalamitra, as well as the witnesses we have consulted of the *Nāmasaṅgīti*'s Tibetan translations, indicates that 'the lord of speech' is the Buddha: i.e., 'the Buddha, the lord of speech, spoke these verses'. Vilāsavajra and the Sanskrit witnesses of the *Nāmasaṅgīti*, however, indicate that 'the lord of speech' refers to Mañjuśrī. The latter reading and interpretation are, in our opinion, preferable on the grounds of grammar and sense, and we therefore reflect it in our English translation. 
+[^25-2]: These six mantra are expressed in verse 27.  
 
-* There is a slight possibility a Sanskrit witness reads *girāṃ patiḥ*, but Vilāśavajra's clearly reads *pateḥ*. It seems more likely that the Tibetan translation was corrupted from *tshig gi bdag po'i* to *tshig gi bdag pos*. The latter, in any case, is unnatural Tibetan: if this were intended as a qualification of the Buddha, it should, based on the norms of Tibetan syntax, occur alongside *bcom 'dan shAkya thub* in the earlier verse. VM interpretation is further evidence that he almost certainly did not refer to a Sanskrit text in composing his commentary.  
+* There is a slight possibility a Sanskrit witness reads *girāṃ patiḥ*, but Vilāsavajra's clearly reads *pateḥ*. It seems more likely that the Tibetan translation was corrupted from *tshig gi bdag po'i* to *tshig gi bdag pos*. The latter, in any case, is unnatural Tibetan: if this were intended as a qualification of the Buddha, it should, based on the norms of Tibetan syntax, occur alongside *bcom 'dan shAkya thub* in the earlier verse. VM interpretation is further evidence that he almost certainly did not refer to a Sanskrit text in composing his commentary.  
 
 
 > a ā i ī u ū e ai o au aṃ aḥ sthito hṛdi |  
@@ -692,7 +698,7 @@ Beyond expression based on words or speech,
 The foremost cause of every form of speech,  
 The shining forth of every kind of language, (29)  
 
-[^29-1]: When used in reference to letters, the word *mahāprāṇa* means 'aspiration', which would normally not apply to a vowel such as *a*. Vimalamitra explains that the vowel *a* is unique in not depending on the teeth, nose, tongue, and so on for its articulation; rather, it arises simply from *prāṇa*, a person's vital force. Thus the word *mahāprāṇa* connotes something that is naturally arisen from the vital force alone.  
+[^29-1]: When used in reference to letters, the word *mahāprāṇa* means 'aspiration', which would normally not apply to a vowel such as *a*. Vimalamitra explains that the vowel *a* is unique in not depending on the teeth, nose, tongue, and so forth for its articulation; rather, it arises simply from *prāṇa*, a person's vital force. Thus the word *mahāprāṇa* connotes something that is naturally arisen from the vital force alone.  
 
 * VV seems to say that *suprabhāsvara* is the shining forth (understood *bhāve*) of language in the minds of sentient beings, and Mañjuśrī manifests in that form. The translation in Tribe 2016: 149 seems a bit off here.  
 
@@ -838,9 +844,9 @@ Supreme upholder of great discipline,
 Intent supporter of great tolerance,  
 With valour rooted in great diligence, (36)  
 
-[^36-1]: Beginning in this verse the tantra lists the ten *pāramitā*s: 1. generosity; 2. discipline; 3. patience ('tolerance'); 4. diligence; 5. meditative concentration; 6. wisdom; 7. skilful means; 8. strength; 9. aspiration; and 10. knowledge.  
+[^36-1]: Beginning in this verse the tantra lists the ten *pāramitā*s: 1. generosity ('munificence'); 2. discipline; 3. patience ('tolerance'); 4. diligence; 5. meditative concentration; 6. wisdom; 7. skilful means; 8. strength; 9. aspiration ('vows'); and 10. knowledge.  
 
-* The *Mahāvyutpatti* gives both *pha rol gnon pa* and *brtul ba* as possible translations of *parākrama*. *brtul ba* is probably meant in the ancient sense of the word, as recorded in the *tshig mdzod chen mo* under *rtul pa*: *rtsol ba dang 'bad pa*. 'Valour'—courage and strength in the face of adversity and danger—seems like the most fitting translation here. Note that Vilāśavajra does not treat this term as a *bahuvrīhi* but as a genitive *tatpuruṣa* (the Tibetan translations, as usual, are not entirely clear). A *bahuvrīhi* interpretation, however, is seems somewhat more natural in the present context: he whose valour is great diligence/energy. Note that VV does treat *mahābalaparākrama* in verse 39 in precisely this manner. Based on this interpretation we arrive at the present translation.  
+* The *Mahāvyutpatti* gives both *pha rol gnon pa* and *brtul ba* as possible translations of *parākrama*. *brtul ba* is probably meant in the ancient sense of the word, as recorded in the *tshig mdzod chen mo* under *rtul pa*: *rtsol ba dang 'bad pa*. 'Valour'—courage and strength in the face of adversity and danger—seems like the most fitting translation here. Note that Vilāsavajra does not treat this term as a *bahuvrīhi* but as a genitive *tatpuruṣa* (the Tibetan translations, as usual, are not entirely clear). A *bahuvrīhi* interpretation, however, is seems somewhat more natural in the present context: he whose valour is great diligence/energy. Note that VV does treat *mahābalaparākrama* in verse 39 in precisely this manner. Based on this interpretation we arrive at the present translation.  
 
 
 > mahādhyānasamādhistho mahāprajñāśarīradhṛk |  
@@ -859,7 +865,7 @@ With valour rooted in great diligence, (36)
 
 *Samādhi*-resting through great meditation,  
 Endowed with bodies flowing from great wisdom,  
-Most great in strength, most great in skilful means,  
+Both great in strength and great in skilful means,  
 A brimming ocean filled with vows and knowledge, (37)  
 
 * For the third quarter of 37, we again interpret the text slightly differently from VV. Given the start of the passage, it seems more consistent to say that Mañjuśrī *has* great strength etc. rather than that he *is* great strength etc..  
@@ -881,15 +887,15 @@ A brimming ocean filled with vows and knowledge, (37)
 > shes rab chen po blo chen ldan/ /  
 > mkhas pa chen po thabs che ba/ /  
 
-Unmeasurable, suffused with great kindness,  
-The foremost mind, enriched with great compassion,  
-The great wise one, the great intelligent one,  
+By nature great in kindness, limitless,  
+The foremost mind, enriched by great compassion,  
+Of great insight, of great intelligence,  
 Great dexterous one, with methods ever great, (38)  
 
-* For *mahāmaitrīmaya*, VV reads *mahat* with *maitrīmayo*.  
+* For *mahāmaitrīmaya*, VV connects *mahat* with *maitrīmayo*.  
 * We interpret *aghradhī* as a *bahuvrīh*: the translation 'foremost mind' is intended to mean 'he has the foremost mind'.  
 * For *pāda* c, Tib. may imply: 'Of great wisdom, of great intelligence.'  
-* The ancient translation reflects the reading *mahākṛtī* (i.e. *mahat* + *kṛtin*) in the Sanskrit text, which we have translated as "with great dexterity". This reading is also found in VV. The Kangyur translation reflects the reading *mahākṛti* (*mahat* + *kṛti*), which it renders as *byed pa chen po* ('one whose deeds are great') (Davidson's translation following this interpretation).  
+* The ancient translation reflects the reading *mahākṛtī* (i.e. *mahat* + *kṛtin*) in the Sanskrit text, which we have translated as "great dexterous one". This interpretation is also found in VV. The Kangyur translation reflects the reading *mahākṛti* (*mahat* + *kṛti*), which it renders as *byed pa chen po* ('one whose deeds are great') (Davidson's translation following this interpretation).  
 
 
 > mahāṛddhibalopeto mahāvego mahājavaḥ |  
@@ -906,7 +912,7 @@ Great dexterous one, with methods ever great, (38)
 > stobs chen pha rol gnon pa po/ /  
 
 Commanding powers and great miracles,  
-With driving force supreme, with speed supreme,  
+With driving force supreme, with speed unmatched,  
 Renowned great lord, of foremost majesty,  
 Most valorous owing to his great might, (39)  
 
@@ -930,8 +936,8 @@ Most valorous owing to his great might, (39)
 > drag po chen po drag shul che/ /  
 > 'jigs chen 'jigs par byed pa po/ /  
 
-Smashing the massive mountain of becoming,  
-While holding his imposing vajra, hardened,  
+Destroying the massive mountain of becoming,  
+Unyeilding, holding strong a massive vajra,  
 Great terrifying lord, the great cruel one,  
 Provoking fear in great and daunting creatures,[^40-1] (40)  
 
@@ -956,17 +962,17 @@ Provoking fear in great and daunting creatures,[^40-1] (40)
 > theg pa chen po'i tshul la gnas/ /  
 > theg pa chen po'i tshul gyi mchog /  
 
-Protector as the highest of great *vidyā*s,[^41-1]  
-A guru a the highest of great *mantra*s,  
+Protector as the greatest of all *vidyā*s,[^41-1]  
+A guru as the greatest of all *mantra*s,  
 Traversing well the Mahāyāna's path,  
 Himself the Mahāyāna's foremost way; (41)  
 
 This concluded fourteen verses showing the great Vajradhātu *maṇḍala*.  
 
-[^41-1]: Here we believe that the majority of witnesses of the Tibetan translations have suffered from corruption, with the word '*rig*' becoming '*rigs*'. Following the corrupted text, we may translate the name, 'the best of the great families'. This reading, along with its interpretations, appears to be common in Tibetan commentaries, including that of Vimalamitra. Witnesses of the text reading '*rig*' (*vidyā*) can also be found, and these are almost certainly to be regarded as correct.  
+[^41-1]: Here we believe that the majority of witnesses of the Tibetan translations have suffered from corruption, with the word '*rig*' becoming '*rigs*'. Following the corrupted text, we may translate the name, 'the best of the great families'. This reading, along with an interpretation of it, appears to be common in Tibetan commentaries, including that of Vimalamitra. Witnesses of the text reading '*rig*' (*vidyā*) can also be found, and these are almost certainly to be regarded as correct.  
 
 * More evidence that VM did not read the Sanskrit text: There is probably no way to account for the reading *mgon po rigs mchog* in Sanskrit. BDRC reports 34 results for rig, 56 for rigs.  
-* Tribe translates *mahāvidyottama* as 'best in [the use of] great spells', and Davidson 'highest with great *vidyā*s'. Davidson's translation is perhaps intended to have the same meaning as Tribe's, but it could mean 'highest because of his great *vidyā*s' (this does make less sense). It's difficult to see any strong support for Tribe's interpretation in Vilāśavajra's commentary, which simply tells us that these are genitive *tatpuruṣa*s. Although there is indeed something attractive about consistently understanding the names here to be in reference to a person, it also seems safe to assume that the text is not shy to identify the subject as a person with one name, and then as a particular 'spiritual phenomenon', such as a *vidyā*, in the next.  
+* Tribe translates *mahāvidyottama* as 'best in [the use of] great spells', and Davidson 'highest with great *vidyā*s'. Davidson's translation is perhaps intended to have the same meaning as Tribe's, but it could mean 'highest because of his great *vidyā*s' (this does make less sense). It's difficult to see any strong support for Tribe's interpretation in Vilāsavajra's commentary, which simply tells us that these are genitive *tatpuruṣa*s. Although there is indeed something attractive about consistently understanding the names here to be in reference to a person, it also seems safe to assume that the text is not shy to identify the subject as a person with one name, and then as a particular 'spiritual phenomenon', such as a *vidyā*, in the next.  
 
 
 ## 6. The wisdom of the immaculate *dharmadhātu*  
@@ -1032,8 +1038,8 @@ Residing steadily on all ten grounds,
 Made pure in nature by the tenfold knowledge,[^44-2]  
 Maintaining purity through tenfold knowledge, (44)  
 
-[^44-1]: The ten grounds (*bhūmi*s) refer to stages of the path to awakening that a bodhisattva traverses after having a perceptual realisation of highest reality.  
-[^44-2]: The ten knowledges (Skt. *daśa jñānāni*; Tib. *shes pa bcu*) are mentioned, for example, in Vasubandhu's *Abidharmakośa* ch. 7. They are as follows: knowledge of 1. dharma; 2. concordance; 3. conventions; 4. other minds; 5. suffering; 6. origin; 7. cessation; 8. the path; 9. exhaustion; 10. non-arising.  
+[^44-1]: The ten grounds (*bhūmi*; Tib. *sa*) refer to stages of the path to awakening that a bodhisattva traverses after having directly perceived reality.  
+[^44-2]: The ten knowledges (Skt. *daśa jñānāni*; Tib. *shes pa bcu*) are mentioned, for example, in Vasubandhu's *Abidharmakośa* ch. 7. They are knowledge of 1. dharma; 2. concordance; 3. conventions; 4. other minds; 5. suffering; 6. origin; 7. cessation; 8. the path; 9. exhaustion; 10. non-arising.  
 
 * For *daśajñānaviśuddhadhṛk*, VV takes *viśuddha* in the sense of *viśuddhi* and as referring to *prakṛtiprabhāsvaraṃ jñānam*. Davidson's 'the pure bearer' is probably not possible; *viśuddha* must refer to the object of √*dhṛ*.  
 
@@ -1057,7 +1063,7 @@ Achieving every aim for every being,
 Endowed with tenfold mastery,[^45-3] supreme, (45)  
 
 [^45-1]: Commentators interpret these enumerations variously: Vilāsavajra understands the "ten forms" to be the ten ways of grasping to the self, which are taught in the third chapter of the *Madhyāntavibhāga*, and he understands the "tenfold content" to comprise their remedies—i.e., the ten topics of mastery (which are mentioned in the same work, and which also serve as the main topics of Mipham Rinpoche's *Gateway to Knowledge*). Vilāsavajra further explains that Mañjuśrī receives such names because he can appear both as phenomena that are in discord with awakening and as the remedies to such phenomena. Vimalamitra, by contrast, takes the "ten forms" to be the five aggregates and the five mental afflictions, and the "tenfold content" to be the five wisdoms and five bodies.  
-[^45-2]: The `ten strength' refer ten types of knowledge called the powers (or strengths) of a *tathāgata* (Skt. *tathāgatabala*; Tib. *de bzhin gshegs pa'i stobs*)—namely, knowledge of 1. what is correct and incorrect; 2. the results of actions; 3. the diverse aspirations of beings; 4. the diverse dispositions of beings; 5. the quality of beings' acumens; 6. the paths that lead in all directions; 7. all forms of meditative concentration and the like; 8. past lives; 9. death and rebirth; and 10. the destruction of defilements.    
+[^45-2]: The `ten strength' refer ten types of knowledge called the powers (or strengths) of a *tathāgata* (*tathāgatabala*; Tib. *de bzhin gshegs pa'i stobs*)—namely, knowledge of 1. what is correct and incorrect; 2. the results of actions; 3. the diverse aspirations of beings; 4. the diverse dispositions of beings; 5. the quality of beings' acumens; 6. the paths that lead in all directions; 7. all forms of meditative concentration and the like; 8. past lives; 9. death and rebirth; and 10. the destruction of defilements.    
 [^45-3]: Vilāsavajra and Vimalamitra both understand this to refer to the ten masteries (*vaśitā*; Tib. *dbang*)—namely the power over 1. life; 2. mind; 3. material provisions; 4. action; 5. birth; 6. aspirations; 7. resolve; 8. supernatural powers; 9. Dharma; and 10. knowledge.  
 
 * For *aśeṣaviśvārthakara*, VV connects *aśeṣa* with *viśva*. The Tibetan translations probably intend to express that *aśeṣa* is to be connected with *viśvārtha*, which is what our English translations reflects. It is also possible to understand *ma lus* adverbially, but this is not viable for the Sanskrit compound.  
@@ -1082,7 +1088,7 @@ By nature pure, reality in essence,
 Unwavering, a speaker of the truth,   
 With speech and actions perfectly aligned, (46)  
 
-* We follow the Tibetan translations in rendering ananyavādin in the third quarter.  
+* We follow the Tibetan translations in rendering *ananyavādin* in the third quarter.  
 
 > advayo 'dvayavādī ca bhūtakoṭivyavasthitaḥ |  
 > nairātmyasiṃhanirnādaḥ kutīrthyamṛgabhīkaraḥ || 47 ||  
@@ -1097,12 +1103,12 @@ With speech and actions perfectly aligned, (46)
 > bdag med seng ge'i sgra dang ldan/ /  
 > mu stegs ri dags ngan 'jigs byed/ /  
 
-A teacher of the non-dual truth, non-dual, 
-Atop reality's most lofty peak, 
+A teacher of the non-dual truth, non-dual,  
+Atop reality's most lofty peak,  
 With selflessness his wild lion's roar,  
 Instilling fear in deer-like misled seekers,[^47-1] (47)  
 
-[^47-1]: 'Seekers' (Skt. *tīrthya*; Tib. *mu stegs*) refer to those who seek liberation from suffering. They are described as 'misled' or 'bad' insofar as they do not follow the Buddhist path, and they are 'deer-like' because they are terrified by the roar of the lion-like 'no self' doctrine.  
+[^47-1]: 'Seekers' (*tīrthya*; Tib. *mu stegs*) refer to those who seek liberation from suffering. They are described as 'misled' or 'bad' insofar as they do not follow the Buddhist path, and they are 'deer-like' because they are terrified by the roar of the lion-like 'no self' doctrine.  
 
 * nirnāda = nināda, given the non-standard form for metricial reasons. See Edgerton on nirnāda.  
 * VV takes *tīthya* in the sense of any practitioner. 
@@ -1147,7 +1153,7 @@ A universal king, with forces great,[^48-2] (48)
 > tshul chen gzhan gyis 'dring mi 'jog/ /  
 
 Assembly head, instructor for assemblies,  
-Assembly lord, assembly chief, great ruler,  
+Assembly lord, assembly chief, the ruler,  
 Most influential, bearing precious burdens,  
 Not other-bound, his way the greatest way, (49)  
 
@@ -1198,7 +1204,7 @@ The leader of the *pratyekabuddha*s,[^51-1]
 Gone forth by going forth in different ways,  
 The single cause of all great elements, (51)  
 
-[^51-1]: Vilāsavajra explains that "rhino" refers to the *pratyekabuddha*s who lead solitary lives, whereas the following refers to *pratyekabuddha*s who congregate in groups.  
+[^51-1]: Vilāsavajra explains that 'rhino' refers to a *pratyekabuddha*s who leads a solitary life, whereas the name '*pratyekabuddha*' refers to one who congregates in groups.  
 
 * It's possible that the ancient translation reflects '*khaḍgapratyekanāyakaḥ*'. '*bse ru so sor 'dren pa ste*' is not exactly transparent.    
 
@@ -1236,12 +1242,12 @@ For he, having cooled down, is free from stains; (52)
 > bdag gir mi 'dzin ngar mi 'dzin/ /  
 > bden pa gnyis kyi tshul la gnas/ /  
 
-Equipped in full with knowledge and its feet,[^53-1]  
+Equipped in full with knowledge and its base,[^53-1]  
 A *sugata*, best knower of the world,  
 Not thinking 'me', not clinging onto 'mine',  
 Established in the system of two truths, (53)  
 
-[^53-1]: This term (vidyācaraṇasampanna; Tib. rig pa dang zhabs su/rkang par ldan pa) is a stock epithet for the Buddha and refers to knowledge and good conduct, or, more technically, the Eightfold Path of the Nobles (namely, knowledge refers to right view, and its "feet" or supporting factors are the remaining seven branches.  
+[^53-1]: 'Equipped in full with knowledge and its base' (*vidyācaraṇasampanna*; Tib. *rig pa dang zhabs su/rkang par ldan pa*) is a stock epithet for the Buddha and refers to knowledge and good conduct, or, more technically, the Eightfold Path of the Nobles (namely, knowledge refers to right view, and its "base", or supporting factors, consists in the remaining seven branches).  
 
 * VM and the ancient translation appear to read 'jig rten rig pa'i mchog (i.e. 1 word), and this is reflected in our translation. In any case, VV also views these names as closely connected.  
 * 53c: Is the English an allusion to the George Harrison song? Let the reader decide. Alternative translation: Without ego, free from possessiveness.  
@@ -1287,7 +1293,7 @@ With sword-like insight ever penetrating; (54)
 > chos kyi dbang phyug chos kyi rgyal/ /  
 > legs pa'i lam ni ston pa po/ /  
 
-The sun, the Dharma king, sublime Dharma, 
+The sun, the Dharma king, the noble Dharma,  
 Supreme illuminator of the world,  
 The Dharma lord, the sovereign of the Dharma,  
 The teacher of the path to excellence, (55)  
@@ -1311,11 +1317,11 @@ The teacher of the path to excellence, (55)
 
 Accomplishing all goals,[^56-1] fulfilling aims,  
 Completely free from wants of any kind,  
-Bereft of thought, an non-depleting source,  
+Bereft of thought, a non-depleting source,  
 The Dharma source,[^56-2] supreme, beyond decay, (56)  
 
-[^56-1]: "Accomplishing all goals" translates the Sanskrit *siddhārtha*, also a well-known name of Buddha Śākyamuni.  
-[^56-2]: "The Dharma source" translates the Sanskrit *dharmadhātu*. An alternative translation could, for instance, the Dharma sphere.  
+[^56-1]: 'Accomplishing all goals' translates the Sanskrit *siddhārtha*, also a well-known name of Buddha Śākyamuni.  
+[^56-2]: 'The Dharma source' translates the Sanskrit *dharmadhātu*. An alternative translation could, for instance, the Dharma sphere.  
 
 * VV interprets the first three names as *karmadhāraya*s, and he relates them to the *trisvabhāva*: 'The achieved aim, the wish that is fulfilled," etc. The first '*dhātu*' he takes in the sense of cause (hence our translation 'source'), the second as the support for the qualities of noble beings. VM also glosses *dbying* as *'byung khungs* ('source').  
 
@@ -1385,10 +1391,10 @@ The holder of the three enlightened bodies, (58)
 
 The Buddha, formed of five embodiments,[^59-1]  
 The omnipresent, made of five wisdoms,  
-His diadem comprised of five buddhas,  
+His diadem with five awakened ones,  
 With all five eyes,[^59-2] maintaining non-attachment, (59)  
 
-[^59-1]: Four of these five bodies are the *dharmakāya*, *svabhāvakāya*, *sambhogakāya*, and *nirmāṇakāya*. The fifth is given variously as 'the body of ripening' (*vipākakāya*), 'the body of wisdom-dharma' (**jñānadharmakāya*), or the vajra body (*vajrakāya*). Vilāśavajra refers to the first of these, whereas Vimalamitra refers to the fourth.  
+[^59-1]: Four of these five bodies are the *dharmakāya*, *svabhāvakāya*, *sambhogakāya*, and *nirmāṇakāya*. The fifth is given variously as 'the body of ripening' (*vipākakāya*), 'the body of wisdom-dharma' (**jñānadharmakāya*), or the vajra body (*vajrakāya*). Vilāsavajra refers to the first of these, whereas Vimalamitra refers to the third.  
 [^59-2]: The five eyes, which are five organs of superior vision, are the bodily eye, divine eye, insight eye, dharma eye, and buddha's eye.  
 
 * VV reads *asaṅgadṛk*, which seems much better, but Tibetan witnesses all seem to support *chags pa med pa 'chang* (*asaṅgadhṛk*) (0 of 91 hits on BDRC).  
@@ -1435,10 +1441,10 @@ The sourceless, Dharma source, existence ending, (60)
 > shes rab ye shes me bo che/ /  
 > 	61d me bo che] monlam; me 'o che VM  
 
-Comprised of vajras, wholly firm and dense,  
+Comprised of vajras, wholly dense and firm,  
 The newborn sovereign ruler of the world,  
 Emerging from the sky, the self-arisen,  
-A massive blaze of knowledge and insight, (61)  
+A massive blaze of knowledge and of insight, (61)  
 
 * The elements of the compound 'whole firm and dense' are reversed in the Tibetan translations and also reflected in the translation here.  
 * *sāra* as adjective = *atidṛḍha* (Śabdāratnāvalī via Kalpadruma)  
@@ -1462,7 +1468,7 @@ A lamp of wisdom, shining brilliantly,
 A light for beings, a lantern unto wisdom,  
 With energy supreme, most radiant, (62)  
 
-[^62-1]: Vairocana. The name Mahāvairocana occurs in verse 42.  
+[^62-1]: This translates the name Vairocana. The name Mahāvairocana occurs in verse 42.  
 
 * cf NaSaṃ 42 for vairocana. VV on 42: vairocana = virocana = dīpyate. Here on virocana: virocyate dīpyata iti virocanaḥ |  
 
@@ -1531,7 +1537,7 @@ Great sage, deserving praise, deserving worship, (64)
 A *mantrin*, born unto the triple family,[^65-1]  
 Upholding mantras of the foremost pledge,[^65-2]  
 The greatest bearer of the triple gem,  
-Who teaches all three peerless vehicles; (65)  
+Who teaches all three peerless vehicles, (65)  
 
 [^65-1]: The three families are those of Body, Speech, and Mind.  
 [^65-2]: The foremost pledge (or great *samaya*) may, as Vilāsavajra suggests, refer to a deity, or it may refer more generally to the pledges of the Vajrayāna.  
@@ -1589,10 +1595,10 @@ Called Vajrabhairava, he is terrific, (66)
 Six-faced, the king of anger,[^67-1] hideous,  
 Six-eyed, six-armed, the ever powerful,  
 Baring his terrible fangs, a skeleton,  
-Halāhala,[^67-2] a hundred faces proud, (67)  
+*Halāhala*,[^67-2] a hundred faces proud, (67)  
 
-[^67-1]: Alternatively, 'King of wrathful deities'.  
-[^67-2]: Halāhala is the poison that, according to Hindu mythology, was produced during the churning of the ocean.  
+[^67-1]: Alternatively, 'the king of wrathful deities'.  
+[^67-2]: *Halāhala* is the poison that, according to Indic mythology, was produced during the churning of the ocean.  
 
 * VV: *halāhalaśatānanaḥ* is *dvandva*; presumably he takes *daṃṣṭrākarālakaṅkāla* in the same way, since he glosses two names based on it. Otherwise *karāla* is without a case ending.  
 
@@ -1636,7 +1642,7 @@ With belly large, with vajras of illusion, (68)
 > glang chen ko rlon gos su gyon/ /  
 
 The vajra-born; the sovereign of the vajra;  
-Akin to space; his core comprised of vajras; 
+Akin to space; his core comprised of vajras;  
 Unmoving;[^69-1] haughty with his single dreadlock;  
 His clothes an elephant's raw hide, still moist; (69)  
 
@@ -1734,7 +1740,7 @@ With hair that's like a vajra set ablaze;
 Immersion of the vajra;[^73-1] great immersion;  
 With eyes like vajras; eyes a hundredfold; (73)  
 
-[^73-1]: Here 'immersion' (Skt. *āveśa*, Tib. *'bebs pa*) can be understood in the sense of 'empowerment', 'blessing', 'possession', or simply 'entry'.  
+[^73-1]: Here 'immersion' (*āveśa*, Tib. *'bebs pa*) can be understood in the sense of 'empowerment', 'blessing', 'possession', or simply 'entry'.  
 
 * VV: vajralocana = he who has two vajra-like eyes.  
 
@@ -1778,7 +1784,7 @@ With skin that's solid like a vajra’s core; (74)
 
 The splendid master, donning vajra garlands,  
 Adorned with vajra-fashioned ornaments,  
-With booming voice, his laugh crying '*ha ha*',  
+With booming voice, his laughter crying '*ha ha*',  
 Six-syllabled, producing vajra rumbles, (75)  
 
 * 75c: Unlike both Tib translations, VV takes *nirghoṣa* to mean 'without sound'.  
@@ -1830,10 +1836,10 @@ This concludes ten verses and one quarter showing the mirror-like wisdom.
 He is a being who's fully realised truth,  
 Reality, its peak, and selflessness;[^77-1]  
 Supreme in propagating emptiness;  
-Intoning both the deep and vast; unspoken;[^77-2] (77)  
+Unspoken; teaching both the deep and vast; (77)  
 
-[^77-1]: According to Vilāśavajra, the meaning of this epithet is that Mañjuśrī has knowledge of these four: truth, reality, reality's peak, and selflessness (the commentator glosses these four as slightly different aspects of the ultimate reality).  
-[^77-2]: Literally 'without letters'; the Sanskrit name can also mean 'imperishable'.  
+[^77-1]: According to Vilāsavajra, the meaning of this epithet is that Mañjuśrī has knowledge of these four: truth, reality, reality's peak, and selflessness (the commentator glosses these four as slightly different aspects of ultimate reality).  
+
 
 * Davidson's edition prints *tathātābhūtanairātmyaṃ*, and he treats *tathatā* as a separate word in his translation, as well as *bhūta* as an adjective. For our reading and interpretation of the text, we follow VV. The Tibetan translations do not obviously show that this name is a *bahuvrīhi*.  
 * VV says bhūta = satya; Amṛtakanikā takes bhūta as mahābūtānām nairātmyam.  
@@ -2015,7 +2021,7 @@ Arriving at the threefold liberation,
 Completely free of every obscuration,  
 Having achieved equality sky-like, (85)  
 
-[^85-1]: For Vimalamitra, 'the trio' here refers to the three poisons. Vilāśavajra interprets this name as meaning 'the end of the three', and the three refer to the Truth of Suffering, the Truth of Origin, and the Truth of Cessation; thus, Mañjuśrī is identified as the end of these three, the Truth of the Path.   
+[^85-1]: For Vimalamitra, 'the trio' here refers to the three poisons. Vilāsavajra interprets this name as meaning 'the end of the three', and the three refer to the Truth of Suffering, the Truth of Origin, and the Truth of Cessation; thus, Mañjuśrī is identified as the end of these three, the Truth of the Path.   
 
 * 85a VV: 'he is the quelling of the three sufferings (truth of suffering) and suffering (truth of origin)'. This is perhaps a somewhat artificial interpretation.  
 * The ancient translation has evidently understood tryanta as a ablative *tatpuruṣa*, whereas the Kangyur translation and Vilāsavajra take it as a *tatpuruṣa*.  
@@ -2038,10 +2044,8 @@ Having achieved equality sky-like, (85)
 
 Beyond the stains every last affliction,  
 Aware of timelessness in all three times,  
-Most eminent[^86-1] amongst all sentient beings,  
+Most eminent amongst all sentient beings,  
 The crown amongst those crowned with noble virtues, (86)  
-
-[^86-1]: Literally 'great elephant', or 'great *nāga*', 'amongst sentient beings'. The word *nāga* at the end of the compound frequently denotes pre-eminence in general.  
 
 * 86a: VM connects *sarva* with *kleśa* rather than, like Tib., with *kleśamala*.  
 * 86b: Tib. appears to take gati in the sense of knowing. For the ancient translation, gatiṃgata - 'readched knowledge' - is rendered as rtogs pa po, whereas the Kangyur translation add the word *gnas*. It's unclear to me if VV understood gatiṃgata in this sense.  
@@ -2069,7 +2073,7 @@ Established firmly on the path of space,
 A splendid wish-fulfilling jewel in hand,  
 The best of all that's precious, omnipresent, (87)  
 
-[^87-1]: For the Nāmasaṅgīti, we translate *upadhi* as 'substrate', but the word as a technical Buddhist term has a number of possible meanings, depending on context. For example, it can also mean 'remainder', 'body', or 'afflictions'. Tibetan translations of the Nāmasaṅgīti and other texts render this term in various ways.  
+[^87-1]: For throughout *Nāmasaṅgīti* we translate *upadhi* as 'substrate', but the word as a technical Buddhist term has a number of possible meanings, depending on context. For example, it can also mean 'remainder', 'body', or 'afflictions'. Tibetan translations of the Nāmasaṅgīti and other texts render this term in various ways.  
 
 * 87a: BDRC etext hits—lus kun, 10; nyon mongs, 57; lhag ma, 18. All are common ways of translating upadhi.  
 
@@ -2090,7 +2094,7 @@ The best of all that's precious, omnipresent, (87)
 
 Great wish-fulfilling tree, most plentiful,  
 The greatest of all great auspicious vases,  
-Fulfilling the aims of sentient beings, a doer,   
+Fulfilling the aims of living beings, a doer,   
 An ally, most beloved to all creatures, (88)  
 
 
@@ -2185,7 +2189,7 @@ Great happiness, the noble lord of splendour, (91)
 The greatest granter of all wishes, wished for,  
 The highest source of refuge, refuge granting,  
 The fearsome enemy of potent danger,  
-Alleviating danger of all kinds, (92)  
+Alleviating danger in all forms, (92)  
 
 * 92c: BDRC etext hits: 'jigs chen dgra, 34; 'jig rten dgra 24; rab mchog 'jigs 4. Correct reading is almost certainly 'jigs chen dgra, but VM comments on 'jig rten dgra. Further evidence that the author did not refer to a Sanskrit text.  
 
@@ -2205,10 +2209,10 @@ Alleviating danger of all kinds, (92)
 
 With tufts of hair, with plumes of luscious hair,  
 With matted hair, with matted locks, chord-tied,[^93-1]  
-With head well crowned, five faced, with five hair tufts,  
-With head adorned by garlands of five strands, (93)  
+Five faced, with five hair tufts, his head well-crowned,  
+His head adorned with garlands of five strands, (93)  
 
-[^93-1]: 'Chord-wearing' (Skt. *mauñjin*) indicates that Mañjuśrī wears the sacred chord of a brahmin. In some witnesses of the text, this name is exchanged with the name *mauṇḍin* from the following verse, and this can be interpreted to mean that Mañjuśrī has a shaved head (as a renunciate) or that he carries a skull cup (as a practitioner of extreme asceticism). The Kangyur translation of the Nāmasaṅgīti indicates that *mauṇḍin* was read both in this verse and in the following. Regardless, commentators tend to agree that this portion of the text shows how Mañjuśrī can appear with the garb and appearance of various Buddhist and non-Buddhist religious practitioners.  
+[^93-1]: 'Chord-tied' (*mauñjin*) indicates that Mañjuśrī wears the sacred chord of a brahmin. In some witnesses of the text, this name is exchanged with the name *mauṇḍin* from the following verse, and this can be interpreted to mean that Mañjuśrī has a shaved head (as a renunciate) or that he carries a skull cup (as a practitioner of extreme asceticism). The Kangyur translation of the *Nāmasaṅgīti* indicates that *mauṇḍin* was read both in this verse and in the following. Regardless, commentators tend to agree that this portion of the text shows how Mañjuśrī can appear with the garb and appearance of various Buddhist and non-Buddhist religious practitioners.  
 
 * 93b: The Kangyur translation suggests reading *mauṇḍī*, which the translator interprets as meaning 'bald'. VV, by contrast, interprets *mauṇḍī* as 'bearing a skull [cup]'. The ancient translation suggests reading *mauñjin*, which would be refer to one who wears the sacred chord or girdle of a brahmin. VM takes *ral pa* as a chord and *muñja* as the belt.   
 * 93d: The ancient translation has rendered *pañcacīrakaśekharaḥ* as *zur phud lnga pa me tog thod*, indicating that *śekhara* is understood as a flower garland. This is possible, and we reflect it in our translation, but it is not necessary. In his introduction to ch. 4, VV (Tribe 2016: 255) makes it fairly clear that he understands the *śekhara* in question to be formed of five hair braids: *ādibuddhaṃ bhagavantaṃ pañcānanam iti pañcamukham, pañcaśikham iti pañcacīrakam, tasyaiva bandhanāt pañcacīrakaśekharaṃ*. VM, for his part, treats *pañcacīraka* as a separate name, again evidence that the author probably did not have access to a Sanskrit text.  
@@ -2260,8 +2264,8 @@ Awakening, its branches,[^95-2] liberation,
 Release, complete tranquillity, quiescence,[^95-3] (95)  
 
 [^95-1]: A 'brahmin' is a member of the bhramin caste, 'Brahmā' refers to the deity known by that name, and '*brahman*' can be understood as ultimate reality. Commentators vary in their accounts of how these conventionally 'Hindu' terms relate to Mañjuśrī.  
-[^95-2]: Vilāsavajra comments that 'the branches of awakening' (Skt. *vimokṣaṅga*) are the seven branches of awakening and the eight-branched path of noble beings. Vimalamitra, perhaps led by the Tibetan rendering the term 'branch' as *lus* ('body'), interprets as meaning 'the body of awakening'—i.e., the body that is achieved on achieving full liberation.  
-[^95-3]: The word *śiva* (translated here as 'quiescence') may also be understood with the meaning 'good' or 'beneficial'; or, although it is not mentioned by commentators, the god who bears the name Śiva.  
+[^95-2]: Vilāsavajra comments that 'the branches of awakening' (*vimokṣāṅga*; Tib. *rnam grol lus*) are the seven branches of awakening and the eight-branched path of noble beings. Vimalamitra, perhaps led by the Tibetan rendering the term 'branch' as *lus* ('body'), interprets as meaning 'the body of awakening'—i.e., the body that is achieved on achieving full liberation.  
+[^95-3]: The word *śiva* (translated here as 'quiescence') may also be understood with the meaning 'good' or 'beneficial'; or, although not mentioned by commentators, it may refer to the god who bears the name Śiva.  
 
 * 95a: For VV, brahman etc. all have their basic Hindu associations here.  
 * 95b: VV interprets *brahmanirvāṇam* as one word and *āptavān* as a second word. The two Tibetan translations have understood these words are syntactically connected. Although we follow the latter for our translation, VV's interpretation is perhaps more consistent with the general pattern of names in the *Nāmasaṅgīti*.  
@@ -2306,7 +2310,7 @@ The state devoid of passion, free from substrates, (96)
 > phra zhing [f. 55r] zag med sa bon bral/ /  
 
 Beyond defeat, unmanifest, unmatched,  
-Not making manifest, without appearance,  
+Not making manifest, appearance-free,  
 Pervasive, timeless, fully omnipresent,  
 Minute, beyond defilements, seed-free, (97)  
 
@@ -2448,7 +2452,7 @@ With shining rays in hand providing light, (102)
 
 The best and foremost of all great physician,  
 Unequalled in removing thorns of pain,  
-A tree providing every medicine,  
+A tree providing medicine for all,  
 A foe opposing every malady, (103)  
 
 * 103d, kleśavyādhimahāripuḥ: Unlike VV and the Kangyur translation, the ancient translation, which we follow, does not have a reflex for *kleśa*.    
@@ -2492,7 +2496,7 @@ The hoisting high of Dharma's victory flag, (104)
 >> 	gdugs] em.; dugs NyiGyu  
 
 Sharing one large umbrella with the world,  
-With love and empathy his *maṇḍala*,  
+With love and kindness as his *maṇḍala*,  
 The celebrated lotus lord of dance,[^105-1]  
 Pervasive with his precious parasol, (105)  
 
@@ -2585,7 +2589,7 @@ The lovely speech enriching every buddha, (108)
 
 The scorching brightness from the vajra sun,  
 With stainless lustre from the vajra moon,  
-Great passion of the passion-free and others,  
+Great passion of the passionless and others,  
 With multi-coloured rays that brightly blaze, (109)  
 
 * 109a: Following Vilāsavajra, we read *vajrasūryamahālokaḥ* instead of *vajrasūryo mahālokaḥ* as printed in Davidson's edition. Tib. is ambiguous. 
@@ -2610,7 +2614,7 @@ Retaining for all beings the buddhas' Dharma,
 The lotus buddhas'[^110-1] celebrated son,  
 The knowledge treasurer for the omniscient, (110)  
 
-[^110-1]: Vilāsavajra explains that the word 'lotus buddhas' (or 'buddha lotuses') is to be understood as a metaphorical comparison: the buddhas are like lotus because they are free from stains. 
+[^110-1]: Vilāsavajra explains that the name 'lotus buddhas' is to be understood as a metaphorical comparison: the buddhas are like lotus because they are free from stains. 
 
 * 110a, *buddhasaṃgītidharmadhṛk*: VV and the Kangyur translation interpret this along the lines of `bearing the Dharma of the buddhas'/the Buddha's recitation'. VM takes *'gro ba' in the sense of sentient being. This seems like a natural reading of the ancient translation; it's unknown if it reflects an alternative Sanskrit text, or some other form of transmission error. 
 
@@ -2653,7 +2657,7 @@ Completely pure, the highest syllable, (111)
 
 Atop pain's remedy—the Mahāyāna—  
 With vajra-Dharma as his mighty weapon,  
-With vajra depth, well known as Jinajik,  
+With vajra depth, renowned as Jinajik,  
 With vajra thought, aware of how things are, (112)  
 
 * 112ab, duḥkhaccheda*: We follow VV's lead for this, but a more literal translation that takes into account his analysis would be: 'one whose great weapon is the vajra dharma of the pain-cutting great vehicle.' Tib. translates all of the Sanskrit words, but doesn't strongly suggests one or another interpretation. Against ed-d, the compounded reading is easier to deal with.   
@@ -2770,7 +2774,7 @@ With full awareness of phenomena
 In but an instant as the wisest sage,  
 With vivid realisation of all *dharma*s,  
 He is a sage, the greatest intellect,  
-Who vanquishing the hosts of evil spirits; (117)  
+The vanquisher of hosts of evil spirits; (117)  
 
 * 116a, *ekakṣaṇam*°] This is our attempt at following Vilāsavajra's analysis.  
 * 116d, *bhūtāntamunir*] We follow the ancient translation, which may have read something other than *bhūtāntamuni*, or given it a strained interpretation. VV, along with the Dege translation, suggest a translations such as, 'The sage who is reality's end point'.   
@@ -2818,7 +2822,7 @@ This concludes forty two verses showing the wisdom of discernment.
 The great fulfiller of desired aims,  
 The purifier of all evil states,  
 The greatest of all living beings, protector,   
-Who liberates all living beings with vigour, (119)  
+The earnest liberator of all creatures, (119)  
 
 
 > kleśasaṃgrāmaśūraikaḥ ajñānaripudarpahā |  
@@ -2871,7 +2875,7 @@ Of lengthy arms while setting down his stride,
 The dancer spreading through the whole of space  
 And filling it with Śrīmat’s hundred arms,[^121-1] (121)  
 
-[^121-1]: According to Vilāśavajra, Śrīmat refers to Padmanarteśvara, who is mentioned in verse 105.  
+[^121-1]: According to Vilāsavajra, Śrīmat refers to Padmanarteśvara, who is mentioned in verse 105.  
 
 * 121a, bāhudaṇḍa: Lit. 'arm-stick', a commonly used idiom to indicate arms that are [long] like sticks. Most witnesses of the ancient Tibetan translation do not reflect the word 'stick' (daṇḍa / dbyug pa), which may reflect an understanding that bāhudaṇḍa is not significantly different from simply bāhu. The Kangyur translation gives the misleading impression that the figure has sticks in hand. Davidson and others have mistakenly arrived at this interpretation.   
 * 121cd, ābhoga: VV glosses this as *sauṣṭhava* and *parivartana* for its first and second use respectively, while Tib. renders them as 'filling' and 'pervading'. It's difficult to say what is most natural, since the usage of ābhoga is not transparent here. We follow Tib. in the translation.  
@@ -2896,12 +2900,12 @@ And filling it with Śrīmat’s hundred arms,[^121-1] (121)
 > 	mthil gyis] em.; mthil gyi NyiGyu  
 > 	sen mo'i] em.; sen mo NyiGyu  
 
-Erect atop the surface of the earth,  
-Pervading it with one of his foot soles;  
-Erect atop the summit of the world,[^122-1]  
-Suppressing it with but his big toenail, (122)  
+Stood tall atop the surface of the earth,  
+The sole of just one foot pervading all;  
+Stood tall atop the summit of the world,[^122-1]  
+The nail of his big toe suppressing all; (122)  
 
-[^122-1]: The Sanskrit word translated here as 'the world' is *brahmāṇḍa*, lit. 'Brahmā egg', a term more commonly in non-Buddhist texts in reference to the universe.  
+[^122-1]: The Sanskrit word translated here as 'the world' is *brahmāṇḍa*, 'Brahmā egg', a term more commonly in non-Buddhist texts in reference to the universe.  
 
 * VV reads both *talesthitaḥ* and *nakhesthitaḥ* in compound as *bahuvrīhis*. He is slightly difficult to understand here, but his analysis doesn't seem far off from the ancient translation and what we have translated (somewhat freely). The Kangyur translation is almost incomprehensible.   
 
@@ -2947,7 +2951,7 @@ With varied objects, forms, and cognisance; (123)
 Amused with every object of existence,  
 A mind of passion, loving emptiness,  
 Transcending worldly passion and the like,  
-Enjoying pleasures of the threefold world, (124)  
+With great enjoyment for the threefold world, (124)  
 
 * 124b, agradhīḥ: The ancient and Dege Tibetan translations do not reflect reading *agradhī* but rather something like rāgadhīḥ. Vilāsavajra's Sanskrit text does indeed read agradhīḥ.   
 
@@ -2969,9 +2973,9 @@ Enjoying pleasures of the threefold world, (124)
 With fair complexion white like pristine clouds,  
 With radiance like beams from autumn moons,  
 With lustre rivalling the morning sun's,  
-With nails emitting light with deep redness,[^125-1] (125)  
+With nails emitting light of crimson redness,[^125-1] (125)  
 
-[^125-1]: Or 'of great passion' (mahārāga).  
+[^125-1]: Or 'of great passion' (*mahārāga*).  
 
 
 > indranīlāgrasaccīro mahānīlakacāgradhṛk |  
@@ -3017,8 +3021,8 @@ His strength the four miraculous powers,[^127-1]
 Reality, with mindfulness supreme,  
 *Samādhi* king of fourfold mindfulness,[^127-2] (127)  
 
-[^127-1]: The four bases of miraculous powers (Skt. *catur-ṛddhipāda*, Tib. *rdzu 'phrul gyi rkang pa bzhi*) are: 1. intention (*canda*, *'dun pa*); 2. diligence (*vīrya*, *brtson 'grus*); 3. attention (*citta*, *sems pa*); and 4. discernment (*mīmāṃsā*, *dpyod pa*).  
-[^127-2]: The four applications of mindfulness (Skt. *catuḥ-smṛtyupasthāna*, *dran pa nye bar bzhag pa bzhi*) are mindfulness of 1. body (*kāya*, *lus*), 2. feelings (*vedanā*, *tshor ba*), 3. mind (*citta*, *sems*), and 4. phenomena (*dharma*, *chos*).  
+[^127-1]: The four bases of miraculous powers (*catur-ṛddhipāda*; Tib. *rdzu 'phrul gyi rkang pa bzhi*) are: 1. intention (*canda*, *'dun pa*); 2. diligence (*vīrya*, *brtson 'grus*); 3. attention (*citta*, *sems pa*); and 4. discernment (*mīmāṃsā*, *dpyod pa*).  
+[^127-2]: The four applications of mindfulness (*catuḥ-smṛtyupasthāna*; Tib. *dran pa nye bar bzhag pa bzhi*) are mindfulness of 1. body (*kāya*, *lus*), 2. feelings (*vedanā*, *tshor ba*), 3. mind (*citta*, *sems*), and 4. phenomena (*dharma*, *chos*).  
 
 
 > [ed-d 59] bodhyaṃgakusumāmodas tathāgataguṇodadhiḥ |  
@@ -3036,7 +3040,7 @@ Reality, with mindfulness supreme,
 >> 	rig pa] NyiGyu; rig mchog VM  
 
 Infused with scents from bloom on bodhi's branches,  
-An ocean of *thathāgata* virtues,  
+An ocean of *tathāgata* virtues,  
 With knowledge of the eightfold path's true way,  
 With knowledge of the path of perfect buddhas, (128)  
 
@@ -3084,7 +3088,7 @@ While captivating every creature's mind,
 With insight into aggregated natures,[^130-1]  
 Himself with fully pure five aggregates, (130)  
 
-[^130-1]: A more literal translation may be, 'he who know the reality of the objects [subsumed in] the five aggregates'.   
+[^130-1]: A more literal translation may be, 'he who knows the reality of the objects [subsumed in] the five aggregates'.   
 
 
 > sarvaniryāṇakoṭisthaḥ sarvaniryāṇakovidaḥ |  
@@ -3124,14 +3128,12 @@ The teacher of all forms of going forth, (131)
 >> 	rtogs pa 'chang] VM; rtogs par 'chang NyiGyu  
 
 Uprooting all becoming with twelve links,  
-Endowed with purity in all twelve forma,[^132-1]  
+Endowed with purity in all twelve forms,[^132-1]  
 His form the way of fourfold noble truth,  
 With realization of the eightfold knowledge,[^132-2] (132)  
 
-Possessing as his form the fourfold truth,
-
-[^132-1]: According to the commentators, this refers to the twelve sense sources (āyatana, skye mched) in their pure forms.  
-[^132-2]: These eight knowledges are understood by Vilāsavajra as follows: knowledge of Dharma, knowledge of non-duality, knowledge of suffering, knowledge of the origin, knowledge of cessation, knowledge of the path, knowledge of destruction, and knowledge of non-arising. Vimalamitra, however, offers another interpretation: Mañjuśrī realises that the eight forms of consciousness (from eye consciousness through to the storehouse consciousness) are unarisen.  
+[^132-1]: According to the commentators, the 'purity in all twelve forms' refers to the twelve sense sources (*āyatana*; Tib. *skye mched*) in their pure forms.  
+[^132-2]: These eight knowledges are understood by Vilāsavajra as follows: knowledge of Dharma, knowledge of non-duality, knowledge of suffering, knowledge of the origin, knowledge of cessation, knowledge of the path, knowledge of destruction, and knowledge of non-arising. Vimalamitra offers another interpretation: Mañjuśrī realises that the eight forms of consciousness (from eye consciousness through to the storehouse consciousness) are unarisen.  
 
 * 132a, dvādaśāṅgabhavotkhāto: VV treats this as a reverse *bahuvrīhi*.  
 
@@ -3156,8 +3158,8 @@ With true awakening in twenty forms,[^133-3]
 Awakened fully, knowing all, supreme, (133)  
 
 [^133-1]: Vilāsavajra identifies these twelve forms as the forms of the Four Truths as divided across the three turnings of the wheel of Dharma. Vimalamitra, by contrast, enumerates the twelve as the five families (*rigs lnga*), the five wisdoms (*ye shes lnga*), and insight (*shes rab*) and compassion (*snying rje*).  
-[^133-2]: Vilāsavajra explains that sixteen forms referred to here are sixteen moments of realisation of the Four Truths on the Path of Seeing. Vimalamitra, by contrast, enumerates these as the sixteen varieties of emptiness.  
-[^133-3]: Vilāsavajra enumerates these twenty forms as four ways in which each of the five aggregates are not conceptualised. For example, by achieving awakening, one does not believe that (1) material form is the self, (2) the self is within material form, (3) material form is within the self, or (4) material form possesses the self. Multiple by five aggregates, these add up to twenty forms. Vimalamitra, on the other hand, understands these twenty forms as the transformation of the five elements, of the five aggregates, of the five afflictions, and of the five faculties.  
+[^133-2]: Vilāsavajra explains that sixteen forms referred to here are sixteen moments of realisation of the Four Truths on the Path of Seeing. Vimalamitra enumerates these as the sixteen varieties of emptiness.  
+[^133-3]: Vilāsavajra enumerates these twenty forms as four ways in which each of the five aggregates are not to be conceptualised. For example, by achieving awakening, one does not believe that (1) material form is the self, (2) the self is within material form, (3) material form is within the self, or (4) material form possesses the self. Multiplied by the five aggregates, these add up to twenty forms. Vimalamitra, on the other hand, understands these twenty forms to be the transformation of the five elements, the five aggregates, the five afflictions, and the five faculties.  
 
 
 > ameyabuddhanirmāṇakāyakoṭivibhāvakaḥ |  
@@ -3178,7 +3180,7 @@ Awakened fully, knowing all, supreme, (133)
 Dispatching countless sets of some ten million  
 Embodiments of emanating buddhas,  
 The final realisation of all moments,  
-Who knows for every mind each moment’s object, (134)  
+Who knows each moment’s object for all minds, (134)  
 
 * 134ab, ameya*: There is some disagreement in the ancient translation and the Kangyur translation about where to connected the word *ameya*. VV, and similarly the Kangyur translation, analyse the compound: 'Dispatching ten million bodies of emanations of countless buddhas'. The ancient translation appears to connect *ameya* with *koṭi* and hence the current English translation.    
 
@@ -3200,8 +3202,8 @@ Who knows for every mind each moment’s object, (134)
 
 And manifesting for the sake of beings   
 With means derived from varied vehicles,  
-Gone forth on each of the three vehicles,  
-Abiding in the single vehicle’s fruit, (135)  
+Gone forth by way of all three vehicles,  
+Remaining in the single vehicle’s fruit, (135)  
 
 * 135ab, *vibhāvaka*: The ancient translation renders *vibhāvaka* as *rtogs pa po*. The same usage can be found below, as well as *bye brag 'byed*. The translator has probably understood this word in a very cognitive sense, but for this verse such a meaning is striking inappropriate. We therefore go against the ancient translation and translate *vibhāvaka* as 'manifesting'. *naya* has been dropped from the English translation for smoothness.     
 
@@ -3224,9 +3226,9 @@ Annihilating every karmic spheres,
 Arrived atop dry land from flooding oceans,[^136-2]  
 Emerged from yoga's perilous dark grove,[^136-3] (136)  
 
-[^136-1]: Vilāsavajra unpacks 'afflictive spheres' as referring to the eighteen spheres (*dhātu*, *khams*) beginning the eye sphere.  
-[^136-2]: Vilāsavajra explains that 'oceanic floods' are the traditionally enumerated four floods—namely, the floods of desire, cyclic existence, views, and ignorance.   
-[^136-3]: Vilāsavajra explains that here the practice of *yoga* is compared to a dark forest, or 'grove', because it is not easily traversed; Mañjuśrī has emerged from the practice of *yoga* and has arrived the state of *nirvāṇa*.   
+[^136-1]: Vilāsavajra comments that 'afflictive spheres' refer to the eighteen spheres (*dhātu*; Tib. *khams*) beginning the eye sphere.  
+[^136-2]: Vilāsavajra explains that 'oceanic floods' are the traditionally enumerated four floods—namely, the floods of desire, cyclic existence, views, and ignorance.  
+[^136-3]: Vilāsavajra explains that here the practice of *yoga* is compared to a dark forest, or 'grove', because it is not easily traversed; Mañjuśrī has emerged from the practice of *yoga* and has arrived the state of *nirvāṇa*.  
 
 
 > kleśopakleśasaṃkleśasuprahīṇasavāsanaḥ |  
@@ -3270,7 +3272,7 @@ With consciousness as object, with cessation,
 With every being the object of his mind,   
 With knowledge that's the mind of all the buddhas, (138)  
 
-[^138-1]: According to Vilāsavajra, the words 'all perceptions' (*sarvasaṃjñā*) refer to certain forms of mundane meditative concentration. Through these meditations, Mañjuśrī enters a state of objectless awareness.   
+[^138-1]: According to Vilāsavajra, the words 'all perceptions' (*sarvasaṃjñā*) refer to certain forms of mundane meditative concentration. Through these meditations, Mañjuśrī enters a state of objectless awareness.  
 
 * 138c, sarvasattvamanoviṣayaḥ: The ancient translation does not reflect the Sanskrit artha (Tib. yul). It is unclear if this is a result of a different reading, or the translator regarding it implied by his translation of the bahuvrīhi.  
 * 138d, sarvabuddhamanogatiḥ: Here we follow Vilāsavajra reading, supported by the ancient Tibetan translation, of sarvabuddhamanogatiḥ in place of satvasattvamanogatiḥ as printed in Davidson's edition. The latter is supported by the Dege translation.  
@@ -3319,10 +3321,10 @@ Completely free from error in all its forms,
 His thinking free from doubt, his object threefold,  
 His object all, three properties by nature,[^140-2] (140)  
 
-[^140-1]: An alternate reading and interpretation of this verse may read, 'one who has reached the end of accomplishment, confusion free'.    
-[^140-2]: Vilāsavajra explains the final three cryptic names here as follows: 'three objects' are the past, present, and future; 'all objects' are all objects of the animate and inanimate world; and the 'three properties' are the three *guṇa*s extensively described in Sāṅkhya philosophy.  
+[^140-1]: An alternate reading and interpretation of this verse may be translated, 'one who has reached the end of accomplishment, confusion free'.    
+[^140-2]: Vilāsavajra explains the final three cryptic names here as follows: 'three objects' are the past, present, and future; 'all objects' are all objects of the animate and inanimate world; and the 'three properties' are the three *guṇa*s most extensively described in Sāṅkhya philosophy but well-known throughout all manner of Indic texts.  
 
-* 140a, siddhāntavibhramāpagataḥ: Vilāśavajra's reading seems more context appropriate. It's possible that ed-d's reading is what's reflected in the ancient translation, and that it is indeed how Vimalamitra interprets the translation; but this is not necessarily the case. Hence we do not believe our translation deviates too significantly from the ancient translation.  
+* 140a, siddhāntavibhramāpagataḥ: Vilāsavajra's reading seems more context appropriate. It's possible that ed-d's reading is what's reflected in the ancient translation, and that it is indeed how Vimalamitra interprets the translation; but this is not necessarily the case. Hence we do not believe our translation deviates too significantly from the ancient translation.  
 
 
 > pañcaskandhārthas triṣkālaḥ sarvakṣaṇavibhāvakaḥ |  
@@ -3416,8 +3418,8 @@ The greatest *bindu*, void of syllables,
 With five great syllables,[^144-1] great empty one,  
 A hundred syllabled,[^144-2] devoid of *bindu*, (144)  
 
-[^144-1]: Vilāsavajra and Vimalamitra both identify these syllables as the seeds of the five *tathāgata*s, but they diverge regarding precisely how these syllables are to be identified.  
-[^144-2]: Some witnesses of the text in Sanskrit and Tibetan indicate that the name is 'one with six syllables'. Vilāsavajra identifies the six syllables as 'oṁ vāgiśvara hūṁ', while Vimalamitra, reading 'one with a hundred syllables', interprets the hundred syllables as a generic large number that points to all the various mantras for which Mañjuśrī is the source.  
+[^144-1]: Vilāsavajra and Vimalamitra both state that these syllables are the seeds of the five *tathāgata*s, but they diverge regarding precisely how these syllables are to be identified.  
+[^144-2]: Some witnesses of the text in Sanskrit and Tibetan indicate that the name is 'one with six syllables'. Vilāsavajra identifies the six syllables as '*oṁ vāgiśvara hūṁ*', while Vimalamitra, reading 'one with a hundred syllables', interprets the hundred syllables as a generic large number that points to all the various mantras for which Mañjuśrī is the source.  
 
 
 > sarvākāro nirākāraḥ ṣoḍaśārdhārdhabindudhṛk |  
@@ -3442,7 +3444,7 @@ Supporting half of half of sixteen *bindu*s,[^145-1]
 Transcending every grouping, void of members,  
 Sustaining *dhyāna*'s fourth and final peak, (145)  
 
-[^145-1]: Vilāsavajra refrains from offering a commentary on this line, but Vimalamitra clarifies that the four drops/*bindu*s (i.e. 'half of half of sixteen') are the seed syllables *a ā aṃ aḥ*. This being a frequently cited verse, a variety of highly esoteric interpretations can be found.  
+[^145-1]: Vilāsavajra refrains from offering a commentary on this line, but Vimalamitra clarifies that the four drops/*bindu*s (i.e. 'half of half of sixteen') are the seed syllables *a ā aṃ aḥ*. This being a frequently cited verse, a variety of highly esoteric interpretations can be found through Indian and Tibetan tantric literature.  
 
 * 145a, *sarvākāro nirākāraḥ*: Our translation is based on the ancient translation, which appears to be reflected in Davidson's Sanskrit edition. Here VV reads a single name, which was also perhaps rendered in the Dege translation. VV's interpretation runs as follows: 'He who is has the form devoid of all forms' (*sarvākāranirākāra*; *rnam pa thams cad rnam pa med*).  
 
@@ -3514,7 +3516,7 @@ The sovereign of the gods, the god of gods,
 The king of deities, the gods' guru,  
 The highest lord of *pramatha*s,[^148-1] Pramatha, (148)  
 
-[^148-1]: *Pramatha*s are a class of beings otherwise known as *gaṇa*s. They are known as serving as attendants to Śiva.   
+[^148-1]: *Pramatha*s are a class of beings otherwise known as *gaṇa*s. They are known as serving as attendants to Śiva.  
 
 * 148a, devātideva: Tib. reads lha yi lha, our English translation abbreviated mainly for metre: 'highest god of gods.'    
 
@@ -3628,8 +3630,8 @@ His step extending past the bounds of space,
 With knowledge of the three, well-versed, and pure,[^153-1]  
 With sixfold higher knowledge and recall,[^153-2] (153)  
 
-[^153-1]: The three names in this verse quarter evoke the Vedic learning of a brahmin. Vilāsavajra understands 'Knowing the three' to refer to the three Vedas: Ṛgveda, Yajurveda, and Sāmaveda. Vimalamitra comments that the three are the scriptures of the *tripiṭaka*, or else three bodies of a buddha.  
-[^153-2]: The six forms of 'higher knowledge' (*ṣaḍabhijñā*) are as follows: (1) the divine eye (*divyacakṣu*, *lha'i mig*), (2) the divine ear (*divyasrotra*, *lha'i rna ba*), (3) knowledge of other minds (*paracittajñāna), (4) recollection of previous births (*pūrvanivāsānusmṛti*, *sngon gyi gnas rjes su dran pa*), (5) miraculous powers (*ṛddhi*, *rdzu 'phrul*), and (6) knowledge of the destruction of defilements (*āśravakṣayajñāna*, *zag pa zad pa mkhyen pa*). The six forms of recollection, or 'recall', (*ṣaḍanusmṛti*, *rjes su dran pa drug*) are listed variously in texts. According to the *Mahāvyutpatti*, they are recollection of (1) the Buddha, (2) the Dharma, (4) the Saṅgha, (5) discipline (*śīla*, *tshul khrims*), (6) giving (*tryāga*, *gtong ba*), (7) and deities (*devatā*, *lha*). In their commentaries on the *Nāmasaṅgīti*, both Vimalamitra and Vilāsavajra provide their own unique lists, which are more influenced by the doctrines of tantric Buddhism.
+[^153-1]: The three names in this verse quarter evoke the Vedic learning of a brahmin. Vilāsavajra understands 'Knowing the three' to refer to the three Vedas: *Ṛgveda*, *Yajurveda*, and *Sāmaveda*. Vimalamitra comments that the three are the scriptures of the *tripiṭaka*, or else three bodies of a buddha.  
+[^153-2]: The six forms of 'higher knowledge' (*ṣaḍ-abhijñā*; Tib. *mngon shes drug*) are as follows: (1) the divine eye (*divyacakṣu*, *lha'i mig*), (2) the divine ear (*divyasrotra*, *lha'i rna ba*), (3) knowledge of other minds (*paracittajñāna*; *gzhan sems shes pa*), (4) recollection of previous births (*pūrvanivāsānusmṛti*, *sngon gyi gnas rjes su dran pa*), (5) miraculous powers (*ṛddhi*, *rdzu 'phrul*), and (6) knowledge of the destruction of defilements (*āśravakṣayajñāna*, *zag pa zad pa mkhyen pa*). The six forms of recollection, or 'recall', (*ṣaḍanusmṛti*, *rjes su dran pa drug*) are listed variously in texts. According to the *Mahāvyutpatti*, they are recollection of (1) the Buddha, (2) the Dharma, (3) the Saṅgha, (4) discipline (*śīla*, *tshul khrims*), (5) giving (*tryāga*, *gtong ba*),  and (6) deities (*devatā*, *lha*). In their commentaries on the *Nāmasaṅgīti*, both Vimalamitra and Vilāsavajra provide their own unique lists, which are more influenced by the doctrines of tantric Buddhism.
 
 
 > [ed-d p. 61] bodhisattvo mahāsattvo lokātīto maharddhikaḥ |  
@@ -3693,10 +3695,10 @@ Supreme most lord of knowing and what's known, (155)
 
 The foremost master of imparting Dharma,  
 Who shows the meaning of the fourfold seal,[^156]  
-The most revered amongst all living beings  
+The most revered amongst all living beings,  
 Engaged in going forth on all three paths, (156)  
 
-[^156]: The four seals (*caturmudrā*, *phyag rgya bzhi*) are the action seal (*karmamudrā*, *las kyi phyag rgya*), the pledge seal (*samayamudrā*, *dam tshig gi phyag rgya*), Dharma seal (*dharmamudrā*, *chos kyi phyag rgya*), and great seal (*mahāmudrā*, *phyag rgya chen po*). 
+[^156]: The four seals (*caturmudrā*; Tib. *phyag rgya bzhi*) are the action seal (*karmamudrā*, *las kyi phyag rgya*), the pledge seal (*samayamudrā*, *dam tshig gi phyag rgya*), Dharma seal (*dharmamudrā*, *chos kyi phyag rgya*), and great seal (*mahāmudrā*, *phyag rgya chen po*). 
 
 * 156cd: More literally, 'the most venerable amongst beings who proceed along the three ways of going forth'.    
 
@@ -3747,7 +3749,7 @@ This concludes fifteen verses on the wisdom of performing actions.
 Homage to you, boon granter, best of vajras;  
 O summit of existence, homage to you;  
 Homage to you, whose source is emptiness;  
-O Buddha's awakening, homage to you; (158)
+O Buddha's awakening, homage to you; (158)  
 
 
 > buddharāga namas te 'stu buddhakāma namo namaḥ |  
@@ -3766,7 +3768,7 @@ O Buddha's awakening, homage to you; (158)
 O passion of the buddhas, homage to you;  
 Desire of the buddhas, I pay you homage;  
 O love of every buddha, homage to you;  
-The joy of all the buddhas, I pay you homage; (159)
+The joy of all the buddhas, I pay you homage; (159)  
 
 * 'every' and 'all' added for metrical reasons  
 
@@ -3808,7 +3810,7 @@ The heart of all the buddhas, I pay you homage; (160)
 Arisen from non-being, homage to you;  
 Homage to you, arisen from the buddhas;  
 Arisen from the sky, homage to you;  
-Homage to you, born of pristine wisdom; (161)
+Homage to you, born of pristine wisdom; (161)  
 
 
 > māyājāla namas tubhyaṃ namas te buddhanāṭaka |  
@@ -3830,7 +3832,7 @@ Homage to you, born of pristine wisdom; (161)
 O net of illusion, homage to you;  
 Homage to you, the buddhas' spectacle;  
 Homage to you, the everything of all;  
-O body of wisdom, homage to you! (162)
+O body of wisdom, homage to you! (162)  
 
 This concludes five verses of praise for the wisdom of the five *tathāgata*s.  
 
@@ -3883,7 +3885,7 @@ This concludes five verses of praise for the wisdom of the five *tathāgata*s.
 
 *oṁ sarva-dharmābhāva-svabhāva viśuddha-vajra a ā aṃ aḥ | prakṛti-pariśuddhāḥ sarva-dharmā yad uta sarva-tathāgata-jñāna-kāya-mañjuśrī-pariśuddhitām upādāyeti a āḥ | sarva-tathāgata-hṛdayaṃ hara hara | oṁ hūṁ hrīḥ bhagavan jñāna-mūrti vāg-īśvara mahā-vāca sarva-dharma gaganāmala-supariśuddha-dharma-dhātu-jñāna-garbha āḥ |*[^162-m]  
 
-[^162-m]: *Oṁ*—O you whose nature is the non-existence of all phenomena, whose vajra[-essence] is fully pure—*a ā aṃ aḥ*! All phenomena are by nature completely pure—to explain, [they are completely pure] based on the state of/on their being the complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*! Seize, seize the heart of all *tathāgata*s! *Oṁ hūṃ hrīḥ*—O Blessed One, wisdom body, lord of speech, whose speech is great, who is all Dharma, whose essence is the wisdom of the Dharma realm that is completely pure like stainless space—*āḥ*!
+[^162-m]: *Oṁ*—O you whose nature is the non-existence of all phenomena, whose vajra[-essence] is fully pure—*a ā aṃ aḥ*! All phenomena are by nature completely pure—to explain, [they are completely pure] based on their being the complete purity that is Mañjuśrī, the wisdom body of all *tathāgata*s—*a āḥ*! Seize, seize the heart of all *tathāgata*s! *Oṁ hūṃ hrīḥ*—O Blessed One, wisdom body, lord of speech, whose speech is great, who is all Dharma, whose essence is the wisdom of the Dharma realm that is completely pure like stainless space—*āḥ*!
 
 * Some uncertainties about the mantra - where to divide words, etc. I differ in some accounts from Davidson. Unfortunately no VV here; will need to consult more mss to be more certain on the readings. 
 * If *sarva-vāca* is correct, perhaps it is a non-standard vocative of *vāk*? I take *sarvadharma* outside of compound; otherwise I don't find it construes well.
@@ -3923,7 +3925,7 @@ The Blesssed One, the lord *tathāgata*; (163)
 > gsang bstod nas ni tshig 'di gsol/ /  
 
 And with a host of other Vajrapāṇis—  
-Of varied forms, the lords of *guhyaka*s,   
+Of varied forms, the lords of *guhyaka*s,  
 Sublime protectors, noble wrathful kings—   
 He then exclaimed this effervescent praise: (164)  
 
@@ -3945,7 +3947,7 @@ He then exclaimed this effervescent praise: (164)
 > 'gro ba'i mgon med rnams dang ni/ /  
 
 Protector, we rejoice! How excellent!  
-How excellent what you have taught to us!  
+How excellent what you have clearly taught!  
 Through you our lofty aim has been achieved,  
 Which leads to true and full awakening; (165)  
 
@@ -3989,7 +3991,7 @@ The noble path that leads to excellence: (166)
 
 With largeness, vastness, and profundity,  
 With meaning great, achieving beings' aims,  
-Just this comprises every buddha's sphere,   
+Just this comprises every buddha's sphere,  
 Just this is taught by all awakened ones. (167)  
 
 
@@ -3998,10 +4000,17 @@ Just this is taught by all awakened ones. (167)
 
 > 'phags pa rnal 'byor chen po'i rgyud sgyu 'phrul dra ba stong phrag bcu drug pa ting nge 'dzin dra ba'i le'u las phyung ba/ bcom ldan 'das 'jam dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/ bcom ldan 'das de bzhin gshegs pa shAkya thub pas gsungs pa rdzogs so// //  
 
-This concludes the supreme *Chanting of the Names of the Blessed One Mañjuśrī, the Wisdom Deity*. Extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its chapter on the net of *samādhi*, it was spoken by the Blessed One Śākyamuni, the *tathāgata*.  
+This concludes the supreme *Chanting of the Names of the Blessed One Mañjuśrī, the Wisdom Deity*. It was extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its chapter on the net of *samādhi*. It was spoken by the Blessed One Śākyamuni, the *tathāgata*.  
 
-* Translated based on Tib.. Maybe the Sanskrit should read something like '... mahāyogatantrād antaḥpātitāḥ ...'?   
+* Translated based on Tib.. Maybe the Sanskrit should read something like '... mahāyogatantrād antaḥpātitāḥ ...'?  
 
 
 ## Kangyur colophon:
 > thun mong dang thun mong ma yin pa'i gsung rab thams cad la dbang 'byor pa'i bdag nyid chen po bla ma dam pa chos kyi rgyal po'i bka' drin gyis nye bar bskyangs pa/ sgra bsgyur gyi lo tsA ba dge slong blo gros brtan pas/ bsam gtan gling gi dben gnas su legs par bsgyur cing dag par byas pa'o/ /sngon gyi sgra bsgyur chen po de dag gis/ /rgyud 'di bsgyur cing kun la grags lags mod/ /'on kyang sgra don gtsug lag ji bzhin du/ /rgyud 'di blo brtan gnyis pas legs par bsgyur/ /zab cing rgya che rdo rje theg pa yi/ /nges don ye shes don gnyer skyes bu dag/chos dang don la legs par mi rton par/ /gang zag tshig 'bru'i rjes su ma 'brang zhig /
+
+
+## Translator colophon:
+Translated by Ryan Conlon with the assistence of Stefan Mang.
+Special thanks to Prof. Harunaga Isaacson, Adam Pearcey, and others for offering valuable suggestions that greatly improved our work.
+The translation is based on the *Nāmasaṅgīti*'s Sanskrit text, for which we used as our main interpretative guides the ancient Tibetan translation (here printed alongside the English text), as well as commentaries by Vilāsavajra and Vimalamitra.
+For a version of the translation with detailed text-critical notes, a collection transcriptions of source materials, and a discussion of methodology etc., please visit https://github.com/con-jo-ry/NaSa.
