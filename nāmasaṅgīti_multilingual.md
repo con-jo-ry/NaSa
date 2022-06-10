@@ -170,7 +170,7 @@ Their bodies bowing reverentially—(5)
 >> 	'dug ste] VM; 'dug te NG  
 
 Paid homage to the true awakened one,  
-Protector, Blessed One, *tathāgata*.  
+Protector, Blessed One, Tathāgata.  
 And joining his two palms respectfully,  
 He said before the lord the following: (6)  
 
@@ -395,7 +395,7 @@ So ignorance may fully be dispelled.' (15)
 > gsol nas thal mo sbyar byas te/ /  
 > lus btud nas ni spyan sngar 'dug /  
 
-With this request to the *tathāgata*,  
+With this request to the Tathāgata,  
 The master of all secrets, Vajrapāṇi—  
 His body bowed, his palms politely joined—  
 Then stood before the lord devotedly. (16)  
@@ -3927,7 +3927,7 @@ This concludes five verses of praise for the wisdom of the five *tathāgata*s.
 Then Vajradhara, ever glorious,  
 Most pleased and satisfied, with folded palms,  
 Prostrated to the Buddha, noble guard,  
-The Blesssed One, the lord *tathāgata*; (163)  
+The Blesssed One, the lord Tathāgata; (163)  
 
 
 > anyaiś ca bahuvidhair nāthair guhyendrair vajrapāṇibhiḥ |  
@@ -4019,7 +4019,7 @@ Just this is taught by all awakened ones. (167)
 
 > 'phags pa rnal 'byor chen po'i rgyud sgyu 'phrul dra ba stong phrag bcu drug pa ting nge 'dzin dra ba'i le'u las phyung ba/ bcom ldan 'das 'jam dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/ bcom ldan 'das de bzhin gshegs pa shAkya thub pas gsungs pa rdzogs so// //  
 
-This concludes the supreme *Chanting of the Names of the Blessed One Mañjuśrī, the Wisdom Deity*. It was extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its chapter on the net of *samādhi*. It was spoken by the Blessed One Śākyamuni, the *tathāgata*.  
+This concludes the supreme *Chanting of the Names of the Blessed One Mañjuśrī, the Wisdom Deity*. It was extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its chapter on the net of *samādhi*. It was spoken by the Blessed One Śākyamuni, the Tathāgata.  
 
 * Translated based on Tib.. Maybe the Sanskrit should read something like '... mahāyogatantrād antaḥpātitāḥ ...'?  
 

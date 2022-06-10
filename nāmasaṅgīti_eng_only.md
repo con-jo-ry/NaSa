@@ -49,7 +49,7 @@ Their bodies bowing reverentially—(5)
 
 
 Paid homage to the true awakened one,  
-Protector, Blessed One, *tathāgata*.  
+Protector, Blessed One, Tathāgata.  
 And joining his two palms respectfully,  
 He said before the lord the following: (6)  
 
@@ -110,7 +110,7 @@ In order that afflictions may be quelled,
 So ignorance may fully be dispelled.' (15)  
 
 
-With this request to the *tathāgata*,  
+With this request to the Tathāgata,  
 The master of all secrets, Vajrapāṇi—  
 His body bowed, his palms politely joined—  
 Then stood before the lord devotedly. (16)  
@@ -1160,7 +1160,7 @@ O body of wisdom, homage to you! (162)
 Then Vajradhara, ever glorious,  
 Most pleased and satisfied, with folded palms,  
 Prostrated to the Buddha, noble guard,  
-The Blesssed One, the lord *tathāgata*; (163)  
+The Blesssed One, the lord Tathāgata; (163)  
 
 
 And with a host of other Vajrapāṇis—  
@@ -1188,7 +1188,7 @@ Just this is taught by all awakened ones. (167)
 
 
 ## Colophon:
-This concludes the supreme *Chanting of the Names of the Blessed One Mañjuśrī, the Wisdom Deity*. It was extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its chapter on the net of *samādhi*. It was spoken by the Blessed One Śākyamuni, the *tathāgata*.  
+This concludes the supreme *Chanting of the Names of the Blessed One Mañjuśrī, the Wisdom Deity*. It was extracted from the noble *Net of Illusion*, a *mahāyoga* tantra in sixteen thousand parts, from its chapter on the net of *samādhi*. It was spoken by the Blessed One Śākyamuni, the Tathāgata.  
 
 ## Translator colophon:
 Translated by Ryan Conlon with the assistence of Stefan Mang.
