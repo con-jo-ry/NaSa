@@ -18,7 +18,7 @@
 
 # Chanting the Names of Mañjuśrī[^1]  
 
-[^1]: *Chanting the Names of Mañjuśrī*, commonly known as simply the *Nāmasaṅgīti*, is one of the most highly revered tantras throughout all lineages and practice systems of Vajrayāna Buddhism. In it Buddha Śākyamuni teaches Vajrapāṇi and his retinue a list of names for the wisdom body of Mañjuśrī, the heart of all *tathāṅata*s. Expressed in attractive and at time playful verses, the names evoke an extremely vast array of topics and images, from the mundane to the transcendent, and from the quiescent to the ferocious. The *Nāmasaṅgīti* has had a central role in the daily chanting of Buddhist practitioners for centuries, and it is also commonly the first text to be recited on special occasions. **Description of text**
+[^1]: *Chanting the Names of Mañjuśrī*, commonly known as simply the *Nāmasaṅgīti*, is one of the most highly revered tantras throughout all lineages and practice systems of Vajrayāna Buddhism. In it Buddha Śākyamuni teaches Vajrapāṇi and his retinue a list of names for the wisdom body of Mañjuśrī, the heart of all *tathāgata*s. Expressed in attractive and at time playful verses, the names evoke an extremely vast array of topics and images, from the mundane to the transcendent, and from the quiescent to the ferocious. The *Nāmasaṅgīti* has had a central role in the daily chanting of Buddhist practitioners for centuries, and it is also commonly the first text to be recited on special occasions. **Description of text**
 
 
 > [D 1v] rgya gar skad du/ many+dzu shrI dz+nyA na sa twa s+ya pa ra mAR+tha nA ma saM gI ti/ bod skad du/ 'jam dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/ 
@@ -76,12 +76,13 @@ The vajra lord and master of all secrets, (1)
 >>     lag gis] NG; lag gi VM  
 
 With eyes wide open like white lotuses,   
-His face just like a lily in full bloom,  
+His face just like a lily in full bloom,[^2-1]  
 While shaking in his hand repeatedly  
 A vajra of the highest excellence—(2)  
 
-* 2b, protphullakamalānanaḥ: Some witness ancient translation read 'seated on on a lotus in full bloom' (*pad+ma rgyas pa'i gdan la bzhungs*).  
+[^2-1]: Some witnesses of the ancient translations have an alternative reading (*pad+ma rgyas pa'i gdan la bzhungs*), which can be translated 'seated atop a seat that is a lily in full bloom'.
 
+* 2b, protphullakamalānanaḥ: Some witness ancient translation read 'seated on on a lotus in full bloom' (*pad+ma rgyas pa'i gdan la bzhungs*). BUDA hits: 17 for zhal mnga' ba, 21 for gdan la bzhugs, 7 for the bKa' 'gyur reading.
 
 > bhṛkuṭītaraṅgapramukhair anantair vajrapāṇibhiḥ |  
 > durdāntadamakair vīrair vīrabībhatsarūpibhiḥ || 3 ||  
@@ -97,6 +98,7 @@ A vajra of the highest excellence—(2)
 > dpa' bo gdul dka' 'dul ba po/ /  
 > 'jigs su rung dang dpa' byed can/ /  
 >> 	3c gdul dka'] VM; 'dul dka' NG  
+>>    3d should probably read dpa' byad can, check ms.
 
 Accompanied by countless Vajrapāṇis,  
 With features such as fierce, turbulent brows,  
@@ -314,7 +316,7 @@ By all the buddhas of the present age; (12)
 
 > rgyud chen sgyu 'phrul dra ba las/ /  
 > rdo rje 'chang chen gsang sngags 'chang/ /  
-> dpag med rnams kyis bga' bzhin du/ /  
+> dpag med rnams kyis dga' bzhin du/ /  
 > glur bslangs gang lags bshad du gsol/ /  
 >> 	13a dra ba] VM; 'dra ba NG  
 >> 	13c kyis dga' bzhin du] em.; kyi bka' bzhin du VM NG  
@@ -479,9 +481,10 @@ To Vajrapāṇi, strongest of the strong: (19)
 > snying rje che dang ldan gyur cing/ /  
 
 > snying rje che dang ldan gyur pas/ /  
-> 'gro la phan'i don du khyod/ /  
+> 'gro la phan pa'i don du khyod/ /  
 > ye shes lus can 'jam dpal gyi/ /  
-> ming brjod pas ni don che ba/ /  
+> ming brjod pa ni don che ba/ /  
+>> ming brjod pa ni] em.; ming brjod pas ni ms
 
 'That you, abounding in supreme compassion  
 And aiming to assist all living beings,  
@@ -523,10 +526,11 @@ How excellent of you, O Vajrapāṇi! (21)
 > bcom ldan de ni legs zhes gsol/ /  
 > lan gyi gsung tshigs su bcad pa drug go// //  
 
-> gsang ba'i bdag po de phyir nges/ /  
+> gsang ba'i bdag po de phyir ngas/ /  
 > khyod la legs par bstan par bya/ /  
 > khyod ni rtse gcig yid kyis nyon/ /  
 > bcom ldan de ni legs zhes gsol/ /  
+>> nges] em.; ngas ms
 
 And so I shall, O master of all secrets,  
 Reveal just that to you most splendidly.  
@@ -698,7 +702,7 @@ Beyond expression based on words or speech,
 The foremost cause of every form of speech,  
 The shining forth of every kind of language, (29)  
 
-[^29-1]: When used in reference to letters, the word *mahāprāṇa* means 'aspiration', which would normally not apply to a vowel such as *a*. Vimalamitra explains that the vowel *a* is unique in not depending on the teeth, nose, tongue, and so forth for its articulation; rather, it arises simply from *prāṇa*, a person's vital force. Thus the word *mahāprāṇa* connotes something that is naturally arisen from the vital force alone.  
+[^29-1]: When used in reference to letters, the word *mahāprāṇa* (translated here as 'arising from great vital force') means 'aspiration', which would normally not apply to a vowel such as *a*. Vimalamitra explains that the vowel *a* is unique in not depending on the teeth, nose, tongue, and so forth for its articulation; rather, it arises simply from *prāṇa*, a person's vital force. Thus the word *mahāprāṇa* connotes something that is naturally arisen from the vital force alone.  
 
 * VV seems to say that *suprabhāsvara* is the shining forth (understood *bhāve*) of language in the minds of sentient beings, and Mañjuśrī manifests in that form. The translation in Tribe 2016: 149 seems a bit off here.  
 
@@ -1101,7 +1105,7 @@ With speech and actions perfectly aligned, (46)
 > gnyis med gnyis su med par ston/ /  
 > yang dag mtha' la rnam par gnas/ /  
 > bdag med seng ge'i sgra dang ldan/ /  
-> mu stegs ri dags ngan 'jigs byed/ /  
+> mu stegs ri dvags ngan 'jigs byed/ /  
 
 A teacher of the non-dual truth, non-dual,  
 Atop reality's most lofty peak,  
@@ -1151,6 +1155,7 @@ A universal king, with forces great,[^48-2] (48)
 > tshogs rje tshogs bdag dbang dang ldan/ /  
 > mthu chen gces par 'dzin pa ste/ /  
 > tshul chen gzhan gyis 'dring mi 'jog/ /  
+>> gzhan gyi drin mi 'jog] em.; gzhan gyi dring mi 'jog ms.
 
 Assembly head, instructor for assemblies,  
 Assembly lord, assembly chief, the ruler,  
@@ -1220,8 +1225,9 @@ The single cause of all great elements, (51)
 > dge slong dgra bcom zag [VM f. 15r] pa zad/ /  
 > 'dod chags bral ba dbang po thul/ /  
 > bde ba rnyed pa 'jigs med thob/ /  
-> bsil bar gyur pas rnyog pa med/ /  
-> 	% monlam has bral bas, rnyed pas, gyur pas  
+> bsil bar gyur pa rnyog pa med/ /  
+>> 	% monlam has bral bas, rnyed pas, gyur pas  
+>> bsil bar gyur pa] em.; °gyur pas ms
 
 *Arhat*, *bhikṣu*, defilements exhausted,  
 Devoid of passion, master of the senses,  
@@ -1412,10 +1418,10 @@ With all five eyes,[^59-2] maintaining non-attachment, (59)
 
 > sangs rgyas thams cad skyed pa po/ /  
 > sangs rgyas sras po dam pa'i mchog /  
-> [VM f. 16v] shes pa srid 'phyung skye gnas med/ /  
-> chos las byung ba srid pa sel/ /  
->> 	60c shes pa srid 'phyung] VM; shes pas sri 'byung monlam  
->> 	chos las byung ba] VM; chos las 'byung ba monlam  
+> [VM f. 16v] shes pa srid 'byung skye gnas med/ /  
+> chos las 'byung ba srid pa sel/ /  
+>> 	60c shes pa srid 'byung] monlam; shes pas sri 'phyung VM  
+>> 	chos las 'byung ba] monlam; chos las byung ba] VM;  
 
 The great progenitor of all the buddhas,  
 The buddhas' eminent and foremost son,  
@@ -1459,9 +1465,10 @@ A massive blaze of knowledge and of insight, (61)
 > gzi brjid chen po 'od gsal ba/ /  
 
 > 'od chen rnam par snang bar byed/ /  
-> ye shes skar ma lam me ba/ /  
+> ye shes snang ma lam me ba/ /  
 > 'gro ba'i mar me ye shes sgron/ /  
 > [VM f. 17r] gzi brjid chen po 'od gsal ba/ /  
+>> ye shes snang ba] monlam; ye shes skar ma VM. BUDA: ye shes skar ma 19; 219
 
 Illuminating,[^62-1] beacon of great light,  
 A lamp of wisdom, shining brilliantly,  
@@ -1506,10 +1513,10 @@ The lord of space, revealer of all things, (63)
 > sangs rgyas kun kyi sku yi mchog /  
 > 'gro ba dga' ba'i mig dang ldan/ /  
 > sna tshogs gzugs can skyed pa po/ /  
-> [VM f. 17v]drang srong ched gus mchod cing brjod/ /  
+> [VM f. 17v] mchod cing rjed pa drang song che/ /  
 >> 	64a] monlam reads as sde dge  
 >> 	64b 'gro ba] VM; 'gro kun monlam  
->> 	64d] mchod cing rjod pa drang srong che  
+>> 	64d] drang srong ched gus mchod cing brjod/ / VM; mchod cing rjod pa drang srong che Monlam (BUDA 31)  
 
 The best embodiment of every buddha,  
 With eyes the joy of every living being,  
@@ -1611,7 +1618,7 @@ Baring his terrible fangs, a skeleton,
 > rdo rje grags pa rdo rje'i snying/ /  
 > sgyu 'phrul rdo rje gsus po che/ /  
 
-> gzhin rje gshed po bgegs kyi rgyal/ /  
+> gshin rje gshed po bgegs kyi rgyal/ /  
 > rdo rje shugs can 'jigs byed pa/ /  
 > [VM f. 18v] rdo rje grags pa rdo rje snying/ /  
 > sgyu 'phrul rdo rje gsus po che/ /  
@@ -1803,7 +1810,7 @@ Six-syllabled, producing vajra rumbles, (75)
 > me long lta bu'i ye shes kyi tshigs su bcad pa rkang pa dang bcas pa bcu'o// //  
 
 > 'jam dbyangs chen po sgra che ba/ /  
-> 'jig rten gsum gcig sgra gcig pa/ /  
+> 'jig rten gsum na sgra gcig pa/ /  
 > nam mkha'i mtha' la sgra sgrogs pa/ /  
 > sgra dang ldan pa rnams kyi mchog /  
 > 	% a chen po'i - monlam; mtha' klas - monlam;   
@@ -1857,8 +1864,8 @@ Unspoken; teaching both the deep and vast; (77)
 > chos kyi dung ste sgra chen ldan/ /  
 > chos kyi gaN+DI sgra bo che/   
 > mi gnas mya ngan 'das pa po/ /  
-> phyogs bcu chos kyi rnga bo che/ /  
-> 	% phyogs bcu'i - monlam  
+> phyogs bcu'i chos kyi rnga bo che/ /  
+> 	% phyogs bcu - VM
 
 The Dharma conch, emitting piercing sound,  
 The Dharma gong, with lasting resonance,  
@@ -2306,7 +2313,7 @@ The state devoid of passion, free from substrates, (96)
 
 > thub pa med pa dpe med pa/ /  
 > mi mngon mi snang gsal byed min/ /  
-> mi 'gyur kun 'gro khap pa po/ /  
+> mi 'gyur kun 'gro khyab pa po/ /  
 > phra zhing [f. 55r] zag med sa bon bral/ /  
 
 Beyond defeat, unmanifest, unmatched,  
@@ -2515,7 +2522,7 @@ Pervasive with his precious parasol, (105)
 > sangs rgyas kun gyi bstan pa gcig /  
 
 > sangs rgyas kun gyi gzi brjid che/ /  
-> sangs rgyas kun sku 'chang [NyiGyu f. 55v] ba/ /  
+> sangs rgyas kun gyi sku 'chang [NyiGyu f. 55v] ba/ /  
 > sangs rgyas kun gyi rnal 'byor che/ /  
 > sangs rgyas kun gyi bstan pa gcig /  
 >> 	gyi gzi brjid che] em.; kyi gzi brjid che NyiGyu  
@@ -2650,7 +2657,7 @@ Completely pure, the highest syllable, (111)
 
 > theg pa chen po sdug bsngal gcod/ /  
 > mtshon cha chen po rdo rje chos/ /  
-> rdo rje zab mo dzin na dzik /  
+> rdo rje zab mo dzi na dzik /  
 > rdo rje blo gros don bzhin rig /  
 >> 	mtshon cha] em.; tshon cha NyiGyu  
 >> 	dzin na] em.; 'dzin na NyiGyu  
@@ -2791,7 +2798,7 @@ The vanquisher of hosts of evil spirits; (117)
 > so sor gzigs pa'i ye shes kyi tshigs su bcad pa bzhi bcu rtsa gnyis so// //  
 
 > mi g.yo rab tu dang ba'i bdag /  
-> rdzogs pa'i sangs rgas byang chub 'chang/ /  
+> rdzogs pa'i sangs rgyas byang chub 'chang/ /  
 > sangs rgyas kun gyi mngon sum pa/ /  
 > ye shes me lce 'od rab gsal/ /  
 > so sor kun rtogs pa'i ye shes kyi stong [?] pa'i le'u ste brgyad pa'o// //  
@@ -2836,11 +2843,12 @@ The earnest liberator of all creatures, (119)
 
 > nyon mongs g.yul du gcig dpa' ba/ /  
 > mi shes dgra yi dregs pa 'joms/ /  
-> dpal ldan blo dang sgegs par ldan/ /  
-> bstan po mi sdug gzugs 'chang ba/ /  
+> blo ldan sgeg 'chang dpal dang ldan/ /  
+> brtan po mi sdug gzugs 'chang ba/ /  
 >> 	dgra] em.; sgra'i NyiGyu  
 >> 	'joms] em.; 'jom NyiGyu  
->> 	dpal ldna blo dang sgegs par ldan/ /] NyiGyu; blo ldan sgeg 'chang dpal dang ldan  
+>>    blo ldan sgeg 'chang dpal dang ldan] vm; dpal ldna blo dang sgegs par ldan/ /] NyiGyu;   
+>>    brtan po em.; bstan po NyiGyu
 
 Unrivalled knight in battle with afflictions,  
 Humiliating ignorance—his foe,  
@@ -2891,12 +2899,13 @@ And filling it with Śrīmat’s hundred arms,[^121-1] (121)
 > [7r]tshangs pa'i sgo nga'i rtse mo gnon/ /  
 > rkang mtheb sen mo la gnas pa/ /  
 
-> sa'i dkyil 'khor gzhi'i khyon/ /  
+> sa y'i dkyil 'khor gzhi yi khyon/ /  
 > rkang pa ya gcig mthil gyis gnon/ /  
-> rkang thebs sen mo'i khyon gyis kyang/ /  
+> rkang mtheb sen mo'i khyon gyis kyang/ /  
 > tshangs pa'i yul sa rtse nas gnon/ /  
-> 	sa'i] em.; si'i NyiGyu  
-> 	gzhi'i khyon] em.; bzhi'i khyon NyiGyu  
+> 	sa yi] em.; si'i NyiGyu  
+> 	gzhi yi khyon] em.; bzhi'i khyon NyiGyu  
+>  rkang mtheb] em.; rkang thebs NyiGyu
 > 	mthil gyis] em.; mthil gyi NyiGyu  
 > 	sen mo'i] em.; sen mo NyiGyu  
 
@@ -2967,8 +2976,9 @@ With great enjoyment for the threefold world, (124)
 > sprin dkar dag pa bzhin du dkar/ /  
 > 'od bzangs ston ka'i zla ba'i 'od/ /  
 > nyi ma 'char ka'i dkyil ltar mdzes/ /  
-> sen mo'i 'od ni shes cher dmar/ /  
+> sen mo'i 'od ni shas cher dmar/ /  
 >> 	sprin dkar] VM; sprin dka' NyiGyu  
+>>		shas cher] em.;
 
 With fair complexion white like pristine clouds,  
 With radiance like beams from autumn moons,  
@@ -3194,11 +3204,11 @@ Who knows each moment’s object for all minds, (134)
 > theg pa gcig gi 'bras bur gnas/ /  
 
 > theg pa sna tshogs thabs tshul gyis/ /  
-> 'gro ba'i don la ston pa po/ /  
+> 'gro ba'i don la stogs pa po/ /  
 > theg pa gsum gyi nges 'byung la/ /  
 > theg pa gcig gi 'bras bur gnas/ /  
 >> 	tshul gyis] VM; tshul gyi NyiGyu  
->> 	ston pa po] NyiGyu; stogs pa po VM  
+>> 	stogs pa po] VM; ston pa po NyiGyu  
 
 And manifesting for the sake of beings   
 With means derived from varied vehicles,  
@@ -3218,8 +3228,9 @@ Remaining in the single vehicle’s fruit, (135)
 
 > nyon mongs khams rnams dag pa'i bdag /  
 > las kyi khams rnams zad byed pa/ /  
-> chu bo rgya mtsho kun las rgal/ /  
+> chu bo rgya mtsho kun las brgal/ /  
 > sbyor ba'i dgon pa las byung ba/ /  
+>> brgal] em.;  
 
 With purified afflictive spheres[^136-1] at heart,  
 Annihilating every karmic spheres,  
@@ -3262,10 +3273,11 @@ Achieving fruitful aims for living beings; (137)
 
 > 'du shes kun gyi don spangs shing/ /  
 > rnam shes don ni 'gag par byed/ /  
-> sems can kun gyi yid dang ldan/ /  
+> sems can kun yid yul dang ldan/ /  
 > sangs rgyas kun gyi thugs rig pa/ /  
 >> 	'gag par byed] VM; 'gags par byed NyiGyu  
->> 	yul dang ldan] NyiGyu; yid dang ldan VM  
+>> 	yid yul dang ldang] em.; gyi yul dang ldan] NyiGyu; gyi yid dang ldan VM  
+>>   sems can kun gyi yid rig pa Monlam 
 
 Abiding object-free through all perceptions,[^138-1]  
 With consciousness as object, with cessation,  
@@ -3530,10 +3542,11 @@ The highest lord of *pramatha*s,[^148-1] Pramatha, (148)
 > 'jig rten phyogs bcur rab grags pa/ /  
 > chos kyi sbyin bdag che ba po/ /  
 
-> srid pa'i dgon pa las rgal ba/ /  
+> srid pa'i dgon pa las brgal ba/ /  
 > ston pa gcig pu 'gro ba'i bla/ /  
 > 'jig rten phyogs bcur rab grags pa/ /  
 > chos kyi sbyin bdag che ba po/ /  
+>> brgal ba] em.  
 
 Emerged from cyclic life's imposing forest;  
 The single teacher; guru for all beings;  
@@ -3921,7 +3934,7 @@ The Blesssed One, the lord *tathāgata*; (163)
 
 > [NyiGyu f. 59v]de ni mgon po gsang ba'i bdag /  
 > lag na rdo rje khro bo'i rgyal/ /  
-> sna tshog gzhan dang lhan cig tu/ /  
+> sna tshogs gzhan dang lhan cig tu/ /  
 > gsang bstod nas ni tshig 'di gsol/ /  
 
 And with a host of other Vajrapāṇis—  

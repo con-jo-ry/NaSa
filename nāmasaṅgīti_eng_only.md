@@ -1,6 +1,6 @@
 # Chanting the Names of Mañjuśrī[^1]  
 
-[^1]: *Chanting the Names of Mañjuśrī*, commonly known as simply the *Nāmasaṅgīti*, is one of the most highly revered tantras throughout all lineages and practice systems of Vajrayāna Buddhism. In it Buddha Śākyamuni teaches Vajrapāṇi and his retinue a list of names for the wisdom body of Mañjuśrī, the heart of all *tathāṅata*s. Expressed in attractive and at time playful verses, the names evoke an extremely vast array of topics and images, from the mundane to the transcendent, and from the quiescent to the ferocious. The *Nāmasaṅgīti* has had a central role in the daily chanting of Buddhist practitioners for centuries, and it is also commonly the first text to be recited on special occasions.
+[^1]: *Chanting the Names of Mañjuśrī*, commonly known as simply the *Nāmasaṅgīti*, is one of the most highly revered tantras throughout all lineages and practice systems of Vajrayāna Buddhism. In it Buddha Śākyamuni teaches Vajrapāṇi and his retinue a list of names for the wisdom body of Mañjuśrī, the heart of all *tathāgata*s. Expressed in attractive and at time playful verses, the names evoke an extremely vast array of topics and images, from the mundane to the transcendent, and from the quiescent to the ferocious. The *Nāmasaṅgīti* has had a central role in the daily chanting of Buddhist practitioners for centuries, and it is also commonly the first text to be recited on special occasions.
 
 ## Scribe/translator's homage:
 
@@ -17,9 +17,11 @@ The vajra lord and master of all secrets, (1)
 
 
 With eyes wide open like white lotuses,   
-His face just like a lily in full bloom,  
+His face just like a lily in full bloom,[^2-1]  
 While shaking in his hand repeatedly  
 A vajra of the highest excellence—(2)  
+
+[^2-1]: Some witnesses of the ancient translations have an alternative reading (*pad+ma rgyas pa'i gdan la bzhungs*), which can be translated 'seated atop a seat that is a lily in full bloom'.
 
 
 Accompanied by countless Vajrapāṇis,  
@@ -203,6 +205,8 @@ Arising from great vital force,[^29-1] unborn,
 Beyond expression based on words or speech,  
 The foremost cause of every form of speech,  
 The shining forth of every kind of language, (29)  
+
+[^29-1]: When used in reference to letters, the word *mahāprāṇa* (translated here as 'arising from great vital force') means 'aspiration', which would normally not apply to a vowel such as *a*. Vimalamitra explains that the vowel *a* is unique in not depending on the teeth, nose, tongue, and so forth for its articulation; rather, it arises simply from *prāṇa*, a person's vital force. Thus the word *mahāprāṇa* connotes something that is naturally arisen from the vital force alone.  
 
 
 Great feast[^30-1] who takes the form of great passion,  
