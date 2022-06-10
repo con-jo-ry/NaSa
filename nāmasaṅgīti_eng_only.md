@@ -2,13 +2,19 @@
 
 [^1]: *Chanting the Names of Mañjuśrī*, commonly known as simply the *Nāmasaṅgīti*, is one of the most highly revered tantras throughout all lineages and practice systems of Vajrayāna Buddhism. In it Buddha Śākyamuni teaches Vajrapāṇi and his retinue a list of names for the wisdom body of Mañjuśrī, the heart of all *tathāgata*s. Expressed in attractive and at time playful verses, the names evoke an extremely vast array of topics and images, from the mundane to the transcendent, and from the quiescent to the ferocious. The *Nāmasaṅgīti* has had a central role in the daily chanting of Buddhist practitioners for centuries, and it is also commonly the first text to be recited on special occasions.
 
+In Indian language: *Āryamañjuśrīnāmasaṅgīti*[^2]   
+In Tibetan: *pakpa jampal gyi tsen yangdakpar jöpa*  
+In English: Chanting the Names of the Noble Mañjuśrī  
+
+[^2]: Note that so far we can presently determine, the title *(Ārya)mañjuśrīnāmasaṅgīti* does not appear to be attested in original Sanskrit sources and can only be found in Tibetan renderings of the Sanskrit title or in modern literature. The tantra's most common title in Sanskrit is simply *Nāmasaṅgīti* ('Chanting the Names'), while the colophons to the tantra itself gnerally give the full title as *Bhagavato Mañjuśrījñānasattvasya Paramārthā Nāmasaṅgītiḥ* ('The Supreme Name Chanting of the Blessed One, the Wisdom Deity Mañjuśrī').  
+
 ## Scribe/translator's homage:
 
 Homage to ever-youthful Mañjuśrī!  
 
-## 1. The request[^2] 
+## 1. The request[^3] 
 
-[^2]: The chapter titles are included in many but not all witnesses of the *Nāmasaṅgīti* and its translations. Commentators employ them to explain the structure of the text. They are generally not chanted aloud by contemporary practitioners who recite the text.
+[^3]: The chapter titles are included in many but not all witnesses of the *Nāmasaṅgīti* and its translations. Commentators employ them to explain the structure of the text. They are generally not chanted aloud by contemporary practitioners who recite the text.
 
 Then Vajradhara, ever glorious,  
 Supreme subduer of the hard to tame,  

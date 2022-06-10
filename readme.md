@@ -2,8 +2,8 @@
 
 ## Introduction 
 This repository contains a translation of the *Nāmasaṅgīti* by Ryan Conlon and Stefan Mang, accompanied by some other related materials.
-We have been preparing this translation in the hope of making it available on the [Lotsawa House](https://www.lotsawahouse.org/) website.
-Our work is still very much in draft form; but even after its completion/publication, we intend maintain this repository (1) for the sake of version control (i.e., tracking changes); (2) to store collations, transcriptions, and analysis of relevant textual materials; and (3) to have a stable and publicly accessible location to share information and receive feedback. 
+We have prepared this translation to make it available on the [Lotsawa House](https://www.lotsawahouse.org/) website.
+Our work has more or less reached it final form, but we intend to continually maintain this repository (1) for the sake of version control (i.e., tracking changes); (2) to store collations, transcriptions, and analysis of relevant textual materials; and (3) to have a stable and publicly accessible location to share information and receive feedback. 
 
 We are aware of at least six previously published complete translation of the *Nāmasaṅgīti* into English, as well as one partial translation. 
 These translations are already fine achievements in their own right; nevertheless, we hope our present effort can be seen as offering two modest but unique features: 
@@ -23,6 +23,7 @@ To this we must make a few further qualifications:
 The ancient translation—having many available witnesses but, to our knowledge, no single exemplary witness or edition—itself has a significant number of variants that should be taken into consideration.
 We have not been able to critically establish the text of the ancient translation, which would be extremely difficult; instead, we have mostly relied on one witness embedded in Vimalamitra's commentary on the *Nāmasaṅgīti*, a witness in a printing of the rNying ma rgyud 'bum, and a witness found in a modern prayer book.
 On occasion, we have emended or proposed conjectures to the ancient translation based on other factors, such as the Sanskrit text or the Kangyur translation.
+On other occasions, we have adopted a reading that, it would appear, is the most popular in witnesses of the text as it is used today, and that is not in conflict with the Sanskrit text and/or meaningful sense.
 
 Second, while the ancient translation does provide some help in unpacking the many compound words found throughout the *Nāmasaṅgīti*, more often than not it gives no explicit guidance.
 Thus, as a secondary authority, we have thoroughly consulted the commentary of Vilāsavajra.
@@ -31,10 +32,10 @@ We generally follow Vilāsavajra's lead in analysing compounds, except when his 
 Third, there are at least a few occasions where we have simply overruled the text of the ancient translation.
 While this translation is generally of extremely high quality, there are a few cases where we simply cannot accept the interpretation it offers, either because of the weight of the textual evidence against it, or because it is simply not sufficiently coherent. 
 
-We generally strive to offer a translation that is more 'literal' than poetic; however, because of the constrains imposed by the blank verse, we do allow ourselves various liberties.
+Initially we sought to offer a translation that is more 'literal' than poetic; however, as creating a text that would be compelling to recite become more of a priority, we began to take more liberties for the sake of metre.
 Some previous translations of the *Nāmasaṅgīti* have attempted to form coherent, independent sentences for most of the verses, but we read the main body of the text as essentially providing what the title implies: a long list of names.
 We separate the names with commas, or with semicolons when the names themselves contain commas.
-Vilāsavajra provides a precise enumeration of how many names are in each chapter, but we have been unable to follow this with absolute strictness; occasionally, we treat what the commentator enumerates as a distinct name as a subsidiary adjective.
+Vilāsavajra provides a precise enumeration of how many names are in each chapter, but we have been unable to follow this with absolute strictness (these enumerations also require further study); occasionally, we treat what the commentator enumerates as a distinct name as a subsidiary adjective.
 
 ## Presentation
 Most of the textual considerations behind our translation are probably of little interest to its readers. 
@@ -56,16 +57,9 @@ The transcription is not complete.
 Some parts are completely unchecked and entered extremely hastily, so use at your own risk!
 We will try to improve it eventually.
 
-
-## To-dos:
-
-* Complete collation of the ancient translation.
-* Decide on inclusion/exclusion of chapter titles, colophons, etc
-* Make notes readable.
-* Copy edit/improve verses with rough metre
-
 ## Acknowledgements
-We are very grateful to Prof. Harunaga Isaacson, Dr. Anthony Tribe, and Nicola Bajetta for kindly sharing materials and/or helping with our points of doubt. 
+We are very grateful to Prof. Harunaga Isaacson and Adam Pearcey for offering valuable suggests have greatly improved the translation in a number of ways.
+We would also like to thank Dr. Anthony Tribe and Nicola Bajetta for kindly sharing materials and/or helping with our points of doubt.
 
 ## Suggestions
 We welcome suggestions!
