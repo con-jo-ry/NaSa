@@ -1134,8 +1134,10 @@ Instilling fear in deer-like misled seekers,[^47-1] (47)
 
 > kun tu 'gro ba'i don yod stobs/ /  
 > de bzhin gshegs pa'i yid ltar mgyogs/ /  
-> rgyal ba rnam rgyal dgra las rgyal/ /  
+> rgyal ba dgra rgyal rnam par rgyal/ /  
 > 'khor los sgyur ba stobs po che/ /  
+>>   rgyal ba dgra rgyal rnam par rgyal] em.; rgyal ba rnam rgyal dgra las rgyal 
+
 
 With journeys fruitful, travelling everywhere,[^48-1]  
 As swift as thought in all *tathāgata*s,  

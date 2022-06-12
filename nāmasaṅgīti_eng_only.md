@@ -679,7 +679,7 @@ He is the greatest bather, Gautama; (94)
 
 
 A brahmin, Brahmā, knower of *brahman*,[^95-1]  
-Awakening, its branches,[^95-2] liberation,  
+Arrived in full at *brahman* *nirvāṇa*,  
 Awakening, its branches,[^95-2] liberation,  
 Release, complete tranquillity, quiescence,[^95-3] (95)  
 
